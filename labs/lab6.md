@@ -10,6 +10,8 @@ Being able to look at a flask of cells and estimate a rough order of magnitude f
 
 ![Different densities of cells are shown in this series of images from a phase contrast microscope in the teaching lab. These cells were cultured in tissue culture flasks you will be using and were counted before and after plating using a hemocytometer. The estimated confluencies are given in percentages and the rough number of cells per cm^2^ are given in parentheses.](labs/graphics/cells.jpg){width=5.9in}
 
+Watch the lab [primer video](https://www.youtube.com/watch?v=7YIXVYzxwwQ).
+
 ## Gauging confluency
 
 You will observe the different densities of your cells under the microscope to help you correlate what you see with a relative number of cells present. Take pictures that are representative of the overall density that you observe.
