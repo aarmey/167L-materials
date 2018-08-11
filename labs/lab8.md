@@ -10,6 +10,8 @@ You will learn how to use the MTS assay, which is a measure of metabolic activit
 
 You will collect and count your cells from your two seeding conditions from 1 well (of your 4), then you will measure metabolic activity with the MTS assay (CellTiter 96) in the remaining wells. You will use some of your left over cells from your counting wells to create a known concentration of cells and serial dilutions to generate a standard curve for cell number. Based on your cell counts and your standard curve, you can determine the accuracy and range of your MTS assay. Compare your results with the rest of the class the next time you meet and discuss what your collective results mean.
 
+Watch the lab [primer video](https://www.youtube.com/watch?v=gvQXVcu_nxM).
+
 ## Gauging confluency
 
 ### Preparation
