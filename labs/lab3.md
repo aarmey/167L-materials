@@ -14,6 +14,8 @@ Once sufficient time has passed for the reaction to take place you will purify t
 
 The degree of labeling on your BSA (how many fluorescent molecules you have on each protein molecule) will affect how strongly fluorescent your protein will be under the microscope. It will also affect the protein's solubility. Moreover, it is an indicator of how well the reaction went. You can calculate the degree of labeling by measuring the absorbance of the solution at two different wavelengths. Proteins most efficiently absorb light with a wavelength of 280*nm*. Fluorescein absorbs most at 494 nm. Measuring the absorbance at these two wavelengths can give you the relative concentrations of protein to fluorescein in your solution, scaled by their molar absorptivity or extinction coefficient. The equations for this calculation are given to you in the procedures below. If you look up the structure of your protein, you can identify how many sites on the protein are potentially able to react with the NHS-fluorescein, for example 10. If the reaction was 100% efficient, you should calculate 10 fluorescein molecules per protein. You will likely have a lower ratio, but hopefully more than 1, meaning you have at least 1 fluorescein per protein and all your proteins are labeled.
 
+Watch the [primer video](https://www.youtube.com/watch?v=et7FT50VShY).
+
 **Optional pre-lab readings:**
 
 Highly Recommended: Stephanopoulos, N., & Francis, M. B. (2011). Choosing an effective protein bioconjugation strategy. *Nature Chemical Biology*, *7*(12), 876--884. doi:10.1038/nchembio.720
