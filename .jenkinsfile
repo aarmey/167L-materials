@@ -22,15 +22,15 @@ pipeline {
           unHealthy: ''])
       }
     }
-    //stage('Deploy') {
-    //  when { expression { env.BRANCH_NAME == 'master' } }
-    //  steps {
-    //    sh 'mkdir -p _site'
-    //    sh 'cp lectures/slides/*.pdf _site/'
-    //    sh 'cd _site; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"'
-    //    sh 'cd _site; git remote add upstream "git@github.com:bioe-ml-w18/prog-class.git"; git fetch upstream; git reset upstream/gh-pages; touch .; git add .'
-    //    sh 'cd _site; git commit -m "Jenkins $BUILD_ID auto-pushed"; git push --force -q upstream HEAD:gh-pages'
-    //  }
-    //}
+    stage('Deploy') {
+      when { expression { env.BRANCH_NAME == 'master' } }
+      steps {
+        sh 'mkdir -p _site'
+        sh 'cp site/pdf/*.pdf _site/'
+        sh 'cd _site; git init; git config user.name "Jenkins CI"; git config user.email "jenkins@asmlab.org"'
+        sh 'cd _site; git remote add upstream "git@github.com:aarmey/167L-materials.git"; git fetch upstream; git reset upstream/gh-pages; touch .; git add .'
+        sh 'cd _site; git commit -m "Jenkins $BUILD_ID auto-pushed"; git push --force -q upstream HEAD:gh-pages'
+      }
+    }
   }
 }
