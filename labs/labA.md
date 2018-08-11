@@ -23,6 +23,8 @@ In addition to the proliferation assays that we have covered in this class, ther
 
 In the second part of this lab you will prepare your PDMS substrates for cell seeding in the lab next week. You will need to prepare them for cell culture. Your TA may ask you to perform this part of your lab first or second to distribute the use of fluorescent microscopes during your lab period.
 
+Watch the lab [primer video](https://www.youtube.com/watch?v=k6JT50oPwV4).
+
 ## Live/Dead stain
 
 Your TA will have the reagents warmed to room temperature. In the future, make sure that they are room temperature before you open them, or water will condense in the tube and degrade the reagents.
