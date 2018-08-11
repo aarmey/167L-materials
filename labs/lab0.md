@@ -15,9 +15,7 @@ Not only will you learn the specific techniques covered in this lab course, but 
 
 ## Preparation
 
-Prior to the lab you must complete and bring the three certificates from for Fundamentals, Chemicals, and General Safety.
-
-<https://www.ehs.ucla.edu/training/training>
+Prior to the lab you must complete and bring the three certificates from [Fundamentals, Chemicals, and General Safety](https://www.ehs.ucla.edu/training/training). Also watch the [lab primer video](https://www.youtube.com/watch?v=DW58qLuqIWQ).
 
 Also to lab, bring your lab coat, and a notebook as outlined by the syllabus.
 
