@@ -6,8 +6,7 @@
 
 ### Prelab reading
 
-Read the article and watch video from JOVE "Microcontact Printing of Proteins for Cell Biology" (see <http://www.jove.com/video/1065/microcontact-printing-of-proteins-for-cell-biology>). PDF is posted on CCLE (Note: A typo exists on page 3 of the print article, line 1. Hydrophilic should be hydrophobic.) The full citation for the article is: Shen K., Qi J., Kam L.C. (2008). Microcontact Printing of Proteins for Cell Biology. JoVE. 22.
-<http://www.jove.com/index/Details.stp?ID=1065>.
+Read the article and watch video from JOVE "[Microcontact Printing of Proteins for Cell Biology](http://www.jove.com/video/1065/microcontact-printing-of-proteins-for-cell-biology)". (Note: A typo exists on page 3 of the print article, line 1. Hydrophilic should be hydrophobic.) The full citation for the article is: Shen K., Qi J., Kam L.C. (2008). [Microcontact Printing of Proteins for Cell Biology](http://www.jove.com/index/Details.stp?ID=1065). JoVE. 22. Watch the [primer video](https://www.youtube.com/watch?v=xieEooVcmWw&list=PLDj2JVIfnYPhvlB6pLNJDBwWgsTXf3Q4i).
 
 In this lab you will be creating several elastomeric stamps through the process of **replica molding** to be used in the next lab for **microcontact printing**. You should be conscious of getting practice with handling polydimethylsiloxane (PDMS), which is a very viscous liquid, and ways to measure its volume and transfer it reliably. Though your specific purpose in making these elastomers is for **microcontact printing**, this technique is also useful for applications in rapid prototyping and microfluidics. These replica molds don't have to be used as stamps.
 
