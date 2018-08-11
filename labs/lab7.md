@@ -17,6 +17,8 @@ Once your proteins have been extracted, you will use the BCA assay to detect tot
 
 For example, if you are growing your cells in a different environment, such as a porous scaffold or a gel, or even collecting cells from a whole tissue rather than culturing individual cells, you may not be able to collect whole cells for counting in a hemocytometer without breaking them apart into debris or losing some of them and decreasing your accuracy. You may also have *too many samples and replicates to realistically count by hand*. Using an assay like this can increase your accuracy of quantifying content and increase your throughput, particularly if you have a microplate reader (which we do!). This assay does not let you look at individual cells, locations of cells and how they are distributed within the culturing environment, or condition of the cells (healthy or sick, spread or rounded, dividing or quiescent). The BCA assay is only a measure of total protein. In later labs you will learn other assays that give you different types of information about your cells.
 
+Watch the lab [primer video](https://www.youtube.com/watch?v=cAPchJ84juk).
+
 ## Growth kinetics: counting and protein assay
 
 ### Preparation
