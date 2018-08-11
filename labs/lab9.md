@@ -6,6 +6,8 @@
 
 Read the first 5 pages of the posted article "Encapsulation of Cells in Alginate Gels". You do not have to read the methods unless you are curious. The procedure outlined below is different from that described in the article. There are two parts to your lab today. You may be asked to start with either the 3D encapsulation or the substrate preparation depending on the time. You will encapsulate your 3T3 cells in alginate hydrogel beads for culture today, and evaluate their viability at different encapsulation densities in the next lab period. The second section of this lab is preparation for your last two defined labs next week. You will prepare substrates of PDMS with varying stiffnesses so that you can seed your 3T3 cells onto them and evaluate their behavior in response to different stiffnesses.
 
+Watch the lab [primer video](https://www.youtube.com/watch?v=g8ja1Fhz360).
+
 ## 3D encapsulation
 
 If time permits, your TA will give a demonstration on how to encapsulate cells in alginate beads before you begin work with your cells. Once you have encapsulated your cells, you will allow them to incubate until the next lab, when you will evaluate them using a new technique that identifies individual live and dead cells.
