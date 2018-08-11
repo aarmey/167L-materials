@@ -6,6 +6,8 @@
 
 Read the article from "Intelligent Substrates", the article by Rahavan and Chen, 2004, Advanced Materials, and the article by Li, et al. 2014, Scientific Reports. PDF files of articles are posted on CCLE.
 
+Watch the lab [primer video](https://www.youtube.com/watch?v=-mQlgLpjEzM&index=8&list=PLDj2JVIfnYPhvlB6pLNJDBwWgsTXf3Q4i).
+
 ## Micro-contact printing
 
 You will pattern a polystyrene well with different concentrations of your fluorescein-BSA from Lab 3. Patterned surfaces are used often in cell biology to probe cell behavior on substrates and cell response to adsorbed chemical signals. This is a useful tool for creating patterns of adhesive proteins that allow specific cell types to adhere in specific patterns. Creating patterned cultures of single cell types or patterned co-cultures of multiple cell types can help researchers study behavior of cells under controlled conditions. Limiting variables by controlling culture conditions allows for more rigorous testing of hypotheses.
