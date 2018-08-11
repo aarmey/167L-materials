@@ -10,7 +10,7 @@ In the laboratory, you will need to interact with both liquid and solid reagents
 
 #### Prelab Preparation
 
-Pipettes and Pipet-Aids cost several hundred dollars EACH. You must have an understanding of how they work in order to prevent possible damage. **Read the Good Laboratory Pipetting Guide from Thermo Fisher.**
+Pipettes and Pipet-Aids cost several hundred dollars EACH. You must have an understanding of how they work in order to prevent possible damage. **Read the Good Laboratory Pipetting Guide from Thermo Fisher.** Watch the [lab primer video](https://www.youtube.com/watch?v=4k0_6ggqs8U&list=PLDj2JVIfnYPhvlB6pLNJDBwWgsTXf3Q4i).
 
 Review the following instructions **PRIOR** to your lab where your TA will demonstrate
 
