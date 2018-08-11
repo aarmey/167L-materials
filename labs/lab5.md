@@ -26,6 +26,8 @@ Cells are living things and can be shocked by quick changes in their environment
 
 This is the first in a series of cell culture labs in which you will learn many ways to quantify cellular behavior and growth kinetics. An essential laboratory skill to cultivate is the ability to perform experiments in parallel and plan ahead. Each lab period you should be prepared to passage your cells to keep them alive and proliferating for use in the next lab, while also performing the experiments of the current lab. In this first lab you will learn how to prepare your cell culture reagents, how to work in a Biological Safety Cabinet with cells, and how to count and passage your cells for continuous proliferation. You will prepare flasks and plates of cells for the next lab in appropriate quantities for estimating confluency and basic hemocytometer cell counting.
 
+Watch the lab [primer video](https://www.youtube.com/watch?v=jAEvHVfcfig).
+
 ## Mammalian cell culture
 
 Refer to the online videos for instruction on how to passage cells. Come to section with questions about cell culture for your TA to assist you. You will be tested on aspects of cell culture on your lab practical exam, so be sure to use your time in section to learn these techniques properly.
