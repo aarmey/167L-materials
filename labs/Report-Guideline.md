@@ -4,11 +4,9 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-# Lab Report Templates, BE167L Spring 2018
+# Lab Report Templates
 
-**Formatting -- 1" margins, Arial font type, size 12**
-
-**Follow this layout for EACH lab within the report. There is no specific page limit, however remain within the above guidelines for each section.**
+Follow this layout for EACH lab within the report. Format with 1" margins, arial font type, size 12. There is no specific page limit; however, remain within the above guidelines for each section.
 
 ## Title (Example): Lab 1 -- Solutions and Measurements
 
@@ -30,7 +28,7 @@ header-includes: |
 - Make sure and address the specific questions for each Lab Assignment.
 - You will likely want to divide this section into subsections for different experiments 
 
-### 4. Conclusions and Future Experiments (3-5 sentences):
+### Conclusions and Future Experiments (3-5 sentences):
 
 - What are your next set of studies/experiments, and why? 
 - Are there any specific procedures that did not work well? Can you speculate how these may be improved in the future?
@@ -54,11 +52,11 @@ header-includes: |
 2. During fluorescent microscopy, it is important to put a dark box on your sample or to turn the lights off in the room. Explain why this is important and what might happen to your results if you don't.
 3. What would you expect to happen if you increased the amount of curing agent you used when forming your PDMS molds?
 4. What was your degree of labeling?
-5. Based on your pre-lab assignment for Lab 3, what amino acids and how many on the BSA will react with NHS- fluorescein? Make sure and include how you determined this in the Methods section.
+5. Based on your pre-lab assignment for Lab 3, what amino acids and how many on the BSA will react with NHS-fluorescein? Make sure and include how you determined this in the Methods section.
 6. What fraction of these amino acids accessible on the protein were conjugated to fluorescein in your experiment?
 7. How efficient was your conjugation reaction? What are the potential limiting reagents that could keep you from reaching 100%?
-8. What is your estimated weight concentration (*mg/mL*) for your purified fluorescein-BSA solution?
-9. What is the total amount (*mg*) of fluorescein-BSA you have in your vial?
+8. What is your estimated weight concentration (mg/mL) for your purified fluorescein-BSA solution?
+9. What is the total amount (mg) of fluorescein-BSA you have in your vial?
 10. Plasma cleaning makes PDMS more hydrophilic. Why do we want the PDMS to be hydrophilic? Consider the relative hydrophobicity of the surfaces involved in protein transfer.
 11. What differences would you expect, if any, in your fluorescent stamp if you had not plasma treated the PDMS before adding the BSA-fluorescein solution.
 12. Did you observe a fluorescent window shaped pattern? If not, what might be some potential reasons for not observing the shape?
@@ -74,7 +72,7 @@ header-includes: |
 
 #### Lab 6
 
-4. What is the total number of cells per well and the cell density in *cells/cm*2 from each well you counted in lab 6? Add this to your table from lab 5.
+4. What is the total number of cells per well and the cell density in cells/cm^2^ from each well you counted in lab 6? Add this to your table from lab 5.
 5. Knowing the time that elapsed between when you seeded these cells in lab 5 and when you counted them in lab 6, you can calculate the doubling time (hr) of your cells. In a single graph, plot the cell number (\# of cells) versus time (hr) for each initial seeding density/split ratio. Note the units of the x- and y-axis. Also note that you have cell numbers from two time points. Make sure to explain your calculation methods in the Methods section.
 6. From the plot you just generated, calculate the doubling time (hr) of the cells, which is the time it takes for a population of HeLa cells to double from its initial population. How does this value compare to the doubling time referenced in literature? Use the following equation for your reference: $$\textrm{ln} N = \textrm{ln} N_0 + \frac{\textrm{ln} 2}{t_d} t$$ where $N$ = number of cells at time *t*, $N_0$ = number of cells at time $t_0$, $t_d$ = doubling time, $t$ = time allowed for cells to grow.
 
@@ -103,7 +101,7 @@ header-includes: |
 ## Report E (Labs 11-12 -- Effects of Substrate Stiffness of Cell Behavior)
 
 1. Over the course of the past 7 labs, how has your ability to estimate confluency and cell number changed? How accurate have you been? Discuss briefly how you mentally try to estimate the confluency now.
-2. What type of molecule is fibronectin? What is its normal biological function in humans? ***This information should go in your Introduction section.***
+2. What type of molecule is fibronectin? What is its normal biological function in humans? *This information should go in your introduction.*
 3. Why do we cover the surface with fibronectin before seeding the cells?
 4. How is the elasticity of the three surfaces different? Why?
 5. What are the possible numerical limits for the value of circularity? What shapes do these limits correspond to?
