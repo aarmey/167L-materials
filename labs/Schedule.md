@@ -15,7 +15,7 @@ header-includes: |
 
 ## Week 2 (Oct 8–Oct 12)
 
-**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.
+**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.  
 **Mon/Tues Lab Sessions:** (2) Replica molding and laser cutting demo, fluorescence microscopy.  
 **Wed/Thurs Lab Sessions:** (3) Bioconjugation.  
 **Assignments/Due Dates:** Complete Lab Safety Fundamentals Training, and upload screenshot of worksafe transcript showing completion, before Lab 1.
