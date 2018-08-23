@@ -19,15 +19,12 @@ Lab Hours:
 
 **Teaching Assistants:**
 
-- Head TA: Jesse Liang (<jesse.liang92@gmail.com>)
-- LAB 1A (MW 12:00–2:50 pm): TBD (TBD@ucla.edu)
-- LAB 1B (TR 12:00–2:50 pm): TBD (TBD@ucla.edu)
-- LAB 1C (TR 3:00–5:50 pm): TBD (TBD@ucla.edu)
+- LAB 1A (MW 12:00–2:50 pm): Jesse Liang (<jesse.liang92@gmail.com>)
+- LAB 1B (TR 12:00–2:50 pm): Eva Chen (<evachen96@ucla.edu>)
 
 **Office Hours:**
 
 - Prof. Meyer: Mondays 4–5 PM or by appointment, Eng. V 4121G
-- Jesse Liang: TBD
 - TAs: by appointment
 
 **Lab Location:** Labs will always meet in Boelter Hall 7732
