@@ -8,14 +8,14 @@ header-includes: |
 
 ## Week 1 (Oct 1–Oct 5)
 
-**Lecture 1:** Introduction to the course, lab safety, lab notebooks, micropatterning surfaces, applications of micropatterned surfaces, photolithography, soft lithography.  
+**Lecture 1:** Introduction to the course, lab safety, lab notebooks, the goals of lab.  
 **Mon/Tues Lab Sessions:** (0) Notebooks and lab safety orientation with TAs.  
 **Wed/Thurs Lab Sessions:** (1) Introduction to lab, measuring and microscopy.  
 **Assignments/Due Dates:** Bring lab coats to Lab 0. Fill out feedback form by Oct 5 at noon.
 
 ## Week 2 (Oct 8–Oct 12)
 
-**Lecture 2:** Changes in surface energy (contact angle), materials that resist adsorption, bioconjugation, fluorophores and fluorescence.  
+**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.
 **Mon/Tues Lab Sessions:** (2) Replica molding and laser cutting demo, fluorescence microscopy.  
 **Wed/Thurs Lab Sessions:** (3) Bioconjugation.  
 **Assignments/Due Dates:** Complete Lab Safety Fundamentals Training, and upload screenshot of worksafe transcript showing completion, before Lab 1.
