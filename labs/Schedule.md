@@ -77,7 +77,7 @@ header-includes: |
 
 ## Week 10 (Dec 3–Dec 7)
 
-**Lecture:** **Exam 2** (first hour)  
+**Lecture 9:** **Exam 2** (first hour)  
 **Mon/Tues Lab Sessions:** (15) Independent lab.  
 **Wed/Thurs Lab Sessions:** (16) Lab clean-up. *Required*.  
 **Assignments/Due Dates:** Course evaluations must be completed online by Dec 7 at 8 AM
