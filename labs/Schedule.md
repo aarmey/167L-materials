@@ -22,7 +22,7 @@ header-includes: |
 
 ## Week 3 (Oct 15–Oct 19)
 
-**Lecture 3:** Cell culture, cell lines, sterile techniques, growth kinetics, data analysis and statistics fundamentals.  
+**Lecture 3:** Data analysis and statistics fundamentals.  
 **Mon/Tues Lab Sessions:** (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.  
 **Wed/Thurs Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
 **Assignments/Due Dates:** Case study 1: Cell migration in 3D culture (Fraley *et al*) due on Nov 9 at 8 AM.
