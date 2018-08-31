@@ -25,11 +25,11 @@ header-includes: |
 **Lecture 3:** Data analysis and statistics fundamentals.  
 **Mon/Tues Lab Sessions:** (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.  
 **Wed/Thurs Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
-**Assignments/Due Dates:** Case study 1: Cell migration in 3D culture (Fraley *et al*) due on Nov 9 at 8 AM.
+**Assignments/Due Dates:** Case study 1: Rare cell variability (Shaffer *et al*) due on Nov 9 at 8 AM.
 
 ## Week 4 (Oct 22–Oct 26)
 
-**Lecture 4:** Microscopy fundamentals (brightfield, phase contrast), fluorescence and confocal microscopy, specialized microscopy techniques.  
+**Lecture 4:** Regression and standard curves, rare cell variability review  
 **Mon/Tues Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
 **Wed/Thurs Lab Sessions:** (7) Growth kinetics, cell counting, lysis, protein content (BCA assay).  
 **Assignments/Due Dates:** Reports for Labs 1–4 due on Oct 23 by 12 PM.
