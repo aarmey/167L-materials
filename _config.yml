@@ -1,5 +1,5 @@
 title: Your awesome title
-author: GitHub User
+author: Aaron Meyer
 email: your-email@domain.com
 description: > # this means to ignore newlines until "twitter_username:"
   Write an awesome description for your new site here. You can edit this
@@ -21,9 +21,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-
-# Build settings
-theme: minima
 
 plugins:
  - jekyll-seo-tag
