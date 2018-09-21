@@ -12,21 +12,21 @@ Pipettes and Pipet-Aids cost several hundred dollars EACH. You must have an unde
 
 Review the following instructions **PRIOR** to your lab where your TA will demonstrate
 
-### Liquid Loading 
+## Liquid Loading 
 
 - Slowly press the pipette plunger down to the first stop (most of the way), you will feel the resistance.
 - Insert tip about 1 cm into the liquid and SLOWLY let the plunger slide back into the rest position. Note: Don't let liquids bounce up into the pipette shaft. This can damage your pipette and contaminate the rest of your samples.
 - Repeat this 1-2 times to condition the pipette tip. Then collect the water.
 
-![](media/image1.jpg){width="5.9in" height="2.125in"}
+![Pipetting example](labs/graphics/pipette.png){width="5.9in"}
 
-### Liquid Dispensing 
+## Liquid Dispensing 
 
 - Transfer the pipette to the new container.
 - Slowly press the plunger down to the first stop, then slightly harder until it reaches the second stop to unload.
 - Slowly release the plunger to the rest position to avoid back splash of liquid onto pipette shaft.
 
-**1.2 Preparation**
+### Preparation
 
 **Reagents**
 
@@ -51,8 +51,7 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 - Tube rack
 - pH meter
 
-1.3 Procedure 
---------------
+### Procedure
 
 1. Weigh out 120 mg of the MEM powder supplied by the TA.
 2. Dissolve your MEM powder in 12 mL's of DI water into a 15 mL conical tube and label this tube as **buffer**.
@@ -62,12 +61,11 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 6. To your tubes labelled **acid+** add 100 uL of the HCl solution provided by your TA, and to your tubes labelled **base+** add 100 uL of the NaOH solution provided by your TA. Record any observations at this time.
 7. Measure the pH of each solution using the pH meter and record measured values in your lab notebook. Consult your TA for further guidance if necessary.
 
-2. Plate Reader and Serial Dilutions
-====================================
+## Plate Reader and Serial Dilutions
 
 In addition to creating solutions, you will often find that you need to dilute them prior to use. In this section of the lab, you will practice generating serial dilutions of your previously made buffer. In addition, you will take absorbance readings of your serial dilutions to verify your technique as well as generate data to perform statistical analysis on.
 
-**2.1 Preparation**
+### Preparation
 
 Reagents
 
@@ -83,8 +81,7 @@ Equipment
 
 - Plate reader
 
-2.2 Procedure 
---------------
+### Procedure
 
 1. You and your partner will share a 96 well plate with another group be sure to properly record which wells belong to your group.
 2. You and your partner will generate 4 serial dilutions using your buffered solution. Each step of your dilution should cut your concentration in half (a 2x dilution), and the final volume in each well should be 200 uL. You will perform 4 steps for each dilution which should result in 4 wells with the following concentrations (1x, .5x, .25x, .125x). For further clarification consult the posted video then fill in the attached template with your dilution scheme.
@@ -93,12 +90,11 @@ Equipment
 
 ![Plate layout](labs/graphics/96-well-plate.png)
 
-3. Light Microscopy 
-====================
+## Light Microscopy
 
 Particle and cell density can be measured using a hemocytometer and inverted microscope. Each student should count the beads, calculate the bead concentration and compare their results with their partner. Beads will look uniform and round. You may see particles which are not round, much smaller, or much larger than the beads. Do not count this debris.
 
-**3.1 Preparation**
+### Preparation
 
 **Reagents**
 
@@ -116,15 +112,14 @@ Particle and cell density can be measured using a hemocytometer and inverted mic
 - Inverted microscope
 - Hemocytometer with glass coverslip
 
-3.2 Procedure 
---------------
+### Procedure
 
 1. Dispense 500 µL of water into microcentrifuge tube.
 2. Add 100 µL bead solution from your TA to the water. Keep track of this tube of microspheres for future labs. Store in your drawer with your initials on it.
 3. Uniformly distribute the particles by pipetting the liquid up and down. Do this just prior to collecting the liquid to place on the hemocytometer. Beads and cells settle quickly.
 4. Make sure your hemocytometer is clean. If needed, wipe gently with 70% alcohol and a Kimwipe.
 
-![](media/image3.jpg){width="5.79in" height="1.555in"}
+![Hemocytometer](labs/graphics/hemo-load.png){width="5.79in"}
 
 5. Place your coverslip on top of the mounting supports.
 6. Load the sample of the bead suspension into one side of the cover-slipped hemocytometer at the sample induction point (see below). Use a P200 or P20 pipette and draw up 10*µL* of bead suspension (make sure it is well mixed before drawing up your sample). Place the end of the pipette tip against the sample introduction point (the depressed triangle at the edge). *Slowly* eject some of your suspension and allow capillary action to draw the liquid underneath the coverslip.
@@ -136,10 +131,6 @@ Particle and cell density can be measured using a hemocytometer and inverted mic
 12. Immediately after use, clean the hemocytometer and coverslip with 70% alcohol and dry with a Kimwipe. Store in plastic case and return it to your TA.
 13. Clean up all materials and check with TA before leaving.
 
-> ![](media/image4.jpg){width="4.0in" height="4.263in"}
+![Hemocytometer calculation](labs/graphics/hemo.png){width="4.0in"}
 
-*Common sources of hemocytometer count error:*
-
-Variable sampling from the original bead suspension. The original bead suspension must be thoroughly mixed just prior to sampling or beads will settle to the bottom quickly.
-
-Inadequate or excessive filling of the hemocytometer chamber.
+*Common sources of hemocytometer count error:* Variable sampling from the original bead suspension. The original bead suspension must be thoroughly mixed just prior to sampling or beads will settle to the bottom quickly. Inadequate or excessive filling of the hemocytometer chamber.
