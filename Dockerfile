@@ -1,4 +1,4 @@
-FROM haskell:8.0
+FROM haskell:8.6.2
 
 # install latex packages
 RUN apt-get update -y \
@@ -6,5 +6,6 @@ RUN apt-get update -y \
     pandoc \
     make \
     ruby-dev \
-    jekyll \
-    bundle
+    jekyll
+
+RUN gem install bundle --no-ri --no-rdoc
