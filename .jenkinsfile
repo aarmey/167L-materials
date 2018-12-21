@@ -1,6 +1,6 @@
 pipeline {
   agent {
-    docker { image 'ruby:3.8-alpine' }
+    docker { image 'ruby:2.3.8-alpine3.8' }
   }
   stages {
     stage('Setup') {
