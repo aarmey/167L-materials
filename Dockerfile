@@ -6,6 +6,5 @@ RUN apt-get update -y \
     pandoc \
     make \
     ruby-dev \
-    jekyll
-
-RUN gem install bundle --no-ri --no-rdoc
+    jekyll \
+    bundle
