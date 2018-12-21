@@ -3,8 +3,8 @@ pipeline {
   stages {
     stage('Setup') {
       steps {
-        sh 'bundle install --path ~/.gem'
-        sh 'cat Gemfile.lock'
+        // sh 'bundle install --path ~/.gem'
+        sh 'cat '//Gemfile.lock'
       }
     }
     stage('Build') {
