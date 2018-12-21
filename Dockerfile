@@ -8,8 +8,5 @@ RUN apt-get update -y \
     make \
     ruby-dev
 
-# install pandoc
-RUN cabal update && cabal install pandoc-2.5
-
 # install jekyll
 RUN gem install bundle --no-ri --no-rdoc
