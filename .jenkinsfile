@@ -1,6 +1,9 @@
 pipeline {
   agent {
-    docker { image 'haskell:8.0' }
+    docker {
+      image 'haskell:8.0'
+      args '-u root'
+    }
   }
   stages {
     stage('Setup') {
