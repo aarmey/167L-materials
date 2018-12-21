@@ -5,6 +5,8 @@ pipeline {
   stages {
     stage('Setup') {
       steps {
+        sh 'apt-get update -y'
+        sh 'apt-get install -y -o Acquire::Retries=10 --no-install-recommends pandoc'
         sh 'git clean -ffdx'
         sh 'make clean'
         sh 'git status'
