@@ -7,3 +7,5 @@ RUN apt-get update -y \
     make \
     ruby-dev \
     jekyll
+
+RUN gem install bundle --no-ri --no-rdoc
