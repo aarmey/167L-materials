@@ -5,7 +5,6 @@ RUN apt-get update -y \
   && apt-get install -y -o Acquire::Retries=10 --no-install-recommends \
     pandoc \
     make \
-    ruby-dev \
-    jekyll
+    ruby-dev
 
 RUN gem install bundle --no-ri --no-rdoc
