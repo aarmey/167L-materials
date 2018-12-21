@@ -4,6 +4,7 @@ pipeline {
     stage('Setup') {
       steps {
         sh 'bundle install'
+        sh 'cat Gemfile.lock'
       }
     }
     stage('Build') {
