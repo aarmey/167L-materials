@@ -1,15 +1,8 @@
 pipeline {
-  agent {
-    docker {
-      image 'haskell:8.0'
-      args '-u root'
-    }
-  }
+  agent { dockerfile true }
   stages {
     stage('Setup') {
       steps {
-        sh 'apt-get update -y'
-        sh 'apt-get install -y -o Acquire::Retries=10 --no-install-recommends pandoc make bundler ruby-dev'
         sh 'bundle install'
       }
     }
