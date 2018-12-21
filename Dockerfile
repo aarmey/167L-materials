@@ -7,3 +7,7 @@ RUN apt-get update -y \
     make \
     ruby-dev \
     jekyll
+
+RUN pwd
+
+RUN bundle install
