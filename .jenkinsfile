@@ -7,8 +7,8 @@ pipeline {
   stages {
     stage('Setup') {
       steps {
-        // sh 'bundle install --path ~/.gem'
-        sh 'pwd '//Gemfile.lock'
+        sh 'bundle install'
+        sh 'cat Gemfile.lock'
       }
     }
     stage('Build') {
