@@ -1,6 +1,9 @@
 pipeline {
   agent {
-    docker { image 'asmlab/builders:text-latest' }
+    docker {
+      image 'asmlab/builders:text-latest'
+      label 'docker'
+    }
   }
   stages {
     stage('Setup') {
