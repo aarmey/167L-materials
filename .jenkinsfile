@@ -10,7 +10,7 @@ pipeline {
         sh 'git clean -ffdx'
         sh 'make clean'
         sh 'git status'
-        sh 'bundle install --path ~/.gem'
+        sh 'bundle install'
       }
     }
     stage('Build') {
