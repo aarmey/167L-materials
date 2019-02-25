@@ -34,7 +34,7 @@ header-includes: |
 ## Week 4 (April 22–April 26)
 
 **Lecture 4:** Regression and standard curves, [Shaffer *et al*](https://www.nature.com/articles/nature22794) review  
-**Mon/Tues Lab Sessions:** (5) 
+**Mon/Tues Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
 **Wed/Thurs Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
 **Assignments/Due Dates:** Reports for Labs 1–4 due on April 23 at noon.
 
