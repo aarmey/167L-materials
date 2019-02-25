@@ -6,39 +6,39 @@ header-includes: |
 
 # Schedule
 
-## Week 1 (Oct 1–Oct 5)
+## Week 1 (April 1–April 5)
 
 **Lecture 1:** Introduction to the course, lab safety, lab notebooks, the goals of lab.  
-**Mon/Tues Lab Sessions:** (0) Notebooks and lab safety orientation with TAs.  
-**Wed/Thurs Lab Sessions:** (1) Introduction to lab, measuring and microscopy.  
+**Mon/Tues Lab Sessions:** No lab.
+**Wed/Thurs Lab Sessions:** (0) Notebooks and lab safety orientation with TAs.  
 **Assignments/Due Dates:**
 
 - Bring lab coats to Lab 0.
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
-- Fill out feedback form by Oct 5 at noon.
+- Fill out feedback form by April 5 at noon.
 
-## Week 2 (Oct 8–Oct 12)
+## Week 2 (April 8–April 12)
 
 **Lecture 2:** Reading, writing, and the goal of the scientific manuscript, cell culture.  
-**Mon/Tues Lab Sessions:** (2) Replica molding and laser cutting demo, fluorescence microscopy.  
-**Wed/Thurs Lab Sessions:** (3) Bioconjugation.  
+**Mon/Tues Lab Sessions:** (1) Introduction to lab, measuring and microscopy.  
+**Wed/Thurs Lab Sessions:** (2) Replica molding and laser cutting demo, fluorescence microscopy.  
 **Assignments/Due Dates:** None.
 
-## Week 3 (Oct 15–Oct 19)
+## Week 3 (April 15–April 19)
 
 **Lecture 3:** Data analysis and statistics fundamentals.  
-**Mon/Tues Lab Sessions:** (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.  
-**Wed/Thurs Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
+**Mon/Tues Lab Sessions:** (3) Bioconjugation.  
+**Wed/Thurs Lab Sessions:** (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.  
 **Assignments/Due Dates:** Case study 1: Rare cell variability ([Shaffer *et al*](https://www.nature.com/articles/nature22794)) due on Oct 19 at noon.
 
-## Week 4 (Oct 22–Oct 26)
+## Week 4 (April 22–April 26)
 
 **Lecture 4:** Regression and standard curves, [Shaffer *et al*](https://www.nature.com/articles/nature22794) review  
 **Mon/Tues Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
 **Wed/Thurs Lab Sessions:** (7) Growth kinetics, cell counting, lysis, protein content (BCA assay).  
-**Assignments/Due Dates:** Reports for Labs 1–4 due on Oct 23 at noon.
+**Assignments/Due Dates:** Reports for Labs 1–4 due on April 23 at noon.
 
-## Week 5 (Oct 29–Nov 2)
+## Week 5 (April 29–May 3)
 
 **Lecture 5:** **Exam 1** (first hour), experimental design, guidelines for independent labs.  
 **Mon/Tues Lab Sessions:** (8) Growth kinetics, MTS assay.  
