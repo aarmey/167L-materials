@@ -34,22 +34,22 @@ header-includes: |
 ## Week 4 (April 22–April 26)
 
 **Lecture 4:** Regression and standard curves, [Shaffer *et al*](https://www.nature.com/articles/nature22794) review  
-**Mon/Tues Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
-**Wed/Thurs Lab Sessions:** (7) Growth kinetics, cell counting, lysis, protein content (BCA assay).  
+**Mon/Tues Lab Sessions:** (5) 
+**Wed/Thurs Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
 **Assignments/Due Dates:** Reports for Labs 1–4 due on April 23 at noon.
 
 ## Week 5 (April 29–May 3)
 
 **Lecture 5:** **Exam 1** (first hour), experimental design, guidelines for independent labs.  
-**Mon/Tues Lab Sessions:** (8) Growth kinetics, MTS assay.  
-**Wed/Thurs Lab Sessions:** (9) 3D encapsulation, preparing substrates for cell studies.  
+**Mon/Tues Lab Sessions:** (7) Growth kinetics, cell counting, lysis, protein content (BCA assay).  
+**Wed/Thurs Lab Sessions:** (8) Growth kinetics, MTS assay.  
 **Assignments/Due Dates:** None.
 
 ## Week 6 (Nov 5–Nov 9)
 
 **Lecture 6:** Cell adhesion and migration, 3D cell culture and microenvironment.  
-**Mon/Tues Lab Sessions:** (10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.  
-**Wed/Thurs Lab Sessions:** (11) Varying stiffness substrates and cell growth, seeding cells.  
+**Mon/Tues Lab Sessions:** (9) 3D encapsulation, preparing substrates for cell studies.  
+**Wed/Thurs Lab Sessions:** (10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.  
 **Assignments/Due Dates:**
 
 - Reports for Labs 5-8 due on Nov 6 at noon
@@ -58,7 +58,7 @@ header-includes: |
 ## Week 7 (Nov 12–Nov 16)
 
 **No class.**  
-**Mon/Tues Lab Sessions:** No lab Monday (Veterans Day); Make-up labs Tuesday (if needed)  
+**Mon/Tues Lab Sessions:** (11) Varying stiffness substrates and cell growth, seeding cells.  
 **Wed/Thurs Lab Sessions:** (12) Quantification and analysis of cell growth and morphology  
 **Assignments/Due Dates:**
 
@@ -69,13 +69,13 @@ header-includes: |
 
 **Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
 **Mon/Tues Lab Sessions:** Lab Practical Exam  
-**Wed/Thurs Lab Sessions:** No lab (Thanksgiving); Make-up labs Wednesday (if needed)  
+**Wed/Thurs Lab Sessions:** (13) Independent lab  
 **Assignments/Due Dates:** None.
 
 ## Week 9 (Nov 26–Nov 30)
 
 **Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.  
-**Mon/Tues Lab Sessions:** (13) Independent lab  
+**Mon/Tues Lab Sessions:** No lab (Memorial Day); Make-up labs Tuesday (if needed)  
 **Wed/Thurs Lab Sessions:** (14) Independent lab  
 **Assignments/Due Dates:**
 
