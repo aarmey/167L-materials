@@ -9,7 +9,7 @@ header-includes: |
 ## Week 1 (April 1–April 5)
 
 **Lecture 1:** Introduction to the course, lab safety, lab notebooks, the goals of lab.  
-**Mon/Tues Lab Sessions:** No lab.
+**Mon/Tues Lab Sessions:** No lab.  
 **Wed/Thurs Lab Sessions:** (0) Notebooks and lab safety orientation with TAs.  
 **Assignments/Due Dates:**
 
