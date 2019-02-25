@@ -15,7 +15,7 @@ header-includes: |
 
 - Bring lab coats to Lab 0.
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
-- Fill out feedback form by April 5 at noon.
+- Fill out feedback form by Friday at noon.
 
 ## Week 2 (April 8–April 12)
 
@@ -29,14 +29,14 @@ header-includes: |
 **Lecture 3:** Data analysis and statistics fundamentals.  
 **Mon/Tues Lab Sessions:** (3) Bioconjugation.  
 **Wed/Thurs Lab Sessions:** (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.  
-**Assignments/Due Dates:** Case study 1: Rare cell variability ([Shaffer *et al*](https://www.nature.com/articles/nature22794)) due on Oct 19 at noon.
+**Assignments/Due Dates:** Case study 1: Rare cell variability ([Shaffer *et al*](https://www.nature.com/articles/nature22794)) due on Friday at noon.
 
 ## Week 4 (April 22–April 26)
 
 **Lecture 4:** Regression and standard curves, [Shaffer *et al*](https://www.nature.com/articles/nature22794) review  
 **Mon/Tues Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
 **Wed/Thurs Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
-**Assignments/Due Dates:** Reports for Labs 1–4 due on April 23 at noon.
+**Assignments/Due Dates:** Reports for Labs 1–4 due on Thursday at noon.
 
 ## Week 5 (April 29–May 3)
 
@@ -45,50 +45,50 @@ header-includes: |
 **Wed/Thurs Lab Sessions:** (8) Growth kinetics, MTS assay.  
 **Assignments/Due Dates:** None.
 
-## Week 6 (Nov 5–Nov 9)
+## Week 6 (May 6–May 10)
 
 **Lecture 6:** Cell adhesion and migration, 3D cell culture and microenvironment.  
 **Mon/Tues Lab Sessions:** (9) 3D encapsulation, preparing substrates for cell studies.  
 **Wed/Thurs Lab Sessions:** (10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.  
 **Assignments/Due Dates:**
 
-- Reports for Labs 5-8 due on Nov 6 at noon
+- Reports for Labs 5-8 due on Thursday at noon
 - Discuss independent project proposal with your TA during your lab session
 
-## Week 7 (Nov 12–Nov 16)
+## Week 7 (May 13–May 17)
 
 **No class.**  
 **Mon/Tues Lab Sessions:** (11) Varying stiffness substrates and cell growth, seeding cells.  
 **Wed/Thurs Lab Sessions:** (12) Quantification and analysis of cell growth and morphology  
 **Assignments/Due Dates:**
 
-- Case study 2: Focal adhesion and migration in 3D ([Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062)) due on Nov 16 at noon
-- Final Independent Project Proposals due on Nov 16 at noon
+- Case study 2: Focal adhesion and migration in 3D ([Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062)) due on Friday at noon
+- Final Independent Project Proposals due on Friday at noon
 
-## Week 8 (Nov 19–Nov 23)
+## Week 8 (May 20–May 24)
 
 **Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
 **Mon/Tues Lab Sessions:** Lab Practical Exam  
 **Wed/Thurs Lab Sessions:** (13) Independent lab  
 **Assignments/Due Dates:** None.
 
-## Week 9 (Nov 26–Nov 30)
+## Week 9 (May 27–May 31)
 
 **Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.  
 **Mon/Tues Lab Sessions:** No lab (Memorial Day); Make-up labs Tuesday (if needed)  
 **Wed/Thurs Lab Sessions:** (14) Independent lab  
 **Assignments/Due Dates:**
 
-- Reports for Labs 9-12 due on Nov 27 at noon.
-- Case study 3: Substrate stiffness effect on MSCs ([Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044)) due on Nov 30 at noon.
+- Reports for Labs 9-12 due on Monday at noon.
+- Case study 3: Substrate stiffness effect on MSCs ([Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044)) due on Thursday at noon.
 
-## Week 10 (Dec 3–Dec 7)
+## Week 10 (June 3–June 7)
 
 **Lecture 9:** **Exam 2** (first hour), review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).  
 **Mon/Tues Lab Sessions:** (15) Independent lab.  
 **Wed/Thurs Lab Sessions:** (16) Lab clean-up. *Required*.  
-**Assignments/Due Dates:** Course evaluations must be completed online by Dec 7 at noon.
+**Assignments/Due Dates:** Course evaluations must be completed online by Friday at noon.
 
 ## Finals
 
-Final Lab Report due Thurs., Dec 13 by noon.
+Final Lab Report due Thurs., June 13 by noon.
