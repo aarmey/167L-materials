@@ -36,6 +36,7 @@ header-includes: |
 **Lecture 4:** Regression and standard curves, [Shaffer *et al*](https://www.nature.com/articles/nature22794) review  
 **Mon/Tues Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
 **Wed/Thurs Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
+**Review Session:** During Friday office hours.  
 **Assignments/Due Dates:** Reports for Labs 1–4 due on Thursday at noon.
 
 ## Week 5 (April 29–May 3)
@@ -57,7 +58,7 @@ header-includes: |
 
 ## Week 7 (May 13–May 17)
 
-**No class.**  
+**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.  
 **Mon/Tues Lab Sessions:** (11) Varying stiffness substrates and cell growth, seeding cells.  
 **Wed/Thurs Lab Sessions:** (12) Quantification and analysis of cell growth and morphology  
 **Assignments/Due Dates:**
@@ -67,19 +68,21 @@ header-includes: |
 
 ## Week 8 (May 20–May 24)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
 **Mon/Tues Lab Sessions:** Lab Practical Exam  
 **Wed/Thurs Lab Sessions:** (13) Independent lab  
-**Assignments/Due Dates:** None.
+**Assignments/Due Dates:**
+
+- Reports for Labs 9-12 due on Thursday at noon.
 
 ## Week 9 (May 27–May 31)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.  
+**No class.**  
 **Mon/Tues Lab Sessions:** No lab (Memorial Day); Make-up labs Tuesday (if needed)  
 **Wed/Thurs Lab Sessions:** (14) Independent lab  
+**Review Session:** During Friday office hours.  
 **Assignments/Due Dates:**
 
-- Reports for Labs 9-12 due on Monday at noon.
 - Case study 3: Substrate stiffness effect on MSCs ([Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044)) due on Thursday at noon.
 
 ## Week 10 (June 3–June 7)
