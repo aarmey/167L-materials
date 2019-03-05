@@ -27,8 +27,7 @@ pipeline {
         step([
           $class: 'TasksPublisher',
           canComputeNew: false,
-          defaultEncoding: '', 
-          excludePattern: '',
+          excludePattern: '_site/**',
           healthy: '',
           high: 'TODO,FIXME,XXX', low: '', normal: 'CITE',
           pattern: '**/*.md',
