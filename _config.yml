@@ -12,7 +12,7 @@ theme: jekyll-theme-primer
 
 baseurl: "/167L-materials"
 
-gems:
+plugins:
   - jekyll-pandoc
 
 markdown: Pandoc
