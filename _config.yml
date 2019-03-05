@@ -11,3 +11,6 @@ description: Class materials for Bioengineering 167L at UCLA.
 theme: jekyll-theme-primer
 
 baseurl: "/167L-materials"
+
+gems:
+  - jekyll-pandoc
