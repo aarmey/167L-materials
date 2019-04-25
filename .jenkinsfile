@@ -23,15 +23,6 @@ pipeline {
     stage('Report') {
       steps {
         archiveArtifacts artifacts: '_site/*.pdf', onlyIfSuccessful: true
-
-        step([
-          $class: 'TasksPublisher',
-          canComputeNew: false,
-          excludePattern: '_site/**',
-          healthy: '',
-          high: 'TODO,FIXME,XXX', low: '', normal: 'CITE',
-          pattern: '**/*.md',
-          unHealthy: ''])
       }
     }
     stage('Deploy') {
