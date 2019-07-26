@@ -28,7 +28,7 @@ You will need to include the following:
 ## HELA cells may need cupcakes to be happy
 (name) Shannon Student  
 (TA) Best TA at UCLA  
-(term and course) 167L Spring 2045
+(term and course) 167L Spring 2045  
 (assignment) Final lab report
 
 ### Abstract:
