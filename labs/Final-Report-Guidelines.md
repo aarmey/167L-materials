@@ -16,7 +16,7 @@ There is a sample template below for your reports. Your report should be divided
 
 The emphasis is not on how long your report is, but the content and quality of discussion. 5 pages is a maximum, not a minimum. Concise, professional scientific writing is an important skill that you should begin to cultivate now. It improves by reading scientific work and writing scientific reports.
 
-If you need more guidance on writing a scientific manuscript, please refer to Whitesides 2004 and Plaxo 2010 handouts (posted on CCLE). If you need further guidance, a good reference is: McMillan, VE. "Writing Papers in the Biological Sciences, Third Ed." New York: Bedford/St. Martin's, 2001. ISBN 0-312- 25857-7. You may look through this book in Dr. Seidlits’ office during office hours.
+If you need more guidance on writing a scientific manuscript, please refer to [Whitesides 2004](https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767) and [Plaxo 2010](https://www.onlinelibrary.wiley.com/doi/full/10.1002/pro.514) handouts (posted on CCLE).
 
 You will need to include the following:
 
@@ -40,7 +40,7 @@ This next sentence should state why it would be interesting or important to know
 
 This section should include some background information on why it is important or interesting to test your hypothesis. You should do some research and include some references here. Explain as much detail about your experimental choices as possible. A short summary at the end should give, again, the reason for your hypothesis.
 
-> (sample: HELA cells have been involved in living pastry production for several years, contributing by products of their metabolism to the icing (ref 1). It has long been suspected that they metabolize different nutrients in different ways based on how much sugar or acid is present (ref 2). We suspect that the content of sugar and acid in the nutrients not only change the metabolism, but change the happiness of the HELA cells, which has a direct effect on the quality of the icing they produce.
+> sample: HELA cells have been involved in living pastry production for several years, contributing by products of their metabolism to the icing (ref 1). It has long been suspected that they metabolize different nutrients in different ways based on how much sugar or acid is present (ref 2). We suspect that the content of sugar and acid in the nutrients not only change the metabolism, but change the happiness of the HELA cells, which has a direct effect on the quality of the icing they produce.
 
 > In order to test this hypothesis, foods of different sugar and acid content, cupcakes and pickles, were chosen to represent opposite sources of nutrients. Cupcakes have 10mg of sugar per 20g of cake while Pickles have 10mg of acid with a pH of 2, per 50 g of pickle (ref 3). Thus they accurately represent the range of possible foods HELA cells eat.
 
@@ -51,12 +51,18 @@ This section should include some background information on why it is important o
 ### Methods:
 
 This section should have detailed explanation of your experimental design. Include the methods and protocols you used, and replicates and statistics you used. If somebody wanted to repeat your experiment, they should be able to read this section and do it. You do NOT need to include step-by-step protocols for standard procedures, such as passaging cells, changing medium, using a live-dead staining kit or MTT assay kit, which come with directions, unless you did something different. Use subsections here to partition the parts of your experiment.
-(sample: cell culture: HELA cells (ATCC) were cultured in MEM containing x% FBS, y% antibiotics, z% whatever, at 37 degrees 100$ humidity, 5% CO2. They were passaged every 3 days at a ratio of 1:7. For the experiment they were plated at a density of 100,000 cells/cm^2 in 6-well plates.
-Food formulation: vanilla cupcakes (Sigma) and dill pickles (Fisher) were pureedseparately in an Oster blender for 3 min per 100g of food. 10 g of each food were added to 100 mL complete medium for HELA cells just prior to adding this medium to the wells. 3 conditions were maintained: control (no food added to complete medium), cupcakes (10mg of cupcake puree added to 100 mL of complete medium), and pickles (10mg of pickle puree added to 100 mL of complete medium). 6 wells of cells per condition were created. This set of experiments was performed by three different investigators in the lab simultaneously to create 3 sets of independent data.
-Laugher measurements: After two days of treatment, a microphone connected to a Macintosh computer running Garage Band was used to record laughter. The microphone was held in a fixed position 1cm from the surface of the medium directly above the center of each well for 1 min at the beginning of each hour for 3 hours. The computer software was used to calculate average decibels. A set of blinded investigators was asked to listen to each recording to determine if it was laughter or crying.
-Statistics: There were 6 technical replicates averaged for each independent experiment and 3 independent experimental measures for each group. These data were averaged and a Student’s T-test was performed to determine statistical differences between groups. )
-Results:
+
+> sample: cell culture: HELA cells (ATCC) were cultured in MEM containing x% FBS, y% antibiotics, z% whatever, at 37℃ 100% humidity, 5% CO~2~. They were passaged every 3 days at a ratio of 1:7. For the experiment they were plated at a density of 100,000 cells/cm^2 in 6-well plates.
+
+> Food formulation: vanilla cupcakes (Sigma) and dill pickles (Fisher) were pureedseparately in an Oster blender for 3 min per 100g of food. 10 g of each food were added to 100 mL complete medium for HELA cells just prior to adding this medium to the wells. 3 conditions were maintained: control (no food added to complete medium), cupcakes (10mg of cupcake puree added to 100 mL of complete medium), and pickles (10mg of pickle puree added to 100 mL of complete medium). 6 wells of cells per condition were created. This set of experiments was performed by three different investigators in the lab simultaneously to create 3 sets of independent data.
+
+> Laugher measurements: After two days of treatment, a microphone connected to a Macintosh computer running Garage Band was used to record laughter. The microphone was held in a fixed position 1cm from the surface of the medium directly above the center of each well for 1 min at the beginning of each hour for 3 hours. The computer software was used to calculate average decibels. A set of blinded investigators was asked to listen to each recording to determine if it was laughter or crying.
+Statistics: There were 6 technical replicates averaged for each independent experiment and 3 independent experimental measures for each group. These data were averaged and a Student’s T-test was performed to determine statistical differences between groups.
+
+### Results:
+
 This section should summarize all your results. Include a brief description of the experiment that the results came from, describe the results, refer to figures. You do not need to include raw data unless it is important to understanding the discussion. If you’re not sure whether to include it, ask your TA.
+
 Table 1: Ratio of treatment laughter compared to control.
 (sample: The laughter measured from the three treatment groups, control, cupcakes, and pickles, revealed that pickles do not increase or decrease laughter from control, while cupcakes increase laughter by about 10% over the control (Table 1). The difference between cupcakes and pickles was relatively small but still statistically significant (P< .05, n=3). )
  group cupcakes pickles
