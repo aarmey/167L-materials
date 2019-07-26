@@ -43,11 +43,13 @@ Table 1: Ratio of treatment laughter compared to control.
 Discussion:
 % of control stdev 110% 8% 100% 7%
 This section should discuss what the results mean, how the hypothesis was answered or not answered. Anything unexpected and some analysis about why it was unexpected or why it might be true anyway. You should also discuss weaknesses or future work that can come from your experiment and how people can use your data and information to take a “next step”.
-(sample: Though one might have expected a stronger increase from cupcakes, it is important to note that vanilla cupcakes are somewhat bland, and there are stronger cupcakes and cupcakes with different types of sugar available. Researchers typically don’t use these other cupcakes with HELA cells because it makes them more mobile and they fear that the cells will get distracted(ref 5). But perhaps it would be a valid
 
-change to investigate for the purpose of increasing efficiency. If cells become more mobile they could potentially move faster and work faster without losing concentration.
-Another unexpected outcome is that pickles do not decrease laughter. However, if one considers that pickles are a staple of some diets one might accept that HELA cells actually do not have a distaste for the acid and are not negatively affected by it. This is a characteristic of pickles that has not been studied with regard to HELA cells and an interesting finding.
-While this study does correlate acid and sugar content to laughter, it does not correlate laughter with efficiency and quality of icing made by the HELA cells. This inference would need to be substantiated by further studies on the icing from these HELA cells before living pastry makers begin implementing cupcake feedings for their HELA cells. However, this information does add to the recipe possibilities for increasing efficiency and quality of HELA cell icing.)
-References:
-Include all your references in the same format found in the journal Nature. Nature's "guide for authors" has formatting guidelines: http://www.nature.com/nature/authors/gta/ - a5.4
- 
+> sample: Though one might have expected a stronger increase from cupcakes, it is important to note that vanilla cupcakes are somewhat bland, and there are stronger cupcakes and cupcakes with different types of sugar available. Researchers typically don’t use these other cupcakes with HELA cells because it makes them more mobile and they fear that the cells will get distracted(ref 5). But perhaps it would be a valid change to investigate for the purpose of increasing efficiency. If cells become more mobile they could potentially move faster and work faster without losing concentration.
+
+> Another unexpected outcome is that pickles do not decrease laughter. However, if one considers that pickles are a staple of some diets one might accept that HELA cells actually do not have a distaste for the acid and are not negatively affected by it. This is a characteristic of pickles that has not been studied with regard to HELA cells and an interesting finding.
+
+> While this study does correlate acid and sugar content to laughter, it does not correlate laughter with efficiency and quality of icing made by the HELA cells. This inference would need to be substantiated by further studies on the icing from these HELA cells before living pastry makers begin implementing cupcake feedings for their HELA cells. However, this information does add to the recipe possibilities for increasing efficiency and quality of HELA cell icing.)
+
+### References:
+
+Include all your references in the same format as that found in the journal Nature. Nature's [guide for authors](http://www.nature.com/nature/authors/gta/) has formatting guidelines.
