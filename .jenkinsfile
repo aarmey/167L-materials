@@ -3,8 +3,7 @@ pipeline {
   stages {
     stage('Setup') {
       steps {
-        sh 'git clean -ffdx'
-        sh 'make clean'
+        sh 'git reset --hard && git clean -ffdx'
         sh 'git status'
         sh 'bundle install --path ~/.gem'
       }

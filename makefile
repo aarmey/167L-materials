@@ -13,7 +13,3 @@ _site/Syllabus.pdf: README.md
 	$(pandoc_common) $< -o $@
 
 all: $(labs_pdf) _site/Syllabus.pdf
-
-# clean up everything
-clean:
-	rm -fr _site
