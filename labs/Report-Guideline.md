@@ -36,7 +36,9 @@ Follow this layout for EACH lab report. Note that reports may cover multiple lab
 
 # Report-Specific Guidelines
 
-## Report A (Lab 1 -- Solutions and Measurements)
+## Report A
+
+### Lab 1: Solutions and Measurements
 
 1. Define "buffer" and describe how it is used in the lab.
 2. Compare the absorbance of your `base+` and `acid+` wells on a bar graph and include proper axis labels and error bars.
@@ -46,7 +48,7 @@ Follow this layout for EACH lab report. Note that reports may cover multiple lab
 6. Is the error systematic or random for your absorbance measurements?
 7. Based on your counts, what is the concentration of the bead solution that you aliquoted from?
 
-## Report B (Labs 2-4 -- Bioconjugation and Microcontact Printing)
+### Labs 2-4: Bioconjugation and Microcontact Printing
 
 1. What was the average size and standard deviation of your fluorescent beads? Show your raw data and calculations.
 2. During fluorescent microscopy, it is important to put a dark box on your sample or to turn the lights off in the room. Explain why this is important and what might happen to your results if you don't.
@@ -62,7 +64,7 @@ Follow this layout for EACH lab report. Note that reports may cover multiple lab
 12. Did you observe a fluorescent window shaped pattern? If not, what might be some potential reasons for not observing the shape?
 13. Analysis of contact angle data: If you do not have an image processing program that can measure angles, you may download ImageJ for free from the NIH. ImageJ is a free program available from the NIH. Download the appropriate version for your operating system: <http://rsbweb.nih.gov/ij/download.html>. After installing, open the program, a tool bar should appear. Open one of your images. Use the angle measurement tool from the tool bar to draw an angle on your droplet edge: First click on the image you will use to activate it, then click at one end of the bottom edge of your droplet, then click on the other end of that edge, the move your cursor up to create the second line for your angle so that it is tangent to the very bottom of the droplet and click again. This should create an angle on your image. Under the Analyze menu of the tool bar, click Measure. A window should open with the angle that you drew. Repeat this for each image, the angles should appear in subsequent rows of the same window. Give a table of the contact angles that you measured, raw data, averages, and standard deviations. Are they what you expected relative to each other? Explain the differences between groups. If your standard deviations are greater than 10%, try to explain why.
 
-## Report C (Labs 5-8 -- Culture of Mammalian Cells)
+## Report B
 
 #### Lab 5
 
@@ -92,13 +94,15 @@ Follow this layout for EACH lab report. Note that reports may cover multiple lab
 15. Would you feel comfortable using this assay on cells just after trypsinizing cells? Do you think that the process of passaging cells affects their metabolic activity based on your data? Do you think this is the same for all cell types?
 16. Would you feel comfortable using the assay without creating a standard curve to compare relative changes in cell number based solely on relative absorbance values? Under what circumstances would you do this?
 
-## Report D (Labs 9-10 -- 3D Cell Encapsulation and Culture)
+## Report C
+
+### Labs 9-10: 3D Cell Encapsulation and Culture
 
 1. Discuss how your experimental design, cell densities and general sizes of your beads affect the conclusions you can make from your data. How might you change your beads in the future and why? What conditions and experimental protocol steps could you adjust and what might be the general result (describe at least 2 changes)?
 2. Give a summary of your observations from viewing your beads under the fluorescent microscope: Describe morphological and spatial characteristics that you noticed in your cells from the live dead stain. Try to explain them scientifically. Choose representative microscope images (with scale bars and annotations) to help describe your experimental outcomes. Write descriptive captions for each image to specify which samples are shown and what conditions the image was taken under.
 3. Give ideas for why things might have failed to work, or why you might not have observed what you expected in the beginning of the lab.
 
-## Report E (Labs 11-12 -- Effects of Substrate Stiffness of Cell Behavior)
+### Labs 11-12: Effects of Substrate Stiffness of Cell Behavior
 
 1. Over the course of the past 7 labs, how has your ability to estimate confluency and cell number changed? How accurate have you been? Discuss briefly how you mentally try to estimate the confluency now.
 2. What type of molecule is fibronectin? What is its normal biological function in humans? *This information should go in your introduction.*
