@@ -6,7 +6,7 @@ header-includes: |
 
 # Lab Report Templates
 
-Follow this layout for EACH lab report. Note that reports may cover multiple labs (e.g., Report B covers labs 2–4). Format with 1" margins, arial font type, size 12. There is no specific page limit; however, remain within the above guidelines for each section.
+Follow this layout for EACH lab report. Note that reports may cover multiple labs. Format with 1" margins, arial font type, size 12. There is no specific page limit; however, remain within the above guidelines for each section.
 
 ## Title (Example): Lab 1 -- Solutions and Measurements
 
