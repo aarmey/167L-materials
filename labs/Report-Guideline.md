@@ -17,7 +17,7 @@ Follow this layout for EACH lab report. Note that reports may cover multiple lab
 
 ### Experimental Methods (½-1 page):
 
-- Write out your methods in the form of a scientific manuscript ­-- note that this is different than the numbered protocol steps you would put in your lab notebook. Use subsections to separate different procedures. See example Methods section at the end of this document.
+- Write out your methods in the form of a scientific manuscript. Note that this is different than the numbered protocol steps you would put in your lab notebook. Use subsections to separate different procedures. See example Methods section at the end of this document.
 - For data calculations, describe how you did them (e.g., provide equations). 
 - Remember that methods should provide how you did something, but any interpretation of the data should be in Results and Discussion.
 
