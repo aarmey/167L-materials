@@ -124,8 +124,6 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 **Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning. Review [Sun *et al*](https://www.nature.com/articles/nature11409).
 
-**Review Session:** Wednesday TBD.
-
 ### Lab
 
 - Mon/Tues: (14) Independent lab
@@ -134,6 +132,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 ### Assignments/Due Dates:
 
 - Answer questions on [Sun *et al*](https://www.nature.com/articles/nature11409) before lecture.
+- Review session Wednesday TBD.
 
 ## Week 10 (December 2–6)
 
