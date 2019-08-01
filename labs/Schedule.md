@@ -8,10 +8,14 @@ header-includes: |
 
 ## Week 1 (September 30–October 4)
 
-**Lecture 1:** Introduction to the course, lab safety, lab notebooks, the goals of lab, scientific manuscripts.  
-**Mon/Tues Lab Sessions:** No lab.  
-**Wed/Thurs Lab Sessions:** (0) Notebooks and lab safety orientation with TAs.  
-**Assignments/Due Dates:**
+**Lecture 1:** Introduction to the course, lab safety, lab notebooks, the goals of lab, scientific manuscripts.
+
+### Lab
+
+- Mon/Tues: No lab.
+- Wed/Thurs: (0) Notebooks and lab safety orientation with TAs.
+
+### Assignments/Due Dates:
 
 - Bring lab coats to Lab 0.
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
@@ -19,32 +23,46 @@ header-includes: |
 
 ## Week 2 (October 7–11)
 
-**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.  
-**Mon/Tues Lab Sessions:** (1) Introduction to lab, measuring and microscopy.  
-**Wed/Thurs Lab Sessions:** (2) Replica molding and laser cutting demo, fluorescence microscopy.
+<!-- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833-->
 
-**Assignments/Due Dates:**
+**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.
+
+### Lab
+
+- Mon/Tues: (1) Introduction to lab, measuring and microscopy.
+- Wed/Thurs: (2) Replica molding and laser cutting demo, fluorescence microscopy.
+
+### Assignments/Due Dates:
 
 
 
 ## Week 3 (October 14–18)
 
-**Lecture 3:** Bioconjugation. Review [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982).   
-**Mon/Tues Lab Sessions:** (3) Bioconjugation.  
-**Wed/Thurs Lab Sessions:** (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.
+**Lecture 3:** Bioconjugation. Review [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982).
 
-**Assignments/Due Dates:**
+### Lab
+
+- Mon/Tues: (3) Bioconjugation.
+- Wed/Thurs: (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.
+
+### Assignments/Due Dates:
 
 - Answer questions on [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982) before lecture.
 
 ## Week 4 (October 21–25)
 
-**Lecture 4:** Data analysis and statistics fundamentals. Review [Shaffer *et al*](https://www.nature.com/articles/nature22794).  
-**Mon/Tues Lab Sessions:** (5) Cell culture—Passaging and counting cells, introduction to sterile technique.  
-**Wed/Thurs Lab Sessions:** (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.  
+**Lecture 4:** Data analysis and statistics fundamentals. Review [Shaffer *et al*](https://www.nature.com/articles/nature22794).
+
+### Lab
+
+- Mon/Tues: (5) Cell culture—Passaging and counting cells, introduction to sterile technique.
+- Wed/Thurs: (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.
+
 **Review Session:** During Friday office hours.
 
-**Assignments/Due Dates:**
+### Assignments/Due Dates:
 
 - Answer questions on [Shaffer *et al*](https://www.nature.com/articles/nature22794) before lecture.
 - Reports for Labs 1–4 due on Thursday at noon.
@@ -106,18 +124,18 @@ None.
 
 ## Week 9 (November 25–29)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning. Review [Sun et al](https://www.nature.com/articles/nature11409).
+
+**Review Session:** Wednesday TBD.
 
 ### Lab
 
 - Mon/Tues: (14) Independent lab
 - Wed/Thurs: No lab (Thanksgiving); Make-up labs Wednesday if needed
 
-**Review Session:** During Friday office hours.
-
 ### Assignments/Due Dates:
 
-- XXX
+- Answer questions on [Sun et al](https://www.nature.com/articles/nature11409) before lecture.
 
 ## Week 10 (December 2–6)
 
