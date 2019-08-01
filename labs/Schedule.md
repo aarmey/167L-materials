@@ -67,7 +67,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ## Week 5 (October 28–November 1)
 
-**Lecture 5:** Experimental design, guidelines for independent labs. Review [Hafner et al](https://www.nature.com/articles/nmeth.3853).
+**Lecture 5:** Experimental design, guidelines for independent labs. Review [Hafner *et al*](https://www.nature.com/articles/nmeth.3853).
 
 ### Lab
 
@@ -76,7 +76,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ### Assignments/Due Dates:
 
-- Answer questions on [Hafner et al](https://www.nature.com/articles/nmeth.3853) before lecture.
+- Answer questions on [Hafner *et al*](https://www.nature.com/articles/nmeth.3853) before lecture.
 - Review session Friday TBD.
 
 ## Week 6 (November 4–8)
@@ -122,7 +122,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ## Week 9 (November 25–29)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning. Review [Sun et al](https://www.nature.com/articles/nature11409).
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning. Review [Sun *et al*](https://www.nature.com/articles/nature11409).
 
 **Review Session:** Wednesday TBD.
 
@@ -133,7 +133,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ### Assignments/Due Dates:
 
-- Answer questions on [Sun et al](https://www.nature.com/articles/nature11409) before lecture.
+- Answer questions on [Sun *et al*](https://www.nature.com/articles/nature11409) before lecture.
 
 ## Week 10 (December 2–6)
 
@@ -142,7 +142,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 ### Lab
 
 - Mon/Tues: (15) Independent lab.
-- Wed/Thurs:** (16) Lab clean-up. Instron demonstration.
+- Wed/Thurs: (16) Lab clean-up. Instron demonstration.
 
 ### Assignments/Due Dates:
 
