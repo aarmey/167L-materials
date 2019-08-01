@@ -60,8 +60,6 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 - Mon/Tues: (5) Cell culture—Passaging and counting cells, introduction to sterile technique.
 - Wed/Thurs: (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.
 
-**Review Session:** During Friday office hours.
-
 ### Assignments/Due Dates:
 
 - Answer questions on [Shaffer *et al*](https://www.nature.com/articles/nature22794) before lecture.
@@ -69,7 +67,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ## Week 5 (October 28–November 1)
 
-**Lecture 5:** **Exam 1** (first hour), experimental design, guidelines for independent labs.
+**Lecture 5:** Experimental design, guidelines for independent labs. Review [Hafner et al](https://www.nature.com/articles/nmeth.3853).
 
 ### Lab
 
@@ -78,11 +76,12 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ### Assignments/Due Dates:
 
-None.
+- Answer questions on [Hafner et al](https://www.nature.com/articles/nmeth.3853) before lecture.
+- Review session Friday TBD.
 
 ## Week 6 (November 4–8)
 
-**Lecture 6:** Cell adhesion and migration, 3D cell culture and microenvironment.
+**Lecture 6:** **Exam 1** (first hour). Cell adhesion and migration, 3D cell culture and microenvironment.
 
 ### Lab
 
@@ -105,7 +104,6 @@ None.
 
 ### Assignments/Due Dates:
 
-- Case study 2: Focal adhesion and migration in 3D ([Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062)) due on Friday at noon
 - Final Independent Project Proposals due on Friday at noon
 
 ## Week 8 (November 18–22)
