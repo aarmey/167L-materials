@@ -68,29 +68,39 @@ header-includes: |
 
 ## Week 8 (November 18–22)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.  
+**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction. Review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).  
 **Mon/Tues Lab Sessions:** Lab Practical Exam  
-**Wed/Thurs Lab Sessions:** (13) Independent lab  
+**Wed/Thurs Lab Sessions:** (13) Independent lab
+
 **Assignments/Due Dates:**
 
+- Answer questions on [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044) before lecture.
 - Reports for Labs 9-12 due on Thursday at noon.
 
 ## Week 9 (November 25–29)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning, review [Fraley, *et al*](https://dx.doi.org/10.1038%2Fncb2062).  
-**Mon/Tues Lab Sessions:** (14) Independent lab  
-**Wed/Thurs Lab Sessions:** No lab (Thanksgiving); Make-up labs Wednesday if needed  
-**Review Session:** During Friday office hours.  
-**Assignments/Due Dates:**
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
 
-- Case study 3: Substrate stiffness effect on MSCs ([Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044)) due on Thursday at noon.
+### Lab
+
+- Mon/Tues Lab Sessions: (14) Independent lab
+- Wed/Thurs Lab Sessions: No lab (Thanksgiving); Make-up labs Wednesday if needed
+
+**Review Session:** During Friday office hours.  
+
+### Assignments/Due Dates:
+
+- XXX
 
 ## Week 10 (December 2–6)
 
-**Lecture 9:** **Exam 2** (first hour), review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).  
+**Lecture 9:** **Exam 2** (first hour), finish hydrogel mechanics.  
 **Mon/Tues Lab Sessions:** (15) Independent lab.  
-**Wed/Thurs Lab Sessions:** (16) Lab clean-up. Instron demonstration.  
-**Assignments/Due Dates:** Course evaluations must be completed online by Friday at noon.
+**Wed/Thurs Lab Sessions:** (16) Lab clean-up. Instron demonstration.
+
+**Assignments/Due Dates:**
+
+- Course evaluations must be completed online by Friday at noon.
 
 ## Finals
 
