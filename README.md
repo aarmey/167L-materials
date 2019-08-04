@@ -139,22 +139,14 @@ Students are expected to be on time to and attend every lab session. *One-questi
 
 **Additional information about lab attendance:** You expected to attend and participate in every lab session. As detailed above, your participation grade will depend largely on your attendance. If you have conflicts with a lab session, you must notify your TA, lab partners and Dr. Meyer in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If it is impossible for you to attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups during week 9. If you plan to make up a lab on this date, please discuss arrangements with the head TA and Dr. Meyer. If you do end up needing to make-up a lab session, we will re-grade your revised Lab Report (including the missed section) after the make-up lab.
 
-#### 4.1.2. Experimental Case Studies:
+#### 4.1.2. Pre-Class Readings:
 
-We will review several recent experiments and papers in the recent literature that relate to the laboratory techniques that will be used. During lecture we will critically analyze and discuss the results and experimental methods used in these papers. To prepare for the discussion you will be required to read the papers before class and turn in a half-page to one-page discussion of the paper online including:
-
-1. How was the study designed? What were the control experiments? Were experiments repeated? What process was used to collect data? Were data qualitative or quantitative?
-2. How was data analyzed and presented? What statistical methods were used? Was data extracted and how was it extracted from images? How was data presented to be easy to understand?
-3. How did the authors draw conclusions from the data? Is their logic sound? What assumptions were made? Are these assumptions identified by the authors?
-
-These case studies must be worked on individually and turned in individually at the beginning of class. Any duplicate text or other plagiarism will result in a zero for the assignment. **Case studies must be uploaded to CCLE by noon the Friday before the in-lecture discussion.**
-
-There will be three case studies, and each summary paragraph will be worth a maximum of 3 participation points, for a total of 9 points. Participation in class discussion of the case studies will be worth 1 point per lecture discussion, for a total of 3 points.
+We will review several recent experiments and papers in the recent literature that relate to the laboratory techniques that will be used. During lecture we will critically analyze and discuss the results and experimental methods used in these papers. To prepare for the discussion you will be required to read the papers before class and address questions specific to each reading. While you may discuss these papers with others, your answers should be written individually. Any duplicate text or other plagiarism will result in a zero for the assignment. PDFs of the papers will be posted on CCLE.
 
 **Grading for Case Study Summary Paragraphs:**
 
 3
-~ student has accurately summarized the manuscript and provided insightful, critical interpretations of the results and presentation
+~ student has accurately addressed the questions and provided insightful, critical interpretations of the results and presentation
 
 2
 ~ student satisfactorily understands the manuscript content and provides at least some critical analysis/interpretation
@@ -164,9 +156,6 @@ There will be three case studies, and each summary paragraph will be worth a max
 
 0
 ~ student did not turn in a summary
-
-
-Three manuscripts will be evaluated as case studies. PDFs of the papers will be posted on CCLE.
 
 #### 4.1.3. Independent Project Proposals:
 
