@@ -45,9 +45,9 @@ Harbor, NY. 2005.
 
 McMillan, VE. Writing Papers in the Biological Sciences, 5th Ed. Boston, MA. Bedford/St. Martin's. 2012.
 
-**Personal Protective Equipment (PPE):** Each student is required to bring a lab coat (preferably 100% cotton) and lab notebook to each lab session. PPE can be purchased on campus (AXE Office; 1275 Young Hall or Ackerman Book Store) or online (e.g., <http://www.scrubsunlimited.com/>, Amazon). You must bring your PPE with you to Lab 1 and all future labs.
+**Personal Protective Equipment (PPE):** Each student is required to bring a lab coat (preferably 100% cotton) and a lab notebook to each lab session. PPE can be purchased on campus (AXE Office; 1275 Young Hall or Ackerman Book Store) or online (e.g., <http://www.scrubsunlimited.com/>, Amazon). You must bring your PPE with you to Lab 1 and all future labs.
 
-**Lab Notebooks:** You must purchase a bound notebook and bring it to every lab session. You will need to maintain records your experiments in your notebook.
+**Lab Notebooks:** You must purchase a bound notebook and bring it to every lab session. You will need to maintain records of your experiments in your notebook.
 
 **Course Materials Fee:** After 4th week, you will be charged a course materials fee of $50 automatically through BruinBill. This is meant to offset a small portion of the supplies cost for the course.
 
@@ -65,7 +65,7 @@ logically sound experimental processes.
 
 ## 3. Safety Requirements for Working in a Laboratory at UCLA
 
-There is an online training courses that must be completed outside of scheduled class time in order to be legally allowed by UCLA Environmental Health & Safety (EH&S) and HSSEAS to be physically present and work in the teaching labs. There are no exceptions—*every student must complete these requirements* in order to continue enrollment in BE167L.
+There is an online training course that must be completed outside of scheduled class time to be legally allowed by UCLA Environmental Health & Safety (EH&S) and HSSEAS to be physically present and work in the teaching labs. There are no exceptions—*every student must complete these requirements* to continue enrollment in BE167L.
 
 **Required Training Courses:**
 
@@ -78,8 +78,8 @@ Instructions follow:
 3. Go to the "course catalog" tab on the left-hand side.
 4. Find "LAB-LSFC-OL" -- "Lab Safety Fundamentals Course -- Online". Click the "launch" link in the rightmost column to start the course.
 5. Complete the course.
-6. Once you are done with the course, go to the "My Transcript" tab from the worksafe menu. Print your transcript or save a screenshot (showing completion of LAB-LSFC-OL).
-7. **Upload your worksafe transcript to CCLE by Lab 1.**
+6. Once you are done with the course, go to the "My Transcript" tab from the Worksafe menu. Print your transcript or save a screenshot (showing completion of LAB-LSFC-OL).
+7. **Upload your Worksafe transcript to CCLE by Lab 1.**
 
 **Do not take course/quiz for others!**
 
@@ -120,7 +120,7 @@ Participation is graded out of a total of 46 points based on the following.
     - Working productively and respectfully with my lab partner (6 points)
     - Pre-lab preparation and quizzes (12 points)
 - Readings and In-Class Discussions
-    - Summary paragraphs / questions from reading (9 points)
+    - Summary paragraphs/questions from reading (9 points)
     - Participation in class discussions (3 points)
 - Independent Project Planning
     - Turn in your 1^st^ independent lab proposal and discuss with your TA (2 points)
@@ -130,17 +130,17 @@ Participation is graded out of a total of 46 points based on the following.
 
 ##### Pre-lab preparation and quizzes (12 points)
 
-Students are expected to be on time to and attend every lab session. *One-question quizzes will be given at the beginning of each lab section on the prelab assignment.* Quiz questions will be based on information provided in lab session protocols, supplemental reading and video content posted on the class website. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade. **You must bring lab protocols with you to lab and be prepared to work independently.**
+Students are expected to be on time to and attend every lab session. *One-question quizzes will be given at the beginning of each lab section on the prelab assignment.* Quiz questions will be based on information provided in lab session protocols, supplemental reading and video content posted on the class website. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade. **You must bring lab protocols with you to the lab and be prepared to work independently.**
 
 **Working productively and respectfully with my lab partner (6 points):** Your TA will assign you to a lab partner with whom you will work on Labs 1–12 and your independent project. This part of the class is a lesson in learning how to work productively with other people. Please be respectful to your lab partner by engaging fully and making contributions to your team.
 
 **Lab notebooks (12 points)**: The purpose of your lab notebook is to record your experiments ***while you are doing them***. You should have an entry for each lab session including your methods and raw data. You can print out and paste in protocols from online; however, you must make notes on any changes in your notebook during your lab session. Your raw data must also be recorded when you get the data during your lab session. Your TA will check your notebook to make sure you have recorded everything during each lab session. Each lab session (Labs 1–12) will be work 1 pt towards your final participation grade.
 
-**Additional information about lab attendance:** You expected to attend and participate in every lab session. If you have conflicts with a lab session, you must notify your TA, lab partners and Dr. Meyer in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If it is impossible for you to attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups during week 9. If you plan to make up a lab on this date, please discuss arrangements with the head TA and Dr. Meyer. If you do end up needing to make-up a lab session, we will re-grade your revised lab report (including the missed section) after the make-up lab.
+**Additional information about lab attendance:** You expected to attend and participate in every lab session. If you have conflicts with a lab session, you must notify your TA, lab partner(s), and Dr. Meyer in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If you cannot attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups during week 9. If you plan to make up a lab on this date, please discuss arrangements with the head TA and Dr. Meyer. If you do end up needing to make-up a lab session, we will re-grade your revised lab report (including the missed section) after the make-up lab.
 
 #### 4.1.2. Pre-Class Readings:
 
-We will review several experiments and papers in the recent literature that relate to the laboratory techniques we will use. During lecture we will critically analyze and discuss the results and experimental methods used in these papers. To prepare for the discussion you will be required to read the papers before class and address questions specific to each reading. While you may discuss these papers with others, your answers should be written individually. Any duplicate text or other plagiarism will result in a zero for the assignment. PDFs of the papers will be posted on CCLE.
+We will review several experiments and papers in the recent literature that relate to the laboratory techniques we will use. During the lecture, we will critically analyze and discuss the results and experimental methods used in these papers. To prepare for the discussion you will be required to read the papers before class and address questions specific to each reading. While you may discuss these papers with others, your answers should be written individually. Any duplicate text or other plagiarism will result in a zero for the assignment. PDFs of the papers will be posted on CCLE.
 
 **Grading for Case Study Summary Paragraphs:**
 
@@ -151,14 +151,14 @@ We will review several experiments and papers in the recent literature that rela
 ~ student satisfactorily understands the manuscript content and provides at least some critical analysis/interpretation
 
 1
-~ student does not appear to understand content of the manuscript and provides no insight into the study
+~ student does not appear to understand the content of the manuscript and provides no insight into the study
 
 0
 ~ student did not turn in a summary
 
 #### 4.1.3. Independent Project Proposals:
 
-Labs 13, 14 and 15 will be dedicated to your independent project. More details will be provided in lecture. Briefly, you and your lab partner will propose your own hypothesis, design an experiment to test this hypothesis, and perform your experiments during lab sessions. Your final lab reports will be based on these experiments. You will turn in a first draft of your proposals, discuss with your TA and make adjustments as necessary, and then turn in a final draft of your proposal. Proposal drafts will be worth 2 participation points each.
+Labs 13, 14 and 15 will be dedicated to your independent project. More details will be provided in lecture. Briefly, you and your lab partner will propose a hypothesis, design an experiment to test this hypothesis, and perform your experiments during lab sessions. Your final lab reports will be based on these experiments. You will turn in a draft of your proposals, discuss with your TA and make adjustments as necessary, and then turn in a final draft of your proposal. Proposal drafts will be worth 2 participation points each.
 
 ### 4.2. Lab Reports (27%):
 
@@ -166,9 +166,9 @@ There will be *three lab reports* due throughout the quarter. These will use dat
 
 ### 4.3. Final Laboratory Report (15%):
 
-For the final lab report, you will present analysis of your independent lab experiments in the format of a short journal paper. More details on the exact requirements are on the class website and in week 5 lecture.
+For the final lab report, you will present an analysis of your independent lab experiments in the format of a short journal paper. More details on the exact requirements are on the class website and in week 5 lecture.
 
-Although data from your group will be identical, laboratory reports must be worked on and turned in independently. Duplication of text or figures between laboratory reports will result in a zero on the assignment for both parties. Duplication of text or figures from reports from previous years also will result in a zero on the assignment. Slight or moderate variations in word choice, addition of words, word order, or sentence order is also considered duplication. It is just easier to start from scratch, than to work off of another report.
+Although data from your group will be identical, laboratory reports must be worked on and turned in independently. Duplication of text or figures between laboratory reports will result in a zero on the assignment for both parties. Duplication of text or figures from reports from previous years also will result in a zero on the assignment. Slight or moderate variations in word choice, the addition of words, word order, or sentence order are also considered duplication. It is easier to start from scratch than to work off of another report.
 
 Your final report *will be due during finals week.* This will be 15% of your final grade.
 
@@ -182,11 +182,11 @@ The lab practical will be an exam of your laboratory skills learned up to week 8
 
 #### 4.4.2. Lecture Exams:
 
-Two exams will be given in lecture on topics covered in lecture. Each of these will be 12.5% of your final grade. Both exams will generally not be cumulative, and will cover lecture and reading material from the previous weeks. Example prior exams are posted on the class website.
+Two exams will be given in lecture on topics covered in lecture. Each of these will be 12.5% of your final grade. Both exams will generally not be cumulative, covering lecture and reading material from the previous weeks. Example prior exams are posted on the class website.
 
 ## Title IX
 
-Title IX prohibits gender discrimination, including sexual harassment, domestic and dating violence, sexual assault, and stalking. If you have experienced sexual harassment or sexual violence, you can receive confidential support and advocacy at the CARE Advocacy Office for Sexual and Gender-Based Violence, 1st Floor Wooden Center West, CAREadvocate@careprogram.ucla.edu, (310) 206-2465. In addition, Counseling and Psychological Services (CAPS) provides confidential counseling to all students and can be reached 24/7 at (310) 825-0768. You can also report sexual violence or sexual harassment directly to the University's Title IX Coordinator, 2241 Murphy Hall, titleix@conet.ucla.edu, (310) 206-3417. Reports to law enforcement can be made to UCPD at (310) 825-1491.
+Title IX prohibits gender discrimination, including sexual harassment, domestic and dating violence, sexual assault, and stalking. If you have experienced sexual harassment or sexual violence, you can receive confidential support and advocacy at the CARE Advocacy Office for Sexual and Gender-Based Violence, 1st Floor Wooden Center West, CAREadvocate@careprogram.ucla.edu, (310) 206-2465. Counseling and Psychological Services (CAPS) also provides confidential counseling to all students and can be reached 24/7 at (310) 825-0768. You can also report sexual violence or sexual harassment directly to the University's Title IX Coordinator, 2241 Murphy Hall, titleix@conet.ucla.edu, (310) 206-3417. Reports to law enforcement can be made to UCPD at (310) 825-1491.
 
 Faculty and TAs are required under the UC Policy on Sexual Violence and Sexual Harassment to inform the Title IX Coordinator should they become aware that you or any other student has experienced sexual violence or sexual harassment.
 
