@@ -78,10 +78,11 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 - Answer questions on [Hafner *et al*](https://www.nature.com/articles/nmeth.3853) before lecture.
 - Review session Friday TBD.
+- Discuss independent project proposal with your TA during your lab session
 
 ## Week 6 (November 4–8)
 
-**Lecture 6:** **Exam 1** (first hour). Cell adhesion and migration, 3D cell culture and microenvironment.
+**Lecture 6:** **Exam 1** (first hour). Cell adhesion and migration, 3D cell culture and microenvironment. Review [Fraley *et al*](https://www.nature.com/articles/ncb2062).
 
 ### Lab
 
@@ -91,7 +92,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 ### Assignments/Due Dates:
 
 - Reports for Labs 5-8 due on Thursday at noon
-- Discuss independent project proposal with your TA during your lab session
+- Final Independent Project Proposals due on Friday at noon
 
 ## Week 7 (November 11–15)
 
@@ -104,7 +105,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ### Assignments/Due Dates:
 
-- Final Independent Project Proposals due on Friday at noon
+- Answer questions on [Fraley *et al*](https://www.nature.com/articles/ncb2062) by Tuesday at noon.
 
 ## Week 8 (November 18–22)
 
