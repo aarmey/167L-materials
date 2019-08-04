@@ -5,7 +5,7 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-# BIOENGR 167L: Bioengineering Laboratory (Spring 2019)
+# BIOENGR 167L: Bioengineering Laboratory (Fall 2019)
 
 **UCLA Department of Bioengineering**
 
@@ -13,23 +13,22 @@ Instructor:
 ~ Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 
 Class Hours:
-~ Lecture (T 12:00–1:50 pm, Boelter Hall 5436)
+~ Lecture (M 8:00–9:50 am, Boelter Hall 5436)
 
 **Lab Hours and Teaching Assistants:**
 
-- LAB 1A (MW 9:00–11:50 pm): Wei-Chia Luo (<elizabethluo0103@gmail.com>)
-- LAB 1B (MW 12:00–2:50 pm): Shreya Udani (<shreyau@g.ucla.edu>)
-- LAB 1C (TR 9:00–11:50 am): Arshia Ehsanipour (<arshiaehsanipour@gmail.com>)
-- LAB 1D (TR 3:00–5:50 pm): Alireza Sohrabi (<alireza.sohrabi67@gmail.com>)
+- LAB 1A (MW 12:00–2:50 pm): TBD (<TBD@ucla.edu>)
+- LAB 1B (TR 12:00–2:50 pm): TBD (<TBD@ucla.edu>)
+- LAB 1C (MW  3:00–5:50 pm): TBD (<TBD@ucla.edu>)
 
 **Office Hours:**
 
-- Prof. Meyer: Friday at 2:00 pm, Eng V 4129 or by appointment
+- Prof. Meyer: M 11:00–11:50 am, Eng V 4129 or by appointment
 - TAs: by appointment
 
 **Lab Location:** Labs will always meet in Boelter Hall 7732
 
-**Website: <https://ccle.ucla.edu/course/view/19S-BIOENGR167L-1>**
+**Website: <https://ccle.ucla.edu/course/view/19F-BIOENGR167L-1> and <https://aarmey.github.io/167L-materials/>**
 
 ## 1. Required Supplies
 
@@ -39,7 +38,7 @@ Class Hours:
 
 None. Handouts will be provided as needed and posted on the website.
 
-*Recommended:*
+*Optional:*
 
 Barker, K. At the Bench: A Laboratory Navigator. Updated Ed. Cold Spring Harbor Laboratory Press. Cold Spring
 Harbor, NY. 2005.
@@ -48,7 +47,7 @@ McMillan, VE. Writing Papers in the Biological Sciences, 5th Ed. Boston, MA. Bed
 
 **Personal Protective Equipment (PPE):** Each student is required to bring a lab coat (preferably 100% cotton) and lab notebook to each lab session. PPE can be purchased on campus (AXE Office; 1275 Young Hall or Ackerman Book Store) or online (e.g., <http://www.scrubsunlimited.com/>, Amazon). You must bring your PPE with you to Lab 1 and all future labs.
 
-**Lab Notebooks:** You must purchase a bound notebook and bring it to every lab session. You will need to maintain records your experiments in your notebook according to the requirements posted on CCLE.
+**Lab Notebooks:** You must purchase a bound notebook and bring it to every lab session. You will need to maintain records your experiments in your notebook.
 
 **Course Materials Fee:** After 4th week, you will be charged a course materials fee of $50 automatically through BruinBill. This is meant to offset a small portion of the supplies cost for the course.
 
