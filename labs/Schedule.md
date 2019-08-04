@@ -23,11 +23,7 @@ header-includes: |
 
 ## Week 2 (October 7–11)
 
-<!-- https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833-->
-
-**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.
+**Lecture 2:** Reading, writing, and the goal of the scientific manuscript. Review Ten Simple Rules articles ([1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), [2](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453), [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)).
 
 ### Lab
 
@@ -36,7 +32,7 @@ https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833--
 
 ### Assignments/Due Dates:
 
-
+- Answer questions on Ten Simple Rules articles ([1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), [2](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453), [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)) before lecture.
 
 ## Week 3 (October 14–18)
 
