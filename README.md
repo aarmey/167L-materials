@@ -120,9 +120,9 @@ Participation is graded out of a total of 46 points based on the following.
     - Lab notebooks (12 points)
     - Working productively and respectfully with my lab partner (6 points)
     - Pre-lab preparation and quizzes (12 points)
-- Case Studies and In-Class Discussions
-    - Summary paragraphs (9 points)
-    - Participation in class discussions (class attendance will be taken on these days) (3 points)
+- Readings and In-Class Discussions
+    - Summary paragraphs / questions from reading (9 points)
+    - Participation in class discussions (3 points)
 - Independent Project Planning
     - Turn in your 1^st^ independent lab proposal and discuss with your TA (2 points)
     - Turn in your final independent lab proposal on time (2 points)
