@@ -130,17 +130,17 @@ Participation is graded out of a total of 46 points based on the following.
 
 ##### Pre-lab preparation and quizzes (12 points)
 
-Students are expected to be on time to and attend every lab session. *One-question quizzes will be given at the beginning of each lab section on the prelab assignment.* Quiz questions will be based on information provided in lab session protocols, supplemental reading and video content that will be posted on CCLE by 6 PM the previous Friday. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade. **You must bring lab protocols with you to lab and be prepared to work independently.**
+Students are expected to be on time to and attend every lab session. *One-question quizzes will be given at the beginning of each lab section on the prelab assignment.* Quiz questions will be based on information provided in lab session protocols, supplemental reading and video content posted on the class website. Each lab session (Labs 1-12) will be work 1 pt towards your final participation grade. **You must bring lab protocols with you to lab and be prepared to work independently.**
 
 **Working productively and respectfully with my lab partner (6 points):** Your TA will assign you to a lab partner with whom you will work on Labs 1–12 and your independent project. This part of the class is a lesson in learning how to work productively with other people. Please be respectful to your lab partner by engaging fully and making contributions to your team.
 
-**Lab notebooks (12 points)**: In BE167L, the purpose of your Lab Notebook is to record your experiments ***while you are doing them***. You should have an entry for each lab session including your methods and raw data. You can print out and paste in protocols from online; however, you must make notes on any changes in your notebook during your lab session. Your raw data must also be recorded when you get the data during your lab session. Your TA will check your notebook to make sure you have recorded everything during each lab session. Each lab session (Labs 1–12) will be work 1 pt towards your final participation grade.
+**Lab notebooks (12 points)**: The purpose of your lab notebook is to record your experiments ***while you are doing them***. You should have an entry for each lab session including your methods and raw data. You can print out and paste in protocols from online; however, you must make notes on any changes in your notebook during your lab session. Your raw data must also be recorded when you get the data during your lab session. Your TA will check your notebook to make sure you have recorded everything during each lab session. Each lab session (Labs 1–12) will be work 1 pt towards your final participation grade.
 
-**Additional information about lab attendance:** You expected to attend and participate in every lab session. As detailed above, your participation grade will depend largely on your attendance. If you have conflicts with a lab session, you must notify your TA, lab partners and Dr. Meyer in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If it is impossible for you to attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups during week 9. If you plan to make up a lab on this date, please discuss arrangements with the head TA and Dr. Meyer. If you do end up needing to make-up a lab session, we will re-grade your revised Lab Report (including the missed section) after the make-up lab.
+**Additional information about lab attendance:** You expected to attend and participate in every lab session. If you have conflicts with a lab session, you must notify your TA, lab partners and Dr. Meyer in advance and arrange a time to make-up the lab. Ideally, this will be in another lab session when the lab you need to miss is already being performed. For example, if you will be out on a Monday, try to make-up in the Tuesday session the very next day. If you will be attending another lab session, you must notify the TA for that lab session in addition to your normal TA. *Please notify us at least 48 hrs in advance so we can ensure lab materials are available.* If it is impossible for you to attend another lab session due to an illness or family emergency, there will be an opportunity for make-ups during week 9. If you plan to make up a lab on this date, please discuss arrangements with the head TA and Dr. Meyer. If you do end up needing to make-up a lab session, we will re-grade your revised lab report (including the missed section) after the make-up lab.
 
 #### 4.1.2. Pre-Class Readings:
 
-We will review several recent experiments and papers in the recent literature that relate to the laboratory techniques that will be used. During lecture we will critically analyze and discuss the results and experimental methods used in these papers. To prepare for the discussion you will be required to read the papers before class and address questions specific to each reading. While you may discuss these papers with others, your answers should be written individually. Any duplicate text or other plagiarism will result in a zero for the assignment. PDFs of the papers will be posted on CCLE.
+We will review several experiments and papers in the recent literature that relate to the laboratory techniques we will use. During lecture we will critically analyze and discuss the results and experimental methods used in these papers. To prepare for the discussion you will be required to read the papers before class and address questions specific to each reading. While you may discuss these papers with others, your answers should be written individually. Any duplicate text or other plagiarism will result in a zero for the assignment. PDFs of the papers will be posted on CCLE.
 
 **Grading for Case Study Summary Paragraphs:**
 
@@ -158,28 +158,19 @@ We will review several recent experiments and papers in the recent literature th
 
 #### 4.1.3. Independent Project Proposals:
 
-Labs 13, 14 and 15 will be dedicated to your Independent Project research. More details will be provided in lecture. Briefly, you and your lab partner will propose your own hypothesis, design an experiment to test this hypothesis, and perform your experiments during lab sessions. Your Final Lab Reports will be based on these experiments. You will turn in a first draft of your proposals, discuss with your TA and make adjustments as necessary, and then turn in a final draft of your proposal. Proposal drafts will be worth 2 participation points each.
+Labs 13, 14 and 15 will be dedicated to your independent project. More details will be provided in lecture. Briefly, you and your lab partner will propose your own hypothesis, design an experiment to test this hypothesis, and perform your experiments during lab sessions. Your final lab reports will be based on these experiments. You will turn in a first draft of your proposals, discuss with your TA and make adjustments as necessary, and then turn in a final draft of your proposal. Proposal drafts will be worth 2 participation points each.
 
 ### 4.2. Lab Reports (27%):
 
-There will be *three Lab Report assignments* due throughout the quarter. For Lab Reports assignments, you will use data collected from the labs and answer critical thinking questions about your data. Specific information about the Lab Report requirements will be posted on CCLE. Reports are due by 12 PM on the due date (uploaded to CCLE).
-
-Lab Report 1:
-~ Labs 1-4
-
-Lab Report 2:
-~ Labs 5-8
-
-Lab Report 3:
-~ Labs 9-12
+There will be *three lab reports* due throughout the quarter. These will use data collected from the labs and answer critical thinking questions about your data. Specific information about the lab report requirements is posted on the class website.
 
 ### 4.3. Final Laboratory Report (15%):
 
-For the final lab report, you will present analysis of your independent lab experiments in the format of a short journal paper. More details on the exact requirements will be provided on CCLE and in the week 5 lecture.
+For the final lab report, you will present analysis of your independent lab experiments in the format of a short journal paper. More details on the exact requirements are on the class website and in week 5 lecture.
 
 Although data from your group will be identical, laboratory reports must be worked on and turned in independently. Duplication of text or figures between laboratory reports will result in a zero on the assignment for both parties. Duplication of text or figures from reports from previous years also will result in a zero on the assignment. Slight or moderate variations in word choice, addition of words, word order, or sentence order is also considered duplication. It is just easier to start from scratch, than to work off of another report.
 
-Your final report *will be due during finals week, Thurs., December 13, 2018 at noon.* This will be 15% of your final grade.
+Your final report *will be due during finals week.* This will be 15% of your final grade.
 
 ### 4.4. Exams (35%):
 
@@ -187,11 +178,11 @@ The course will have 3 exams. These include two exams during the lecture time an
 
 #### 4.4.1. Lab Practical Exam:
 
-The lab practical will be an exam of your laboratory skills learned up to week 8 and will be conducted by your TA. This will involve a written exam concerning laboratory practice conducted during the laboratory period. This is worth 10% of your final grade.
+The lab practical will be an exam of your laboratory skills learned up to week 8 and will be conducted by your TA. This will involve a written and exercise-based exam concerning laboratory practice conducted during the laboratory period. This is worth 10% of your final grade.
 
 #### 4.4.2. Lecture Exams:
 
-Two exams will be given in lecture on topics covered in lecture. Each of these will be 12.5% of your final grade. Exam 1 will cover lecture topics from weeks 1–4 and Exam 2 will cover lecture topics from weeks 5–8.
+Two exams will be given in lecture on topics covered in lecture. Each of these will be 12.5% of your final grade. Both exams will generally not be cumulative, and will cover lecture and reading material from the previous weeks. Example prior exams are posted on the class website.
 
 ## Title IX
 
