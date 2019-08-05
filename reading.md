@@ -1,0 +1,17 @@
+
+
+
+### Ten Simple Rules
+
+1. Who are the best and worst individuals to judge the clarity of your writing? Explain.
+2. What is a step/action that can improve a paper during the process of writing it?
+3. Do these papers follow their own advice? Identify one specific way mentioned to improve one of them. (This doesn't need to come from the same paper.)
+
+### Agarwal and Bertozzi
+
+You can just focus on 176–181.
+
+1. What is a benefit and drawback of lysine-based conjugation?
+2. Why does cystein-mediated conjugation require pre-treatment with a reducing agent such as DTT?
+3. Do you think cystein-mediated conjugation is possible for most proteins? How about lysine-mediated conjugation? Why/why not?
+
