@@ -15,3 +15,11 @@ You can just focus on 176–181.
 2. Why does cystein-mediated conjugation require pre-treatment with a reducing agent such as DTT?
 3. Do you think cystein-mediated conjugation is possible for most proteins? How about lysine-mediated conjugation? Why/why not?
 
+
+
+
+### Sun et. al.
+
+1. How is stretchability related to fracture energy?
+2. To what do the authors attribute the high alginate-polyacrylamide gel stretchability?
+3. How is recovery of the gels for a second loading related to time between loadings and temperature? Is this what you would expect?
