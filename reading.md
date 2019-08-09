@@ -1,5 +1,10 @@
+---
+pagestyle: empty
+header-includes: |
+    \renewcommand\familydefault{\sfdefault}
+---
 
-
+# Reading Notes / Questions
 
 ### Ten Simple Rules
 
@@ -14,6 +19,29 @@ You can just focus on 176–181.
 1. What is a benefit and drawback of lysine-based conjugation?
 2. Why does cystein-mediated conjugation require pre-treatment with a reducing agent such as DTT?
 3. Do you think cystein-mediated conjugation is possible for most proteins? How about lysine-mediated conjugation? Why/why not?
+
+### Shaffer et. al.
+
+
+
+
+
+
+### Hafner et. al.
+
+1. What is the argument the authors make when asserting we need a new drug response metric?
+2. What is the IC~50~? E~max~?
+3. How do the authors measure cell number? Are their methods specific to this type of assay?
+4. Let's say you're measuring the drug response of an enzyme's activity—do you need to use the GR~50~? Why?
+
+### Fraley et. al.
+
+
+
+
+
+### Engler et. al.
+
 
 
 
