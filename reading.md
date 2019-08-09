@@ -42,9 +42,9 @@ You can just focus on 176–181.
 
 ### Engler et. al.
 
-
-
-
+1. What are the three lineages into which MSC's can differentiate? How do these lineages correspond to their ECM environment?
+2. What is blebbistatin? Why do the authors use it? What is the effect that they see?
+3. What do the dotted lines in Figure 4D/E represent? Why do the authors do this experiment? What do they determine?
 
 ### Sun et. al.
 
