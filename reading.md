@@ -36,9 +36,9 @@ You can just focus on 176–181.
 
 ### Fraley et. al.
 
-
-
-
+1. What are the cells the authors are studying? What is the dimensionality of the environment in which these cells migrate?
+2. In Figure 5, what is the effect of bis-acrylamide treatment on the matrix? Why are the authors using it?
+3. How do the authors determine whether matrix deformation was elastic or not?
 
 ### Engler et. al.
 
