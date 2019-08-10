@@ -12,6 +12,8 @@ layout: default
 
 [Project Notes](project-notes.html)
 
+[Questions/Notes for Reading](project-notes.html)
+
 ## Labs
 
 - [Lab 0](labs/lab0.html) ([PDF](lab0.pdf))
