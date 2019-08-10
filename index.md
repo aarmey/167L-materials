@@ -12,7 +12,7 @@ layout: default
 
 [Project Notes](project-notes.html)
 
-[Questions/Notes for Reading](project-notes.html)
+[Questions/Notes for Reading](reading.html)
 
 ## Labs
 
