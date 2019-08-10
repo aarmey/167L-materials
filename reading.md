@@ -22,10 +22,11 @@ You can just focus on 176–181.
 
 ### Shaffer et. al.
 
+Focus on Figures 1–3 (don't worry about Figure 4).
 
-
-
-
+1. What do the authors argue about the process of resistance development in Figure 1? How do they make this argument (statistical, experimental, other)? Describe.
+2. What is the Gini coefficient? Why do the authors use it?
+3. What is the experiment in Figure 3C? What is the author's hypothesis? Null hypothesis?
 
 ### Hafner et. al.
 
