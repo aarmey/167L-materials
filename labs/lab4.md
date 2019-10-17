@@ -4,8 +4,6 @@
 
 ## Prelab reading
 
-Read the article from "Intelligent Substrates", the article by Rahavan and Chen, 2004, Advanced Materials, and the article by Li, et al. 2014, Scientific Reports. PDF files of articles are posted on CCLE.
-
 Watch the lab [primer video](https://www.youtube.com/watch?v=-mQlgLpjEzM&index=8&list=PLDj2JVIfnYPhvlB6pLNJDBwWgsTXf3Q4i).
 
 ## Micro-contact printing
