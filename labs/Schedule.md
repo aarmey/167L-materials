@@ -72,7 +72,7 @@ header-includes: |
 ### Assignments/Due Dates:
 
 - Answer questions on [Hafner *et al*](https://www.nature.com/articles/nmeth.3853) before lecture.
-- Review session Friday TBD.
+- Review session Friday 9:30–10:30, room TBD.
 - Discuss independent project proposal with your TA during your lab session
 
 ## Week 6 (November 4–8)
