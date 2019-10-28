@@ -16,7 +16,7 @@ There is a sample template below for your reports. Your report should be divided
 
 The emphasis is not on how long your report is, but the content and quality of discussion. 5 pages is a maximum, not a minimum. Concise, professional scientific writing is an important skill that you should begin to cultivate now. It improves by reading scientific work and writing scientific reports.
 
-If you need more guidance on writing a scientific manuscript, please refer to [Whitesides 2004](https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767) and [Plaxo 2010](https://www.onlinelibrary.wiley.com/doi/full/10.1002/pro.514) handouts (posted on CCLE).
+If you need more guidance on writing a scientific manuscript, please refer to [Whitesides 2004](https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767) and [Plaxco 2010](https://www.onlinelibrary.wiley.com/doi/full/10.1002/pro.514) handouts (posted on CCLE).
 
 You will need to include the following:
 
