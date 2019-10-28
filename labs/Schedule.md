@@ -95,8 +95,8 @@ header-includes: |
 
 ### Lab
 
-- Mon/Tues: (11) Varying stiffness substrates and cell growth, seeding cells.
-- Wed/Thurs: (12) Quantification and analysis of cell growth and morphology
+- Mon/Tues: No lab.
+- Wed/Thurs: (11) Varying stiffness substrates and cell growth, seeding cells.
 
 ### Assignments/Due Dates:
 
@@ -108,8 +108,8 @@ header-includes: |
 
 ### Lab
 
-- Mon/Tues: Lab Practical Exam
-- Wed/Thurs: (13) Independent lab
+- Mon/Tues: (12) Quantification and analysis of cell growth and morphology.
+- Wed/Thurs: Lab Practical Exam, Independent lab.
 
 ### Assignments/Due Dates:
 
@@ -122,7 +122,7 @@ header-includes: |
 
 ### Lab
 
-- Mon/Tues: (14) Independent lab
+- Mon/Tues: (14) Independent lab.
 - Wed/Thurs: No lab (Thanksgiving); Make-up labs Wednesday if needed
 
 ### Assignments/Due Dates:
@@ -137,7 +137,7 @@ header-includes: |
 ### Lab
 
 - Mon/Tues: (15) Independent lab.
-- Wed/Thurs: (16) Lab clean-up. Instron demonstration.
+- Wed/Thurs: (16) Independent lab first hour. Lab clean-up.
 
 ### Assignments/Due Dates:
 
