@@ -86,7 +86,7 @@ header-includes: |
 
 ### Assignments/Due Dates:
 
-- Report for labs 5-8 due on Thursday at noon
+- Report for labs 5-8 due on Sunday at 11:59 PM
 - Final Independent Project Proposals due on Friday at noon
 
 ## Week 7 (November 11–15)
