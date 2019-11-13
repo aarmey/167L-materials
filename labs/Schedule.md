@@ -114,7 +114,6 @@ header-includes: |
 ### Assignments/Due Dates:
 
 - Answer questions on [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044) before lecture.
-- Report for labs 9-12 due on Thursday at noon.
 
 ## Week 9 (November 25–29)
 
@@ -128,6 +127,7 @@ header-includes: |
 ### Assignments/Due Dates:
 
 - Answer questions on [Sun *et al*](https://www.nature.com/articles/nature11409) before lecture.
+- Report for labs 9-12 due on Tuesday at noon.
 - Review session Wednesday TBD.
 
 ## Week 10 (December 2–6)
