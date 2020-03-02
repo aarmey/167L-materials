@@ -58,7 +58,7 @@ header-includes: |
 ### Assignments/Due Dates:
 
 - Answer questions on [Shaffer *et al*](https://www.nature.com/articles/nature22794) before lecture.
-- Report for labs 1–4 due on Thursday at noon.
+- Report for labs 1–4 due Thursday at noon.
 
 ## Week 5 (April 27–May 1)
 
@@ -72,7 +72,7 @@ header-includes: |
 ### Assignments/Due Dates:
 
 - Answer questions on [Hafner *et al*](https://www.nature.com/articles/nmeth.3853) before lecture.
-- Review session Friday 9:30–10:30, Eng V 4101.
+- Review session TBD.
 - Discuss independent project proposal with your TA during your lab session
 
 ## Week 6 (May 4–8)
@@ -86,7 +86,7 @@ header-includes: |
 
 ### Assignments/Due Dates:
 
-- Report for labs 5-8 due on Sunday, Nov 10 at 11:59 PM
+- Report for labs 5-8 due Thursday at noon.
 - Final Independent Project Proposals due on Friday at noon
 
 ## Week 7 (May 11–15)
@@ -95,8 +95,8 @@ header-includes: |
 
 ### Lab
 
-- Mon/Tues: No lab.
-- Wed/Thurs: (11) Varying stiffness substrates and cell growth, seeding cells.
+- Mon/Tues: (11) Varying stiffness substrates and cell growth, seeding cells.
+- Wed/Thurs: (12) Quantification and analysis of cell growth and morphology.
 
 ### Assignments/Due Dates:
 
@@ -108,8 +108,8 @@ header-includes: |
 
 ### Lab
 
-- Mon/Tues: (12) Quantification and analysis of cell growth and morphology.
-- Wed/Thurs: Lab Practical Exam, Independent lab.
+- Mon/Tues: (13) Lab Practical Exam, Independent lab.
+- Wed/Thurs: (14) Independent lab.
 
 ### Assignments/Due Dates:
 
@@ -121,8 +121,8 @@ header-includes: |
 
 ### Lab
 
-- Mon/Tues: (14) Independent lab.
-- Wed/Thurs: No lab (Thanksgiving); Make-up labs Wednesday if needed
+- Mon/Tues: Veterans Day, no lab. Make-up labs if needed.
+- Wed/Thurs: (15) Independent lab.
 
 ### Assignments/Due Dates:
 
@@ -132,12 +132,12 @@ header-includes: |
 
 ## Week 10 (June 1–5)
 
-**Lecture 9:** **Exam 2** (first hour), finish hydrogel mechanics.
+**Lecture 10:** **Exam 2** (first hour), finish hydrogel mechanics.
 
 ### Lab
 
-- Mon/Tues: (15) Independent lab.
-- Wed/Thurs: (16) Independent lab first hour. Lab clean-up.
+- Mon/Tues: (16) Independent lab first hour. Lab clean-up.
+- Wed/Thurs: (17) Instron demo.
 
 ### Assignments/Due Dates:
 
