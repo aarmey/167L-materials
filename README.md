@@ -5,7 +5,7 @@ header-includes: |
     \usepackage[euler]{textgreek}
 ---
 
-# BIOENGR 167L: Bioengineering Laboratory (Fall 2019)
+# BIOENGR 167L: Bioengineering Laboratory (Spring 2020)
 
 **UCLA Department of Bioengineering**
 
@@ -13,22 +13,23 @@ Instructor:
 ~ Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 
 Class Hours:
-~ Lecture (M 8:00–9:50 am, Boelter Hall 5436)
+~ Lecture (T 12:00–2:50 pm, Boelter Hall 8500)
 
 **Lab Hours and Teaching Assistants:**
 
-- LAB 1A (MW 12:00–2:50 pm): Tina Huang (<tinahuang962@gmail.com>)
-- LAB 1B (TR 12:00–2:50 pm): Hector Munoz (<hmunoz14@ucla.edu>)
-- LAB 1C (MW  3:00–5:50 pm): Mark van Zee (<mvanzee2014@ucla.edu>)
+- LAB 1A (MW 9:00-11:50 am): TBD (<TBD@ucla.edu)
+- LAB 1B (MW 12:00–2:50 pm): TBD (<TBD@ucla.edu>)
+- LAB 1C (TR 9:00–11:50 am): TBD (<TBD@ucla.edu>)
+- LAB 1D (TR 3:00–5:50 pm): TBD (<TBD@ucla.edu>)
 
 **Office Hours:**
 
-- Prof. Meyer: F 9:30–10:30 am, Eng V 4129 or by appointment
+- Prof. Meyer: TBD or by appointment
 - TAs: by appointment
 
 **Lab Location:** Labs will always meet in Boelter Hall 7732
 
-**Website: <https://ccle.ucla.edu/course/view/19F-BIOENGR167L-1> and <https://aarmey.github.io/167L-materials/>**
+**Website: <https://ccle.ucla.edu/course/view/20S-BIOENGR167L-1> and <https://aarmey.github.io/167L-materials/>**
 
 ## 1. Required Supplies
 
