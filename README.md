@@ -17,7 +17,7 @@ Class Hours:
 
 **Lab Hours and Teaching Assistants:**
 
-- LAB 1A (MW 9:00-11:50 am): TBD (<TBD@ucla.edu)
+- LAB 1A (MW 9:00-11:50 am): TBD (<TBD@ucla.edu>)
 - LAB 1B (MW 12:00–2:50 pm): TBD (<TBD@ucla.edu>)
 - LAB 1C (TR 9:00–11:50 am): TBD (<TBD@ucla.edu>)
 - LAB 1D (TR 3:00–5:50 pm): TBD (<TBD@ucla.edu>)
