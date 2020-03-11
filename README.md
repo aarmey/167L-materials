@@ -17,17 +17,20 @@ Class Hours:
 
 **Lab Hours and Teaching Assistants:**
 
-- LAB 1A (MW 9:00-11:50 am): TBD (<TBD@ucla.edu>)
-- LAB 1B (MW 12:00–2:50 pm): TBD (<TBD@ucla.edu>)
-- LAB 1C (TR 9:00–11:50 am): TBD (<TBD@ucla.edu>)
-- LAB 1D (TR 3:00–5:50 pm): TBD (<TBD@ucla.edu>)
+- Head TA: Mark Van Zee (<mvanzee2014@ucla.edu>)
+- LAB 1A (MW 9:00-11:50 am): Binru Chen (<brchen@g.ucla.edu>)
+- LAB 1B (MW 12:00–2:50 pm): Felis Koo (<feliskoo@g.ucla.edu>)
+- LAB 1C (TR 9:00–11:50 am): Michael Bogumil (<mbogumil@ucla.edu>)
+- LAB 1D (TR 3:00–5:50 pm): Cayden Williamson (<caywilliamson@g.ucla.edu>)
 
 **Office Hours:**
 
-- Prof. Meyer: TBD or by appointment
-- TAs: by appointment
+- Prof. Meyer: After class or by appointment
+- TAs: By appointment
 
-**Lab Location:** Labs will always meet in Boelter Hall 7732
+**Please note that the formats of lectures, exams, and other aspects of this course are subject to change based on instructions and guidance from UCLA leadership.**
+
+**Lab Location:** **Labs will be held online for the first two weeks.** In-person labs will always meet in Boelter Hall 7732.
 
 **Website: <https://ccle.ucla.edu/course/view/20S-BIOENGR167L-1> and <https://aarmey.github.io/167L-materials/>**
 
