@@ -17,8 +17,8 @@ Follow this layout for EACH lab report. Note that each report covers multiple la
 
 ### Results and Discussion (2-3 pages):
 
-- Write out your results in the form of a scientific manuscript. This is not your raw data, but rather your analyzed data. You should include figures (e.g., graphs, images) of your findings. 
-- You will then discuss your interpretation of your results. What do your results indicate? Are they as expected? How do your results relate to your original hypothesis? 
+- Write out your results in the form of a scientific manuscript. This is not your raw data, but rather your analyzed data. You should include figures (e.g., graphs, images) of your findings.
+- You will then discuss your interpretation of your results. What do your results indicate? Are they as expected? How do your results relate to your original hypothesis?
 - Make sure and address the specific questions for each Lab Assignment.
 - You will likely want to divide this section into subsections for different experiments 
 
@@ -68,19 +68,19 @@ Follow this layout for EACH lab report. Note that each report covers multiple la
 
 #### Lab 6
 
-4. What is the total number of cells per well and the cell density in cells/cm^2^ from each well you counted in lab 6? Add this to your table from lab 5.
-5. Knowing the time that elapsed between when you seeded these cells in lab 5 and when you counted them in lab 6, you can calculate the doubling time (hr) of your cells. In a single graph, plot the cell number (\# of cells) versus time (hr) for each initial seeding density/split ratio. Note the units of the x- and y-axis. Also note that you have cell numbers from two time points. Make sure to explain your calculation methods in the Methods section.
+4. What is the total number of cells per well and the cell density in cells/cm<sup>2</sup> from each well you counted in lab 6? Add this to your table from lab 5.
+5. Knowing the time that elapsed between when you seeded these cells in lab 5 and when you counted them in lab 6, you can calculate the doubling time (hr) of your cells. In a single graph, plot the cell number (# of cells) versus time (hr) for each initial seeding density/split ratio. Note the units of the x- and y-axis. Also note that you have cell numbers from two time points. Make sure to explain your calculation methods in the Methods section.
 6. From the plot you just generated, calculate the doubling time (hr) of the cells, which is the time it takes for a population of HeLa cells to double from its initial population. How does this value compare to the doubling time referenced in literature? Use the following equation for your reference: $$\textrm{ln} N = \textrm{ln} N_0 + \frac{\textrm{ln} 2}{t_d} t$$ where $N$ = number of cells at time *t*, $N_0$ = number of cells at time $t_0$, $t_d$ = doubling time, $t$ = time allowed for cells to grow.
 
 #### Lab 7
 
 7. Prepare a standard curve by plotting the absorbance for each BSA standard A through H on the y-axis and its concentration in *µg/mL* on the x-axis and performing a linear regression. Use the standard curve to determine the protein concentration of each unknown sample.
-8. Plot a graph of cell number (\# of cells) versus protein amount (mg). Note the units of the x- and y-axis. What is the relationship between cell number vs. protein amount?
-9. You have previously determined the doubling time of 3T3 cells, and now you have a correlation between number of cells and amount of protein. How much protein can you expect to collect from a T25 flask of cells after culturing for 48 hours if you originally plated the flask at a density of 2,000 cells/cm^2^?
-10. Determine the corrected absorbance by the 0 cells/cm^2^ group absorbance from each of your other absorbance readings, including the 0 cells/cm^2^ readings.
-11. Generate a standard curve of the corrected absorbances on the x-axis and the cell number from your 6 serial dilutions on the y-axis (in thousands of cells/cm^2^). Fit the data with an appropriate trendline. Is the relationship linear or logarithmic? Are there separate ranges in the data that are more linear than the rest?
+8. Plot a graph of cell number (# of cells) versus protein amount (mg). Note the units of the x- and y-axis. What is the relationship between cell number vs. protein amount?
+9. You have previously determined the doubling time of 3T3 cells, and now you have a correlation between number of cells and amount of protein. How much protein can you expect to collect from a T25 flask of cells after culturing for 48 hours if you originally plated the flask at a density of 2,000 cells/cm<sup>2</sup>?
+10. Determine the corrected absorbance by the 0 cells/cm<sup>2</sup> group absorbance from each of your other absorbance readings, including the 0 cells/cm<sup>2</sup> readings.
+11. Generate a standard curve of the corrected absorbances on the x-axis and the cell number from your 6 serial dilutions on the y-axis (in thousands of cells/cm<sup>2</sup>). Fit the data with an appropriate trendline. Is the relationship linear or logarithmic? Are there separate ranges in the data that are more linear than the rest?
 12. Generate a standard curve of the corrected absorbances on the x-axis and the cell number from your 3 wells you seeded in the last lab on the y-axis. Fit the data with an appropriate trendline. Is the relationship linear or logarithmic?
-13. Compare your absorbance and cell \# data from the serial dilutions to the plated cells from the last lab, you may overlay your data points. Do you notice any differences in the trends or do they overlay neatly along the same trendline? How might you explain their relationship?
+13. Compare your absorbance and cell # data from the serial dilutions to the plated cells from the last lab, you may overlay your data points. Do you notice any differences in the trends or do they overlay neatly along the same trendline? How might you explain their relationship?
 
 #### Lab 8
 
