@@ -2,13 +2,13 @@
 layout: default
 ---
 
-[Syllabus](README.html) ([PDF](Syllabus.pdf))
+[Syllabus](README.html)
 
-[Schedule](labs/Schedule.html) ([PDF](Schedule.pdf))
+[Schedule](labs/Schedule.html)
 
-[Report Guidelines](labs/Report-Guideline.html) ([PDF](Report-Guideline.pdf))
+[Report Guidelines](labs/Report-Guideline.html)
 
-[Final Report Guidelines](labs/Final-Report-Guidelines.html) ([PDF](Final-Report-Guidelines.pdf))
+[Final Report Guidelines](labs/Final-Report-Guidelines.html)
 
 [Project Notes](project-notes.html)
 
@@ -16,19 +16,19 @@ layout: default
 
 ## Labs
 
-- [Lab 0](labs/lab0.html) ([PDF](lab0.pdf))
-- [Lab 1](labs/lab1.html) ([PDF](lab1.pdf))
-- [Lab 2](labs/lab2.html) ([PDF](lab2.pdf))
-- [Lab 3](labs/lab3.html) ([PDF](lab3.pdf))
-- [Lab 4](labs/lab4.html) ([PDF](lab4.pdf))
-- [Lab 5](labs/lab5.html) ([PDF](lab5.pdf))
-- [Lab 6](labs/lab6.html) ([PDF](lab6.pdf))
-- [Lab 7](labs/lab7.html) ([PDF](lab7.pdf))
-- [Lab 8](labs/lab8.html) ([PDF](lab8.pdf))
-- [Lab 9](labs/lab9.html) ([PDF](lab9.pdf))
-- [Lab 10](labs/labA.html) ([PDF](labA.pdf))
-- [Lab 11](labs/labB.html) ([PDF](labB.pdf))
-- [Lab 12](labs/labC.html) ([PDF](labC.pdf))
+- [Lab 0](labs/lab0.html)
+- [Lab 1](labs/lab1.html)
+- [Lab 2](labs/lab2.html)
+- [Lab 3](labs/lab3.html)
+- [Lab 4](labs/lab4.html)
+- [Lab 5](labs/lab5.html)
+- [Lab 6](labs/lab6.html)
+- [Lab 7](labs/lab7.html)
+- [Lab 8](labs/lab8.html)
+- [Lab 9](labs/lab9.html)
+- [Lab 10](labs/labA.html)
+- [Lab 11](labs/labB.html)
+- [Lab 12](labs/labC.html)
 
 ## Previous Exams
 

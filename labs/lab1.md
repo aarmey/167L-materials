@@ -18,7 +18,7 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 - Insert tip about 1 cm into the liquid and SLOWLY let the plunger slide back into the rest position. Note: Don't let liquids bounce up into the pipette shaft. This can damage your pipette and contaminate the rest of your samples.
 - Repeat this 1-2 times to condition the pipette tip. Then collect the water.
 
-![Pipetting example](labs/graphics/pipette.png){width="5.9in"}
+![Pipetting example](graphics/pipette.png){width="5.9in"}
 
 ## Liquid Dispensing 
 
@@ -119,7 +119,7 @@ Particle and cell density can be measured using a hemocytometer and inverted mic
 3. Uniformly distribute the particles by pipetting the liquid up and down. Do this just prior to collecting the liquid to place on the hemocytometer. Beads and cells settle quickly.
 4. Make sure your hemocytometer is clean. If needed, wipe gently with 70% alcohol and a Kimwipe.
 
-![Hemocytometer](labs/graphics/hemo-load.png){width="5.79in"}
+![Hemocytometer](graphics/hemo-load.png){width="5.79in"}
 
 5. Place your coverslip on top of the mounting supports.
 6. Load the sample of the bead suspension into one side of the cover-slipped hemocytometer at the sample induction point (see below). Use a P200 or P20 pipette and draw up 10 µL of bead suspension (make sure it is well mixed before drawing up your sample). Place the end of the pipette tip against the sample introduction point (the depressed triangle at the edge). *Slowly* eject some of your suspension and allow capillary action to draw the liquid underneath the coverslip.
@@ -131,6 +131,6 @@ Particle and cell density can be measured using a hemocytometer and inverted mic
 12. Immediately after use, clean the hemocytometer and coverslip with 70% alcohol and dry with a Kimwipe. Store in plastic case and return it to your TA.
 13. Clean up all materials and check with TA before leaving.
 
-![Hemocytometer calculation](labs/graphics/hemo.png){width="4.0in"}
+![Hemocytometer calculation](graphics/hemo.png){width="4.0in"}
 
 *Common sources of hemocytometer count error:* Variable sampling from the original bead suspension. The original bead suspension must be thoroughly mixed just prior to sampling or beads will settle to the bottom quickly. Inadequate or excessive filling of the hemocytometer chamber.

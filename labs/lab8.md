@@ -67,4 +67,4 @@ You must do this lab in sequence to ensure that you have enough cells for your s
 4. Allow the 96-well plates to incubate with the assay reagent for 1 hour.
 5. Your TA will now take the entire class to the plate reader to read the absorbance's, make sure you record the values associated with your wells.
 
-![Plate layout](labs/graphics/96-well-plate.png)
+![Plate layout](graphics/96-well-plate.png)
