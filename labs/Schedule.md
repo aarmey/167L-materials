@@ -1,9 +1,3 @@
----
-pagestyle: empty
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
----
-
 # Schedule
 
 ## Week 1 (March 30–April 3)

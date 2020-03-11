@@ -1,8 +1,3 @@
----
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
-    \usepackage[euler]{textgreek}
----
 # Final Lab Report Guidelines
 
 11pt. font, Arial, 1 inch margins, single-spaced. 5 page maximum for main text and figures (abstract and references are not included in page limit) Figures with captions formatted within text.
