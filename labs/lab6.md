@@ -8,7 +8,7 @@
 
 Being able to look at a flask of cells and estimate a rough order of magnitude for the number of cells is a useful skill. You may be growing cells for an experiment and need to estimate how long it will take to grow enough cells. Also estimating the confluency of a flask and how much time you might have before they become confluent is important for knowing when to passage cells before they become too confluent. Once they become confluent they may stop dividing and enter a different phase of the cell cycle, which may not be desirable for your experiment. You would typically passage cells when they reach 80-90% confluency. 100% confluency means that cells cover 100% of the available surface area. Look at the figures below for an idea of what cells look like at different densities on a culture surface.
 
-![Different densities of cells are shown in this series of images from a phase contrast microscope in the teaching lab. These cells were cultured in tissue culture flasks you will be using and were counted before and after plating using a hemocytometer. The estimated confluencies are given in percentages and the rough number of cells per cm^2^ are given in parentheses.](labs/graphics/cells.jpg){width=5.9in}
+![Different densities of cells are shown in this series of images from a phase contrast microscope in the teaching lab. These cells were cultured in tissue culture flasks you will be using and were counted before and after plating using a hemocytometer. The estimated confluencies are given in percentages and the rough number of cells per cm^2^ are given in parentheses.](graphics/cells.jpg)
 
 Watch the lab [primer video](https://www.youtube.com/watch?v=7YIXVYzxwwQ).
 
@@ -69,7 +69,7 @@ You will harvest your cells from the 6 well plate and the T25 flask and count th
 - Pipet-aid
 - Phase contrast microscope
 - Centrifuge
-- CO~2~ cell culture incubator
+- CO<sub>2</sub> cell culture incubator
 - Hemocytometer and cell counter
 
 **Safety**
@@ -87,8 +87,8 @@ Wear your safety glasses, gloves, and lab coat. Follow the sterile cell culture 
     - Transfer to a 15 mL centrifuge tube and collect a small known volume for counting on the hemocytometer.
 3. Before centrifuging your 15 mL tubes, remove 200 µL from each tube to a separately labeled microcentrifuge tube, keeping track of what densities are in each tube.
 4. While you are spinning down your cells, count the cells in your microcentrifuge tubes to determine the total number of cells in each of your 15 mL tubes.
-5. Prepare a 6-well cell culture plate with 3  mL of fresh complete medium in each well for your lab next week.
+5. Prepare a 6-well cell culture plate with 3 mL of fresh complete medium in each well for your lab next week.
 6. You may pool your cells from your 15 mL centrifuge tubes or just use one tube as your source. Resuspend your cells in the appropriate amount of medium to make a 1 million cells/mL suspension.
-7. In your 12-well plate, seed the top row with 1500 cells/cm^2^, the bottom row with 5000 cells/cm^2^, then seed the bottom row with 10000 cells/cm^2^.
+7. In your 12-well plate, seed the top row with 1500 cells/cm<sup>2</sup>, the bottom row with 5000 cells/cm<sup>2</sup>, then seed the bottom row with 10000 cells/cm<sup>2</sup>.
 9. Re-plate 1 T25 flask with at least 150,000 cells total.
 10. You may discard your left-over cells by aspirating them.
