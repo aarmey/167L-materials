@@ -8,7 +8,9 @@
 
 Being able to look at a flask of cells and estimate a rough order of magnitude for the number of cells is a useful skill. You may be growing cells for an experiment and need to estimate how long it will take to grow enough cells. Also estimating the confluency of a flask and how much time you might have before they become confluent is important for knowing when to passage cells before they become too confluent. Once they become confluent they may stop dividing and enter a different phase of the cell cycle, which may not be desirable for your experiment. You would typically passage cells when they reach 80-90% confluency. 100% confluency means that cells cover 100% of the available surface area. Look at the figures below for an idea of what cells look like at different densities on a culture surface.
 
-![Different densities of cells are shown in this series of images from a phase contrast microscope in the teaching lab. These cells were cultured in tissue culture flasks you will be using and were counted before and after plating using a hemocytometer. The estimated confluencies are given in percentages and the rough number of cells per cm^2^ are given in parentheses.](graphics/cells.jpg)
+![](graphics/cells.jpg)
+
+_Different densities of cells are shown in this series of images from a phase contrast microscope in the teaching lab. These cells were cultured in tissue culture flasks you will be using and were counted before and after plating using a hemocytometer. The estimated confluencies are given in percentages and the rough number of cells per cm<sup>2</sup> are given in parentheses._
 
 Watch the lab [primer video](https://www.youtube.com/watch?v=7YIXVYzxwwQ).
 
