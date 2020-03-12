@@ -56,7 +56,7 @@ You must do this lab in sequence to ensure that you have enough cells for your s
 7. Your lab partner may, at the same time, trypsinize the T25 flask and count the number of cells in that flask. Try to count your cells after resuspension (Note: you should try to do this in general from now on)
 8. In your assigned rows of the 96 well cell culture plate, you will seed a serial dilution of your trypsinized cells from the flask.
 9. Resuspend your cells in fresh media so that you have 1 million cells/mL in the 15 mL tube from your T25 flask.
-10. Plate 6 densities of cells into the plate, making sure that you have a total of exactly 100 µL of media in each well at the end: 0 (just medium), 3,000, 6,000, 12,000, 24,000, and 48,000 cells/cm^2^.
+10. Plate 6 densities of cells into the plate, making sure that you have a total of exactly 100 µL of media in each well at the end: 0 (just medium), 3,000, 6,000, 12,000, 24,000, and 48,000 cells/cm<sup>2</sup>.
 11. You can now re-plate cells from your T25 flask into a new T25 flask for next week's labs. Make sure you don't seed too densely! Based on your experience from now you should be able to estimate how dense you need to seed them. You may ask your TA for assistance if you are unsure.
 
 #### MTS assay 
@@ -64,7 +64,7 @@ You must do this lab in sequence to ensure that you have enough cells for your s
 1. Your TA will have the CellTiter 96 AQeous One Solution Cell Proliferation reagent thawed and ready for your use. Collect a 250 µL of the CellTiter reagent from your TA.
 2. Aspirate the medium from your remaining wells, which you did NOT trypsinize. And add 100 µL of fresh media back in.
 3. Add 20 µL of CellTiter 96 AQeous One solution to each of your wells from the 96 well plate (each well should already contain 100 µL of media)
-4. Allow the 96-well plates to incubate with the assay reagent for 1 hour.
+4. Allow the 96-well plates to incubate with the assay reagent for 1 hr.
 5. Your TA will now take the entire class to the plate reader to read the absorbance's, make sure you record the values associated with your wells.
 
 ![Plate layout](graphics/96-well-plate.png)
