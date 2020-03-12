@@ -32,7 +32,7 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 
 - DI Water (12 mL)
 - MEM powder (120 mg)
-- Sodium Bicarbonate NaHCO~3~ (25 mg)
+- Sodium Bicarbonate NaHCO<sub>3</sub> (25 mg)
 - Hydrochloric Acid HCl (0.5 M)
 - Sodium Hydroxide NaOH (0.5 M)
 
