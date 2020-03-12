@@ -1,19 +1,14 @@
 ---
 layout: default
-header-includes: |
-    \renewcommand\familydefault{\sfdefault}
-    \usepackage[euler]{textgreek}
 ---
 
 # BIOENGR 167L: Bioengineering Laboratory (Spring 2020)
 
 **UCLA Department of Bioengineering**
 
-Instructor:
-~ Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
+Instructor: Prof. Aaron Meyer (<ameyer@ucla.edu>), 4121G Engineering V
 
-Class Hours:
-~ Lecture (T 12:00–2:50 pm, Boelter Hall 8500)
+Class Hours: Lecture (T 12:00–2:50 pm, Boelter Hall 8500)
 
 **Lab Hours and Teaching Assistants:**
 
@@ -89,23 +84,12 @@ Instructions follow:
 
 ## 4. Grading and Assignments
 
-23%
-~ Participation
-
-27%
-~ Lab Reports 1-3
-
-10%
-~ Lab Practical Exam
-
-12.5%
-~ Exam 1
-
-12.5%
-~ Exam 2
-
-15%
-~ Final Lab Report Manuscript
+- Participation (23%)
+- Lab Reports 1-3 (27%)
+- Lab Practical Exam (10%)
+- Exam 1 (12.5%)
+- Exam 2 (12.5%)
+- Final Lab Report Manuscript (15%)
 
 *We expect that the class will be graded on a flat scale:*
 
@@ -127,7 +111,7 @@ Participation is graded out of a total of 46 points based on the following.
     - Summary paragraphs/questions from reading (9 points)
     - Participation in class discussions (3 points)
 - Independent Project Planning
-    - Turn in your 1^st^ independent lab proposal and discuss with your TA (2 points)
+    - Turn in your 1<sup>st</sup> independent lab proposal and discuss with your TA (2 points)
     - Turn in your final independent lab proposal on time (2 points)
 
 #### 4.1.1. Laboratory Attendance and Performance:
@@ -148,17 +132,10 @@ We will review several experiments and papers in the recent literature that rela
 
 **Grading for Case Study Summary Paragraphs:**
 
-3
-~ student has accurately addressed the questions and provided insightful, critical interpretations of the results and presentation
-
-2
-~ student satisfactorily understands the manuscript content and provides at least some critical analysis/interpretation
-
-1
-~ student does not appear to understand the content of the manuscript and provides no insight into the study
-
-0
-~ student did not turn in a summary
+- 3: student has accurately addressed the questions and provided insightful, critical interpretations of the results and presentation
+- 2: student satisfactorily understands the manuscript content and provides at least some critical analysis/interpretation
+- 1: student does not appear to understand the content of the manuscript and provides no insight into the study
+- 0: student did not turn in a summary
 
 #### 4.1.3. Independent Project Proposals:
 
