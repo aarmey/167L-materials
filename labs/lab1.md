@@ -57,7 +57,7 @@ Review the following instructions **PRIOR** to your lab where your TA will demon
 2. Dissolve your MEM powder in 12 mL of DI water into a 15 mL conical tube and label this tube as **buffer**.
 3. Take out 2.5 mL of your solution and place it into a new 15 mL conical tube, do this again so that you have a total of 3 conical tubes.
 4. Label one tube **acid+**, and the other **base+**.
-5. To your **buffer** solution add 25 mg of NaHCO~3~ then repeat steps 3 and 4, except label these tubes **buffer acid+**, and **buffer base+.**
+5. To your **buffer** solution add 25 mg of NaHCO<sub>3</sub> then repeat steps 3 and 4, except label these tubes **buffer acid+**, and **buffer base+.**
 6. To your tubes labelled **acid+** add 100 µL of the HCl solution provided by your TA, and to your tubes labelled **base+** add 100 µL of the NaOH solution provided by your TA. Record any observations at this time.
 7. Measure the pH of each solution using the pH meter and record measured values in your lab notebook. Consult your TA for further guidance if necessary.
 
