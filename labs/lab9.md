@@ -21,7 +21,7 @@ If time permits, your TA will give a demonstration on how to encapsulate cells i
 - Sterile DPBS from previous lab
 - Trypsin
 - Sodium alginate
-- 100 mM CaCl<sub>2<\sub> solution
+- 100 mM CaCl<sub>2</sub> solution
 
 **Supplies**
 
@@ -43,7 +43,7 @@ If time permits, your TA will give a demonstration on how to encapsulate cells i
 1. Check confluency of your T-25 and begin passaging (further detailed in step 3). You will use these cells for today's encapsulation and seeding another T-25 flask.
 2. While one member passages, aseptically aliquot 5 mL of sodium alginate solution. (The concentration of sodium alginate is 15 mg/mL.)
 3. Basic passaging procedure
-    a.  Rinse with DPBS (2mL)
+    a.  Rinse with DPBS (2 mL)
     b.  Trypsinize (2 mL)
     c.  Deactivate trypsin with media (4 mL)
     d.  Centrifuge for five minutes at 150 x g/rcf (Check with the TA prior to centrifuging)
