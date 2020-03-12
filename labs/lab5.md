@@ -64,7 +64,7 @@ Taken from <http://www.nih3t3.com/>; visit this website to learn more about this
 - Pipet-aid --- When using these, avoid aspirating liquid through the pipet and into the attachment head. If this does happen, **please inform your TA immediately.** It can be easily fixed if dealt with at the time.
 - Phase contrast microscope
 - Centrifuge
-- CO~2~ cell culture incubator
+- CO<sub>2</sub> cell culture incubator
 
 **Biological Agent Safety**
 
@@ -124,13 +124,13 @@ In this course, you will culture your cells in high glucose DMEM supplemented wi
 
 *Cell culture reference table*
 
-Plate             Surface Area (cm<sup>2</sup>)   Trypsin (mL)     Growth Media (mL)
------------------ ------------------------------ ---------------- ---------------------
-6 well plate      9.6                            2                3
-24 well plate     2                              0.5              0.8
-96 well plate     0.5                            0.1              0.2
-T-25              25                             2                4
-T-75              75                             5                10
+Plate              Surface Area (cm<sup>2</sup>)   Trypsin (mL)     Growth Media (mL)
+----------------- ------------------------------- ---------------- ---------------------
+6 well plate       9.6                             2                3
+24 well plate      2                               0.5              0.8
+96 well plate      0.5                             0.1              0.2
+T-25               25                              2                4
+T-75               75                              5                10
 
 *Proper Labelling*
 
