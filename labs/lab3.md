@@ -70,11 +70,11 @@ In addition to your usual precautions, be aware that the NHS-fluorescein is diss
 
 **ε** = Molar extinction coefficient
 
-Molar extinction coefficient of BSA: **ε**<sub>BSA</sub> = 43,824 M^-1^cm^-1^
+Molar extinction coefficient of BSA: **ε**<sub>BSA</sub> = 43,824 M<sup>-1</sup>cm<sup>-1</sup>
 
-Molar extinction coefficient of Fluorescein: **ε**<sub>Fl</sub> = 70,000 M^-1^cm^-1^
+Molar extinction coefficient of Fluorescein: **ε**<sub>Fl</sub> = 70,000 M<sup>-1</sup>cm<sup>-1</sup>
 
-$A_{max}$ = $A_{494}$ for this experiment
+A<sub>max</sub> = A<sub>494</sub> for this experiment
 
 CF = Correction factor = 0.30 for this experiment (CF of plain fluorescein)
 
