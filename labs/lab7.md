@@ -77,7 +77,6 @@ A glass ampule of BSA at 2 mg/mL concentration is provided in the kit to make se
 
 **Table 1.** Preparation of Diluted Albumin (BSA) Standards. Dilution Scheme for Standard Test Tube Protocol and Microplate Procedure. (Working Range = 20–2,000 μg/ml)
 
-| ------ | ---------------- | --------------------------- | ------------------------- |
 |  Vial  |  Diluent Volume  |  Volume and Source of BSA   |  Final BSA Concentration  |
 | ------ | ---------------- | --------------------------- | ------------------------- |
 |    A   |    0             |  300 μl of Stock            |  2,000 μg/ml              |
