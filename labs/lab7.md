@@ -6,8 +6,8 @@
 
 Read the posted article from *Current Protocols in Protein Science (2007) by Olsen and Markwell.* (Read the following pages only: pgs. 1, 13-17. If you are curious about other methods of protein quantification you may read the entire article.) *[Please also read the instructions for the BCA assay kit](http://tools.thermofisher.com/content/sfs/manuals/man0011430_pierce_bca_protein_asy_ug.pdf)* you will be using to familiarize yourself with the reagents. A separate protocol adapted from these instructions is below for you to follow.
 
-Peptide bonds (which exist between each amino acid in all proteins) reduce Cu^+2^ ions to Cu^+1^. The assay's working reagent looks green in the beginning because of the copper. If you heat the protein/copper solution with the bicinchoninic acid (BCA), the peptide bonds also help to form a complex between two BCA molecules and the
-Cu^+1^ ion. This large molecule looks purple and absorbs maximally at 562 nm. There are a few specific amino acids (cysteine, cystine, tryptophan, and tyrosine) that also help form this purple complex, but if you heat the solution, the peptide bonds will do most of the work so that your signal will not depend heavily on the actual types of proteins present. It will rather be a fairly linear representation of total protein content. So taking a step back, what is the physical property that you should measure?
+Peptide bonds (which exist between each amino acid in all proteins) reduce Cu<sup>+2</sup> ions to Cu<sup>+1</sup>. The assay's working reagent looks green in the beginning because of the copper. If you heat the protein/copper solution with the bicinchoninic acid (BCA), the peptide bonds also help to form a complex between two BCA molecules and the
+Cu<sup>+1</sup> ion. This large molecule looks purple and absorbs maximally at 562 nm. There are a few specific amino acids (cysteine, cystine, tryptophan, and tyrosine) that also help form this purple complex, but if you heat the solution, the peptide bonds will do most of the work so that your signal will not depend heavily on the actual types of proteins present. It will rather be a fairly linear representation of total protein content. So taking a step back, what is the physical property that you should measure?
 
 You will quantify the growth kinetics of your HeLa cells by two methods, cell counting on a hemocytometer and protein concentration. The protein content of different types of cells varies due to inherent size and activity. By using both of these methods on the same population of cells, you will be able to quantify the average amount of protein collected from a single 3T3 cell and use this general information to quantify cell concentrations in future experiments where cell counting is not an option.
 
@@ -66,8 +66,8 @@ You and your lab partner may start working on different parts of the procedure a
 5. Take one tube from each seeding condition and count them on the hemocytometer. You may need to further dilute this tube prior to counting in order to count a reasonable amount of cells. Because you combined two wells together you will have to divide by 2 in order to get an average number of cells per well.
 6. Centrifuge your other tubes again at 150 x g (1.5 rcf on the other centrifuge) for 5 minutes. This rinses your cells of proteins in the medium and trypsin before you extract the protein from your cells.
 7. Aspirate the DPBS and add 200 μL RIPA buffer to the cell pellet to lyse the cells. Do not take more than needed. Pipette up and down to mix. Transfer this suspension to a properly labeled microcentrifuge tube.
-8. Put each of your microcentrifuge tubes (you should have 3) on ice or in ice water and shake gently for 15 minutes, then centrifuge the tubes in the microcentrifuge at 14,000 x g for 15 minutes (again check with the TA to make sure it is properly balanced). *Note:* During this time, you or your lab partner may trypsinize your T25 flask and passage those cells to a *new* 96-well plate (to be shared with other groups) with densities of 4,000 and 10,000 cells/cm^2^. You will have 4 wells of each cell density. Label them appropriately on the 96 well plate sheet your TA will have so you know which wells are yours. Seed a new T25 flask for next week.
-9.  Without disturbing the pellet on the bottom of the microcentrifuge tubes (which may be very faint), carefully transfer the supernatant to a new, properly labeled microcentrifuge tube.
+8. Put each of your microcentrifuge tubes (you should have 3) on ice or in ice water and shake gently for 15 minutes, then centrifuge the tubes in the microcentrifuge at 14,000 x g for 15 minutes (again check with the TA to make sure it is properly balanced). *Note:* During this time, you or your lab partner may trypsinize your T25 flask and passage those cells to a *new* 96-well plate (to be shared with other groups) with densities of 4,000 and 10,000 cells/cm<sup>2</sup>. You will have 4 wells of each cell density. Label them appropriately on the 96 well plate sheet your TA will have so you know which wells are yours. Seed a new T25 flask for next week.
+9. Without disturbing the pellet on the bottom of the microcentrifuge tubes (which may be very faint), carefully transfer the supernatant to a new, properly labeled microcentrifuge tube.
 
 **BCA assay**
 
@@ -75,29 +75,20 @@ You will prepare your working reagent from reagent A and reagent B from the Pier
 
 A glass ampule of BSA at 2 mg/mL concentration is provided in the kit to make serial dilutions for a standard curve. *Your TA* used the following table to create the standards.
 
-**Table 1.** Preparation of Diluted Albumin (BSA) Standards. Dilution Scheme for Standard Test Tube Protocol and Microplate Procedure. (Working Range = 20--2,000 μg/ml)
+**Table 1.** Preparation of Diluted Albumin (BSA) Standards. Dilution Scheme for Standard Test Tube Protocol and Microplate Procedure. (Working Range = 20–2,000 μg/ml)
 
-+------+----------------+---------------------------+-------------------------+
-| Vial | Diluent Volume | Volume and Source of BSA  | Final BSA Concentration |
-+======+================+===========================+=========================+
-|   A  |   0            | 300 μl of Stock           | 2,000 μg/ml             |
-+------+----------------+---------------------------+-------------------------+
-|   B  |   125 μl       | 375 μl of Stock           | 1,500 μg/ml             |
-+------+----------------+---------------------------+-------------------------+
-|   C  |   325 μl       | 325 μl of Stock           | 1,000 μg/ml             |
-+------+----------------+---------------------------+-------------------------+
-|   D  |   175 μl       | 175 μl of vial B dilution | 750 μg/ml               |
-+------+----------------+---------------------------+-------------------------+
-|   E  |   325 μl       | 325 μl of vial C dilution | 500 μg/ml               |
-+------+----------------+---------------------------+-------------------------+
-|   F  |   325 μl       | 325 μl of vial E dilution | 250 μg/ml               |
-+------+----------------+---------------------------+-------------------------+
-|   G  |   325 μl       | 325 μl of vial F dilution | 125 μg/ml               |
-+------+----------------+---------------------------+-------------------------+
-|   H  |   400 μl       | 100 μl of vial G dilution | 25 μg/ml                |
-+------+----------------+---------------------------+-------------------------+
-|   I  |   400 μl       | 0                         | 0 μg/ml (blank)         |
-+------+----------------+---------------------------+-------------------------+
+| ------ | ---------------- | --------------------------- | ------------------------- |
+|  Vial  |  Diluent Volume  |  Volume and Source of BSA   |  Final BSA Concentration  |
+| ------ | ---------------- | --------------------------- | ------------------------- |
+|    A   |    0             |  300 μl of Stock            |  2,000 μg/ml              |
+|    B   |    125 μl        |  375 μl of Stock            |  1,500 μg/ml              |
+|    C   |    325 μl        |  325 μl of Stock            |  1,000 μg/ml              |
+|    D   |    175 μl        |  175 μl of vial B dilution  |  750 μg/ml                |
+|    E   |    325 μl        |  325 μl of vial C dilution  |  500 μg/ml                |
+|    F   |    325 μl        |  325 μl of vial E dilution  |  250 μg/ml                |
+|    G   |    325 μl        |  325 μl of vial F dilution  |  125 μg/ml                |
+|    H   |    400 μl        |  100 μl of vial G dilution  |  25 μg/ml                 |
+|    I   |    400 μl        |  0                          |  0 μg/ml (blank)          |
 
 1. You have 9 standards and 3 unknowns. Create enough WR for you to have 200 µL of WR per sample. Prepare the WR by mixing 50 parts of BCA reagent A with 1 part BCA reagent B. *Note:* when mixing, the solution turns clear green but may go through a slightly cloudy phase at the very beginning. WR is stable for several days when stored in a closed container at room temperature. WR does not need to be protected from light during storage.
 2. Label your wells to be used on the 96 well plate. Your TA may ask you to share well plates.
@@ -108,4 +99,4 @@ A glass ampule of BSA at 2 mg/mL concentration is provided in the kit to make se
 7. Record the absorbance of each well and record the data related to your wells.
 8. At this point please also get data from two other groups, when you report your data, you will use your group plus two other groups data for statistical analysis. Don't forget during your analysis that your protein lysate is from two wells!
 
-![Plate layout](labs/graphics/96-well-plate.png)
+![Plate layout](graphics/96-well-plate.png)
