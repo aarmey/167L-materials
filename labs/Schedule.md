@@ -7,21 +7,20 @@
 ### Lab
 
 - Mon/Tues: No lab.
-- Wed/Thurs: (0) Notebooks and lab safety orientation with TAs.
+- Wed/Thurs: [(0) Notebooks and lab safety orientation with TAs.](lab0.html)
 
 ### Assignments/Due Dates:
 
-- Bring lab coats to Lab 0.
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
 
 ## Week 2 (April 6–10)
 
-**Lecture 2:** Reading, writing, and the goal of the scientific manuscript. Review Ten Simple Rules articles ([1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), [2](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453), [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)).
+**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.
 
 ### Lab
 
-- Mon/Tues: (1) Introduction to lab, measuring and microscopy.
-- Wed/Thurs: (2) Replica molding and laser cutting demo, fluorescence microscopy.
+- Mon/Tues: [(1) Introduction to lab, measuring and microscopy.](lab1.html)
+- Wed/Thurs: [(2) Replica molding and laser cutting demo, fluorescence microscopy.](lab2.html) Review Ten Simple Rules articles ([1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), [2](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453), [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)).
 
 ### Assignments/Due Dates:
 
@@ -33,8 +32,8 @@
 
 ### Lab
 
-- Mon/Tues: (3) Bioconjugation.
-- Wed/Thurs: (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.
+- Mon/Tues: [(3) Bioconjugation.](lab3.html)
+- Wed/Thurs: [(4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.](lab4.html)
 
 ### Assignments/Due Dates:
 
@@ -46,8 +45,8 @@
 
 ### Lab
 
-- Mon/Tues: (5) Cell culture—Passaging and counting cells, introduction to sterile technique.
-- Wed/Thurs: (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.
+- Mon/Tues: [(5) Cell culture—Passaging and counting cells, introduction to sterile technique.](lab5.html)
+- Wed/Thurs: [(6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.](lab6.html)
 
 ### Assignments/Due Dates:
 
@@ -60,8 +59,8 @@
 
 ### Lab
 
-- Mon/Tues: (7) Growth kinetics, cell counting, lysis, protein content (BCA assay).
-- Wed/Thurs: (8) Growth kinetics, MTS assay.
+- Mon/Tues: [(7) Growth kinetics, cell counting, lysis, protein content (BCA assay).](lab7.html)
+- Wed/Thurs: [(8) Growth kinetics, MTS assay.](lab8.html)
 
 ### Assignments/Due Dates:
 
@@ -75,8 +74,8 @@
 
 ### Lab
 
-- Mon/Tues: (9) 3D encapsulation, preparing substrates for cell studies.
-- Wed/Thurs: (10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.
+- Mon/Tues: [(9) 3D encapsulation, preparing substrates for cell studies.](lab9.html)
+- Wed/Thurs: [(10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.](labA.html)
 
 ### Assignments/Due Dates:
 

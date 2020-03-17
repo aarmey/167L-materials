@@ -16,17 +16,6 @@ layout: default
 
 ## Labs
 
-- [Lab 0](labs/lab0.html)
-- [Lab 1](labs/lab1.html)
-- [Lab 2](labs/lab2.html)
-- [Lab 3](labs/lab3.html)
-- [Lab 4](labs/lab4.html)
-- [Lab 5](labs/lab5.html)
-- [Lab 6](labs/lab6.html)
-- [Lab 7](labs/lab7.html)
-- [Lab 8](labs/lab8.html)
-- [Lab 9](labs/lab9.html)
-- [Lab 10](labs/labA.html)
 - [Lab 11](labs/labB.html)
 - [Lab 12](labs/labC.html)
 
