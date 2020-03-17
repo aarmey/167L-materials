@@ -60,12 +60,11 @@
 ### Lab
 
 - Mon/Tues: [(7) Growth kinetics, cell counting, lysis, protein content (BCA assay).](lab7.html)
-- Wed/Thurs: [(8) Growth kinetics, MTS assay.](lab8.html) Review [Hafner *et al*](https://www.nature.com/articles/nmeth.3853).
+- Wed/Thurs: Review session for Exam 1.
 
 ### Assignments/Due Dates:
 
 - Answer questions on [Hafner *et al*](https://www.nature.com/articles/nmeth.3853) before lecture.
-- Review session TBD.
 - Discuss independent project proposal with your TA during your lab session
 
 ## Week 6 (May 4–8)
@@ -74,8 +73,8 @@
 
 ### Lab
 
-- Mon/Tues: [(9) 3D encapsulation, preparing substrates for cell studies.](lab9.html)
-- Wed/Thurs: [(10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.](labA.html)
+- Mon/Tues: [(8) Growth kinetics, MTS assay.](lab8.html) Review [Hafner *et al*](https://www.nature.com/articles/nmeth.3853).
+- Wed/Thurs: [(9) 3D encapsulation, preparing substrates for cell studies.](lab9.html)
 
 ### Assignments/Due Dates:
 
@@ -88,8 +87,8 @@
 
 ### Lab
 
-- Mon/Tues: [(11) Varying stiffness substrates and cell growth, seeding cells.](labB.html)
-- Wed/Thurs: [(12) Quantification and analysis of cell growth and morphology.](labC.html)
+- Mon/Tues: [(10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.](labA.html)
+- Wed/Thurs: [(11) Varying stiffness substrates and cell growth, seeding cells.](labB.html)
 
 ### Assignments/Due Dates:
 
@@ -97,12 +96,12 @@
 
 ## Week 8 (May 18–22)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction. Review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
+**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.
 
 ### Lab
 
-- Mon/Tues: (13) Lab Practical Exam, Independent lab.
-- Wed/Thurs: (14) Independent lab.
+- Mon/Tues: [(12) Quantification and analysis of cell growth and morphology.](labC.html) (13) Lab Practical Exam, Independent lab.
+- Wed/Thurs: (14) Independent lab. Review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
 
 ### Assignments/Due Dates:
 
@@ -110,12 +109,12 @@
 
 ## Week 9 (May 25–29)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning. Review [Sun *et al*](https://www.nature.com/articles/nature11409).
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
 
 ### Lab
 
 - Mon/Tues: Veterans Day, no lab. Make-up labs if needed.
-- Wed/Thurs: (15) Independent lab.
+- Wed/Thurs: (15) Independent lab. Review [Sun *et al*](https://www.nature.com/articles/nature11409).
 
 ### Assignments/Due Dates:
 
