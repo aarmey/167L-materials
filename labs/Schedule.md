@@ -88,8 +88,8 @@
 
 ### Lab
 
-- Mon/Tues: (11) Varying stiffness substrates and cell growth, seeding cells.
-- Wed/Thurs: (12) Quantification and analysis of cell growth and morphology.
+- Mon/Tues: [(11) Varying stiffness substrates and cell growth, seeding cells.](labB.html)
+- Wed/Thurs: [(12) Quantification and analysis of cell growth and morphology.](labC.html)
 
 ### Assignments/Due Dates:
 
@@ -138,4 +138,4 @@
 
 ## Finals
 
-Final Lab Report due Thurs., May 11 at noon.
+Final proposals due Thurs., June 11 at noon.

@@ -14,11 +14,6 @@ layout: default
 
 [Questions/Notes for Reading](reading.html)
 
-## Labs
-
-- [Lab 11](labs/labB.html)
-- [Lab 12](labs/labC.html)
-
 ## Previous Exams
 
 - Fall 2018: [Exam 1](files/Exam 1-18F.pdf), [Lab Practical](files/Lab practical-18F.pdf), [Exam 2](files/Exam 2-18F.pdf)
