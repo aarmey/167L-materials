@@ -69,7 +69,7 @@
 
 ## Week 6 (May 4–8)
 
-**Lecture 6:** **Exam 1** (first hour). Cell adhesion and migration, 3D cell culture and microenvironment. Review [Fraley *et al*](https://www.nature.com/articles/ncb2062).
+**Lecture 6:** **Exam 1** (first hour). Cell adhesion and migration, 3D cell culture and microenvironment.
 
 ### Lab
 
@@ -88,7 +88,7 @@
 ### Lab
 
 - Mon/Tues: [(10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.](labA.html)
-- Wed/Thurs: [(11) Varying stiffness substrates and cell growth, seeding cells.](labB.html)
+- Wed/Thurs: [(11) Varying stiffness substrates and cell growth, seeding cells.](labB.html) Review [Fraley *et al*](https://www.nature.com/articles/ncb2062).
 
 ### Assignments/Due Dates:
 
@@ -100,8 +100,8 @@
 
 ### Lab
 
-- Mon/Tues: [(12) Quantification and analysis of cell growth and morphology.](labC.html) (13) Lab Practical Exam, Independent lab.
-- Wed/Thurs: (14) Independent lab. Review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
+- Mon/Tues: [(12) Quantification and analysis of cell growth and morphology.](labC.html)
+- Wed/Thurs: (13) Lab Practical Exam. Review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
 
 ### Assignments/Due Dates:
 
@@ -114,7 +114,7 @@
 ### Lab
 
 - Mon/Tues: Memorial Day, no lab.
-- Wed/Thurs: Review [Sun *et al*](https://www.nature.com/articles/nature11409).
+- Wed/Thurs: (14) Review [Sun *et al*](https://www.nature.com/articles/nature11409). Feedback on proposals.
 
 ### Assignments/Due Dates:
 
@@ -127,8 +127,8 @@
 
 ### Lab
 
-- Mon/Tues: (16) Instron demo lab.
-- Wed/Thurs: (17) Feedback on proposals.
+- Mon/Tues: (15) Instron demo lab.
+- Wed/Thurs: (16) Feedback on proposals.
 
 ### Assignments/Due Dates:
 
