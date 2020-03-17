@@ -113,8 +113,8 @@
 
 ### Lab
 
-- Mon/Tues: Veterans Day, no lab. Make-up labs if needed.
-- Wed/Thurs: (15) Independent lab. Review [Sun *et al*](https://www.nature.com/articles/nature11409).
+- Mon/Tues: Memorial Day, no lab.
+- Wed/Thurs: Review [Sun *et al*](https://www.nature.com/articles/nature11409).
 
 ### Assignments/Due Dates:
 
@@ -127,8 +127,8 @@
 
 ### Lab
 
-- Mon/Tues: (16) Independent lab first hour. Lab clean-up.
-- Wed/Thurs: (17) Instron demo.
+- Mon/Tues: (16) Instron demo lab.
+- Wed/Thurs: (17) Feedback on proposals.
 
 ### Assignments/Due Dates:
 
