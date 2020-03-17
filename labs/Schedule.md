@@ -28,12 +28,12 @@
 
 ## Week 3 (April 13–17)
 
-**Lecture 3:** Bioconjugation. Review [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982).
+**Lecture 3:** Bioconjugation.
 
 ### Lab
 
 - Mon/Tues: [(3) Bioconjugation.](lab3.html)
-- Wed/Thurs: [(4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.](lab4.html)
+- Wed/Thurs: [(4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.](lab4.html) Review [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982).
 
 ### Assignments/Due Dates:
 
@@ -41,12 +41,12 @@
 
 ## Week 4 (April 20–24)
 
-**Lecture 4:** Data analysis and statistics fundamentals. Review [Shaffer *et al*](https://www.nature.com/articles/nature22794).
+**Lecture 4:** Data analysis and statistics fundamentals.
 
 ### Lab
 
 - Mon/Tues: [(5) Cell culture—Passaging and counting cells, introduction to sterile technique.](lab5.html)
-- Wed/Thurs: [(6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.](lab6.html)
+- Wed/Thurs: [(6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.](lab6.html) Review [Shaffer *et al*](https://www.nature.com/articles/nature22794).
 
 ### Assignments/Due Dates:
 
@@ -55,12 +55,12 @@
 
 ## Week 5 (April 27–May 1)
 
-**Lecture 5:** Experimental design, guidelines for independent labs. Review [Hafner *et al*](https://www.nature.com/articles/nmeth.3853).
+**Lecture 5:** Experimental design, guidelines for proposals.
 
 ### Lab
 
 - Mon/Tues: [(7) Growth kinetics, cell counting, lysis, protein content (BCA assay).](lab7.html)
-- Wed/Thurs: [(8) Growth kinetics, MTS assay.](lab8.html)
+- Wed/Thurs: [(8) Growth kinetics, MTS assay.](lab8.html) Review [Hafner *et al*](https://www.nature.com/articles/nmeth.3853).
 
 ### Assignments/Due Dates:
 
