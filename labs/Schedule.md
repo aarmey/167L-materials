@@ -83,7 +83,7 @@
 
 ## Week 7 (May 11–15)
 
-**Veteran's Day, no class.**
+**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.
 
 ### Lab
 
@@ -96,7 +96,7 @@
 
 ## Week 8 (May 18–22)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
 
 ### Lab
 
@@ -109,7 +109,7 @@
 
 ## Week 9 (May 25–29)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
+**Lecture 9:** Misc. Review session for Exam 2.
 
 ### Lab
 
@@ -120,7 +120,6 @@
 
 - Answer questions on [Sun *et al*](https://www.nature.com/articles/nature11409) before lecture.
 - Report for labs 9-12 due on Tuesday at noon.
-- Review session Wednesday TBD.
 
 ## Week 10 (June 1–5)
 
