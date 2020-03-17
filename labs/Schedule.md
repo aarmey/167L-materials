@@ -7,21 +7,20 @@
 ### Lab
 
 - Mon/Tues: No lab.
-- Wed/Thurs: (0) Notebooks and lab safety orientation with TAs.
+- Wed/Thurs: [(0) Notebooks and lab safety orientation with TAs.](lab0.html)
 
 ### Assignments/Due Dates:
 
-- Bring lab coats to Lab 0.
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
 
 ## Week 2 (April 6–10)
 
-**Lecture 2:** Reading, writing, and the goal of the scientific manuscript. Review Ten Simple Rules articles ([1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), [2](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453), [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)).
+**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.
 
 ### Lab
 
-- Mon/Tues: (1) Introduction to lab, measuring and microscopy.
-- Wed/Thurs: (2) Replica molding and laser cutting demo, fluorescence microscopy.
+- Mon/Tues: [(1) Introduction to lab, measuring and microscopy.](lab1.html)
+- Wed/Thurs: [(2) Replica molding and laser cutting demo, fluorescence microscopy.](lab2.html) Review Ten Simple Rules articles ([1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), [2](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453), [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)).
 
 ### Assignments/Due Dates:
 
@@ -29,12 +28,12 @@
 
 ## Week 3 (April 13–17)
 
-**Lecture 3:** Bioconjugation. Review [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982).
+**Lecture 3:** Bioconjugation.
 
 ### Lab
 
-- Mon/Tues: (3) Bioconjugation.
-- Wed/Thurs: (4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.
+- Mon/Tues: [(3) Bioconjugation.](lab3.html)
+- Wed/Thurs: [(4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.](lab4.html) Review [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982).
 
 ### Assignments/Due Dates:
 
@@ -42,12 +41,12 @@
 
 ## Week 4 (April 20–24)
 
-**Lecture 4:** Data analysis and statistics fundamentals. Review [Shaffer *et al*](https://www.nature.com/articles/nature22794).
+**Lecture 4:** Data analysis and statistics fundamentals.
 
 ### Lab
 
-- Mon/Tues: (5) Cell culture—Passaging and counting cells, introduction to sterile technique.
-- Wed/Thurs: (6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.
+- Mon/Tues: [(5) Cell culture—Passaging and counting cells, introduction to sterile technique.](lab5.html)
+- Wed/Thurs: [(6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.](lab6.html) Review [Shaffer *et al*](https://www.nature.com/articles/nature22794).
 
 ### Assignments/Due Dates:
 
@@ -56,17 +55,16 @@
 
 ## Week 5 (April 27–May 1)
 
-**Lecture 5:** Experimental design, guidelines for independent labs. Review [Hafner *et al*](https://www.nature.com/articles/nmeth.3853).
+**Lecture 5:** Experimental design, guidelines for proposals.
 
 ### Lab
 
-- Mon/Tues: (7) Growth kinetics, cell counting, lysis, protein content (BCA assay).
-- Wed/Thurs: (8) Growth kinetics, MTS assay.
+- Mon/Tues: [(7) Growth kinetics, cell counting, lysis, protein content (BCA assay).](lab7.html)
+- Wed/Thurs: Review session for Exam 1.
 
 ### Assignments/Due Dates:
 
 - Answer questions on [Hafner *et al*](https://www.nature.com/articles/nmeth.3853) before lecture.
-- Review session TBD.
 - Discuss independent project proposal with your TA during your lab session
 
 ## Week 6 (May 4–8)
@@ -75,8 +73,8 @@
 
 ### Lab
 
-- Mon/Tues: (9) 3D encapsulation, preparing substrates for cell studies.
-- Wed/Thurs: (10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.
+- Mon/Tues: [(8) Growth kinetics, MTS assay.](lab8.html) Review [Hafner *et al*](https://www.nature.com/articles/nmeth.3853).
+- Wed/Thurs: [(9) 3D encapsulation, preparing substrates for cell studies.](lab9.html)
 
 ### Assignments/Due Dates:
 
@@ -85,12 +83,12 @@
 
 ## Week 7 (May 11–15)
 
-**Veteran's Day, no class.**
+**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.
 
 ### Lab
 
-- Mon/Tues: (11) Varying stiffness substrates and cell growth, seeding cells.
-- Wed/Thurs: (12) Quantification and analysis of cell growth and morphology.
+- Mon/Tues: [(10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.](labA.html)
+- Wed/Thurs: [(11) Varying stiffness substrates and cell growth, seeding cells.](labB.html)
 
 ### Assignments/Due Dates:
 
@@ -98,12 +96,12 @@
 
 ## Week 8 (May 18–22)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction. Review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
+**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
 
 ### Lab
 
-- Mon/Tues: (13) Lab Practical Exam, Independent lab.
-- Wed/Thurs: (14) Independent lab.
+- Mon/Tues: [(12) Quantification and analysis of cell growth and morphology.](labC.html) (13) Lab Practical Exam, Independent lab.
+- Wed/Thurs: (14) Independent lab. Review [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
 
 ### Assignments/Due Dates:
 
@@ -111,18 +109,17 @@
 
 ## Week 9 (May 25–29)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning. Review [Sun *et al*](https://www.nature.com/articles/nature11409).
+**Lecture 9:** Misc. Review session for Exam 2.
 
 ### Lab
 
-- Mon/Tues: Veterans Day, no lab. Make-up labs if needed.
-- Wed/Thurs: (15) Independent lab.
+- Mon/Tues: Memorial Day, no lab.
+- Wed/Thurs: Review [Sun *et al*](https://www.nature.com/articles/nature11409).
 
 ### Assignments/Due Dates:
 
 - Answer questions on [Sun *et al*](https://www.nature.com/articles/nature11409) before lecture.
 - Report for labs 9-12 due on Tuesday at noon.
-- Review session Wednesday TBD.
 
 ## Week 10 (June 1–5)
 
@@ -130,8 +127,8 @@
 
 ### Lab
 
-- Mon/Tues: (16) Independent lab first hour. Lab clean-up.
-- Wed/Thurs: (17) Instron demo.
+- Mon/Tues: (16) Instron demo lab.
+- Wed/Thurs: (17) Feedback on proposals.
 
 ### Assignments/Due Dates:
 
@@ -139,4 +136,4 @@
 
 ## Finals
 
-Final Lab Report due Thurs., May 11 at noon.
+Final proposals due Thurs., June 11 at noon.
