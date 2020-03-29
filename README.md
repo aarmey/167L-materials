@@ -15,8 +15,8 @@ Class Hours: Lecture (T 12:00–2:50 pm, Boelter Hall 8500)
 - Head TA: Mark Van Zee (<mvanzee2014@ucla.edu>)
 - LAB 1A (MW 9:00-11:50 am): Binru Chen (<brchen@g.ucla.edu>)
 - LAB 1B (MW 12:00–2:50 pm): Felis Koo (<feliskoo@g.ucla.edu>)
-- LAB 1C (TR 9:00–11:50 am): Michael Bogumil (<mbogumil@ucla.edu>)
-- LAB 1D (TR 3:00–5:50 pm): Cayden Williamson (<caywilliamson@g.ucla.edu>)
+- LAB 1C (TR 9:00–11:50 am): Cayden Williamson (<caywilliamson@g.ucla.edu>)
+- LAB 1D (TR 3:00–5:50 pm): Michael Bogumil (<mbogumil@ucla.edu>)
 
 **Office Hours:**
 
