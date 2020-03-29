@@ -25,7 +25,7 @@ Class Hours: Lecture (T 12:00–2:50 pm, Boelter Hall 8500)
 
 **Please note that the formats of lectures, exams, and other aspects of this course are subject to change based on instructions and guidance from UCLA leadership.**
 
-**Lab Location:** **Labs will be held online for the first two weeks.** In-person labs will always meet in Boelter Hall 7732.
+**Lab Location:** **Labs will be held online this quarter.**
 
 **Website: <https://ccle.ucla.edu/course/view/20S-BIOENGR167L-1> and <https://aarmey.github.io/167L-materials/>**
 
