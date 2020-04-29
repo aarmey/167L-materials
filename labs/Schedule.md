@@ -65,7 +65,6 @@
 ### Assignments/Due Dates:
 
 - Answer questions on [Hafner *et al*](https://www.nature.com/articles/nmeth.3853) before lecture.
-- Discuss independent project proposal with your TA during your lab session
 
 ## Week 6 (May 4–8)
 
@@ -79,7 +78,7 @@
 ### Assignments/Due Dates:
 
 - Report for labs 5-8 due Thursday at noon.
-- Final Independent Project Proposals due on Friday at noon
+- Discuss independent project proposal with your TA during your lab session
 
 ## Week 7 (May 11–15)
 
@@ -93,6 +92,7 @@
 ### Assignments/Due Dates:
 
 - Answer questions on [Fraley *et al*](https://www.nature.com/articles/ncb2062) by Tuesday at noon.
+- Final independent project proposals due on Friday at noon
 
 ## Week 8 (May 18–22)
 
