@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[Syllabus](README.html)
-
 [Schedule](labs/Schedule.html)
 
 [Report Guidelines](labs/Report-Guideline.html)
@@ -11,8 +9,6 @@ layout: default
 [Final Report Guidelines](labs/Final-Report-Guidelines.html)
 
 [Project Notes](project-notes.html)
-
-[Questions/Notes for Reading](reading.html)
 
 ## Previous Exams
 
