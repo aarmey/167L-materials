@@ -12,10 +12,14 @@
 ### Assignments/Due Dates:
 
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
+- Complete the initial course survey on Bruin Learn.
+- Sign up for Perusall to access the course papers.
+- Sign up for a paper presentation.
+- Sign up for an equipment presentation.
 
 ## Week 2 (April 4–8)
 
-**Lecture 2:** Reading, writing, and the goal of the scientific manuscript.
+**Lecture 2:** Discussion of [Stewart-Ornstein et al](https://doi.org/10.1016/j.cels.2017.09.012).
 
 ### Lab
 
@@ -24,7 +28,7 @@
 
 ### Assignments/Due Dates:
 
-- Answer questions on Ten Simple Rules articles ([1](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619), [2](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003453), [3](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)) before lecture.
+- Read paper and answer reading questions before lecture.
 
 ## Week 3 (April 11–15)
 
@@ -37,7 +41,7 @@
 
 ### Assignments/Due Dates:
 
-- Answer questions on [Agarwal & Bertozzi](https://pubs.acs.org/doi/abs/10.1021/bc5004982) before lecture.
+- Read paper and answer reading questions before lecture.
 
 ## Week 4 (April 18–22)
 
@@ -51,11 +55,12 @@
 ### Assignments/Due Dates:
 
 - Answer questions on [Shaffer *et al*](https://www.nature.com/articles/nature22794) before lecture.
+- Read paper and answer reading questions before lecture.
 - Report for labs 1–4 due Thursday at noon.
 
 ## Week 5 (April 25–29)
 
-**Lecture 5:** Experimental design, guidelines for proposals.
+**Lecture 5:** Discussion of [Shaffer *et al*](https://www.nature.com/articles/nature22794).
 
 ### Lab
 

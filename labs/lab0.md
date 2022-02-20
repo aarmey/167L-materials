@@ -15,7 +15,7 @@ Not only will you learn the specific techniques covered in this lab course, but 
 
 ## Preparation
 
-Prior to the lab you must complete and submit a certificate of completion from [Lab Safety Fundamentals](https://worksafe.ucla.edu/) on CCLE. Also watch the [lab primer video](https://www.youtube.com/watch?v=DW58qLuqIWQ).
+Prior to the lab you must complete and submit a certificate of completion from [Lab Safety Fundamentals](https://worksafe.ucla.edu/) on Bruin Learn. Also watch the [lab primer video](https://www.youtube.com/watch?v=DW58qLuqIWQ).
 
 Also to lab, bring your lab coat, and a notebook as outlined by the syllabus.
 

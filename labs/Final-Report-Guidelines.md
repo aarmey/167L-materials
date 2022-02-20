@@ -2,16 +2,16 @@
 
 11pt. font, Arial, 1 inch margins, single-spaced. 5 page maximum for main text and figures (abstract and references are not included in page limit) Figures with captions formatted within text.
 
-Lab report document should be uploaded to CCLE in PDF format.
+Lab report document should be uploaded to Bruin Learn in PDF format.
 
-Due on Thursday the week of final exams. Upload an electronic copy to CCLE.
+Due on Thursday the week of final exams. Upload an electronic copy to Bruin Learn.
 
 Your final lab report should be in the form of a short journal article. Each student should write their report separately. While you will have the same data as your lab mates, your writing should be distinctly different and done separately.
 There is a sample template below for your reports. Your report should be divided into sections typically used for scientific manuscripts: Abstract, Background and Introduction, Methods, Results and Discussion. More details on what should be included in each section can be found in the slides for Lecture 5.
 
 The emphasis is not on how long your report is, but the content and quality of discussion. 5 pages is a maximum, not a minimum. Concise, professional scientific writing is an important skill that you should begin to cultivate now. It improves by reading scientific work and writing scientific reports.
 
-If you need more guidance on writing a scientific manuscript, please refer to [Whitesides 2004](https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767) and [Plaxco 2010](https://www.onlinelibrary.wiley.com/doi/full/10.1002/pro.514) handouts (posted on CCLE).
+If you need more guidance on writing a scientific manuscript, please refer to [Whitesides 2004](https://www.onlinelibrary.wiley.com/doi/abs/10.1002/adma.200400767) and [Plaxco 2010](https://www.onlinelibrary.wiley.com/doi/full/10.1002/pro.514) handouts (posted on Bruin Learn).
 
 You will need to include the following:
 

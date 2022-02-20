@@ -4,7 +4,7 @@
 
 ## Prelab reading
 
-*In addition to the text below, please read the ATCC Animal Cell Culture Guide posted on CCLE.*
+*In addition to the text below, please read the ATCC Animal Cell Culture Guide posted on Bruin Learn.*
 
 Being able to look at a flask of cells and estimate a rough order of magnitude for the number of cells is a useful skill. You may be growing cells for an experiment and need to estimate how long it will take to grow enough cells. Also estimating the confluency of a flask and how much time you might have before they become confluent is important for knowing when to passage cells before they become too confluent. Once they become confluent they may stop dividing and enter a different phase of the cell cycle, which may not be desirable for your experiment. You would typically passage cells when they reach 80-90% confluency. 100% confluency means that cells cover 100% of the available surface area. Look at the figures below for an idea of what cells look like at different densities on a culture surface.
 

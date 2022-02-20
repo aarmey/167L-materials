@@ -30,7 +30,7 @@ layout: default
 ### Final Lab Report
 
 - Due finals week
-- Upload as a pdf file to CCLE
+- Upload as a pdf file to Bruin Learn
 - Report your results and findings of your independent labs in form of a short journal paper
 - 5 pgs max (including figures + captions, but not references), 11 pt font, Times New Roman or Arial, 0.5 in margins
 - Abstract, Introduction, Materials and Methods, Results, Discussion, Conclusion, References

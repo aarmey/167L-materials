@@ -70,7 +70,7 @@ Taken from <http://www.nih3t3.com/>; visit this website to learn more about this
 
 In addition to your usual protective equipment, (lab coat, gloves safety glasses), you should be aware of these things. All disposable items that come in contact with them should be put into solid biohazard waste containers, this includes gloves, pipettes, tips, flasks, paper towels, tubes... All liquid solutions that come into contact with them or contain them should be bleached for 30 mins and then flushed down the drain with copious amounts of water (bleach will corrode the sewer pipes if you don't rinse with lots of water). Though you should be careful, don't put items into the biohazard bin if they are *not* actually contaminated with a biohazard. Serological pipettes, bottles, tips, and tubes that only contact sterile liquids that have not contacted human cells are *not* hazardous and can go in the regular trash. The university pays a vendor to haul away and incinerate all the biohazard waste. Don't put things in that don't need special treatment, it's wasteful. The water in the water baths contain a chemical that keeps bacteria and mold from growing in the body-temperature bath, so don't get it on your skin or splash it around too much. Wash your hands after contact.
 
-*Please refer to section IV of the CDC guidelines for Biosafety in Microbiological and Biomedical Laboratories, 5^th^ edition (posted on CCLE) and the lab-specific Biosafety Manual for more information.*
+*Please refer to section IV of the CDC guidelines for Biosafety in Microbiological and Biomedical Laboratories, 5^th^ edition (posted on Bruin Learn) and the lab-specific Biosafety Manual for more information.*
 
 ### Procedure
 
