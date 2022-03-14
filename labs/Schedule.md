@@ -87,7 +87,7 @@
 
 ## Week 7 (May 9–13)
 
-**Lecture 7:** Discussion of [Engler et al](https://doi.org/10.1016/j.cell.2006.06.044).
+**Lecture 7:** Discussion of [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
 
 ### Lab
 
@@ -128,7 +128,7 @@
 
 ## Week 10 (May 30 – June 3)
 
-**Lecture 10:** **Exam 2** (first hour), finish hydrogel mechanics.
+**Lecture 10:** Discussion of [Bournazos *et al*](https://doi.org/10.1038/s41586-020-2838-z).
 
 ### Lab
 
@@ -138,6 +138,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- Take home Exam 2.
 - Course evaluations must be completed online by Friday at noon.
 
 ## Finals
