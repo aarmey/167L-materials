@@ -32,7 +32,7 @@
 
 ## Week 3 (April 11–15)
 
-**Lecture 3:** Bioconjugation.
+**Lecture 3:** Discussion of [Reticker-Flynn et al](https://doi.org/10.1038/ncomms2128).
 
 ### Lab
 
@@ -45,7 +45,7 @@
 
 ## Week 4 (April 18–22)
 
-**Lecture 4:** Data analysis and statistics fundamentals.
+**Lecture 4:** Discussion of [Ben-David et al](https://doi.org/10.1038/s41586-018-0409-3).
 
 ### Lab
 
@@ -54,7 +54,6 @@
 
 ### Assignments/Due Dates:
 
-- Answer questions on [Shaffer *et al*](https://www.nature.com/articles/nature22794) before lecture.
 - Read paper and answer reading questions before lecture.
 - Report for labs 1–4 due Thursday at noon.
 
@@ -88,7 +87,7 @@
 
 ## Week 7 (May 9–13)
 
-**Lecture 7:** Cell mechanics, mechanical microenvironment, mechanotransduction.
+**Lecture 7:** Discussion of [Engler et al](https://doi.org/10.1016/j.cell.2006.06.044).
 
 ### Lab
 
