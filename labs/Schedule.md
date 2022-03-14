@@ -32,7 +32,7 @@
 
 ## Week 3 (April 11–15)
 
-**Lecture 3:** Discussion of [Reticker-Flynn et al](https://doi.org/10.1038/ncomms2128).
+**Lecture 3:** Discussion of [Reticker-Flynn *et al*](https://doi.org/10.1038/ncomms2128).
 
 ### Lab
 
@@ -45,7 +45,7 @@
 
 ## Week 4 (April 18–22)
 
-**Lecture 4:** Discussion of [Ben-David et al](https://doi.org/10.1038/s41586-018-0409-3).
+**Lecture 4:** Discussion of [Ben-David *et al*](https://doi.org/10.1038/s41586-018-0409-3).
 
 ### Lab
 
@@ -101,7 +101,7 @@
 
 ## Week 8 (May 16–20)
 
-**Lecture 8:** Hydrogel structure and chemistry, hydrogel mechanics, 3D micropatterning.
+**Lecture 8:** Discussion of [Fraley *et al*](https://www.nature.com/articles/ncb2062).
 
 ### Lab
 
@@ -114,7 +114,7 @@
 
 ## Week 9 (May 23–27)
 
-**Lecture 9:** Misc. Review session for Exam 2.
+**Lecture 9:** Discussion of [Sun *et al*](http://www.nature.com/doifinder/10.1038/nature11409).
 
 ### Lab
 
