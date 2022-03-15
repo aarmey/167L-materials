@@ -33,7 +33,7 @@ You will be using an acrylic mold in a polystyrene petri dish. Many times you wi
 - Plastic transfer pipettes
 - Weigh boats
 - Acrylic stencil molds in small petri dishes
-- 1 large (100 cm) plastic petri dish
+- 1 large (100 mm) plastic petri dish
 - 50 mL conical tube
 
 **Equipment**
