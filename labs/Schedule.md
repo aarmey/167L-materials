@@ -72,7 +72,7 @@
 
 ## Week 6 (May 2–6)
 
-**Lecture 6:** **Exam 1** (first hour). Cell adhesion and migration, 3D cell culture and microenvironment.
+**Lecture 6:** Discussion of [Zhang *et al*](https://doi.org/10.1038/s41551-020-0582-1).
 
 ### Lab
 
@@ -81,6 +81,7 @@
 
 ### Assignments/Due Dates:
 
+- Take home Exam 1.
 - Report for labs 5-8 due Thursday at noon.
 - Discuss independent project proposal with your TA during your lab session
 - Read paper and answer reading questions before lecture.
