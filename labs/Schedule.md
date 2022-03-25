@@ -16,6 +16,7 @@
 - Sign up for Perusall to access the course papers.
 - Sign up for a paper presentation.
 - Sign up for an equipment presentation.
+- Asynchronous lectures on purpose of lab, reading/writing papers.
 
 ## Week 2 (April 4–8)
 
@@ -42,6 +43,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- Asynchronous lecture on bioconjugation
 
 ## Week 4 (April 18–22)
 
@@ -56,6 +58,7 @@
 
 - Read paper and answer reading questions before lecture.
 - Report for labs 1–4 due Thursday at noon.
+- Asynchronous lecture on cell culture
 
 ## Week 5 (April 25–29)
 
@@ -69,6 +72,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- Asynchronous lecture on statistics
 
 ## Week 6 (May 2–6)
 
@@ -99,6 +103,7 @@
 
 - Read paper and answer reading questions before lecture.
 - Final independent project proposals due on Friday at noon
+- Asynchronous lecture on mechanics
 
 ## Week 8 (May 16–20)
 
@@ -112,6 +117,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- Asynchronous lecture on regression
 
 ## Week 9 (May 23–27)
 
