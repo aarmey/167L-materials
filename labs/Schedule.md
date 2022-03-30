@@ -139,7 +139,7 @@
 
 ### Lab
 
-- Mon/Tues: Memorial Day, no lab.
+- Mon/Tues: Memorial Day, no lab. Backup lab session if needed.
 - Wed/Thurs: (16) Instron demo.
 
 ### Assignments/Due Dates:
