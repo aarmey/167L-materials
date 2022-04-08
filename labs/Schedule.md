@@ -37,8 +37,8 @@
 
 ### Lab
 
-- Mon/Tues: [(3) Bioconjugation.](lab3.html)
-- Wed/Thurs: [(4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.](lab4.html)
+- Mon/Tues: **Cancelled.**
+- Wed/Thurs: [(3) Bioconjugation.](lab3.html)
 
 ### Assignments/Due Dates:
 
@@ -51,8 +51,8 @@
 
 ### Lab
 
-- Mon/Tues: [(5) Cell culture—Passaging and counting cells, introduction to sterile technique.](lab5.html)
-- Wed/Thurs: [(6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.](lab6.html)
+- Mon/Tues: [(4) Microcontact printing, fluorescent microscopy of patterned proteins, and contact angle measurements.](lab4.html)
+- Wed/Thurs: [(5) Cell culture—Passaging and counting cells, introduction to sterile technique.](lab5.html)
 
 ### Assignments/Due Dates:
 
@@ -66,8 +66,8 @@
 
 ### Lab
 
-- Mon/Tues: [(7) Growth kinetics, cell counting, lysis, protein content (BCA assay).](lab7.html)
-- Wed/Thurs: Review session for Exam 1.
+- Mon/Tues: [(6) Cell culture—Growth kinetics, cell counting (hemocytometer), observing cell density and gauging confluence.](lab6.html)
+- Wed/Thurs: [(7) Growth kinetics, cell counting, lysis, protein content (BCA assay).](lab7.html)
 
 ### Assignments/Due Dates:
 
