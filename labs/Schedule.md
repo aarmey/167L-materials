@@ -71,7 +71,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Report for labs 1–4 due Thursday at noon.
+- [Report for labs 1–4](Report-Guideline.html) due Thursday at noon.
 - Asynchronous lecture on statistics
 
 ## Week 6 (May 2–6)
@@ -86,7 +86,6 @@
 ### Assignments/Due Dates:
 
 - Take home Exam 1.
-- Report for labs 5-8 due Thursday at noon.
 - Discuss independent project proposal with your TA during your lab session
 - Read paper and answer reading questions before lecture.
 
@@ -102,6 +101,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- [Report for labs 5-8](Report-Guideline.html) due Thursday at noon.
 - Final independent project proposals due on Friday at noon
 - Asynchronous lecture on mechanics
 
@@ -131,7 +131,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Report for labs 9-12 due on Tuesday at noon.
+- [Report for labs 9-12](Report-Guideline.html) due on Tuesday at noon.
 
 ## Week 10 (May 30 – June 3)
 
