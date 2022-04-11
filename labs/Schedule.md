@@ -57,7 +57,6 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Report for labs 1–4 due Thursday at noon.
 - Asynchronous lecture on cell culture
 
 ## Week 5 (April 25–29)
@@ -72,6 +71,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- Report for labs 1–4 due Thursday at noon.
 - Asynchronous lecture on statistics
 
 ## Week 6 (May 2–6)
