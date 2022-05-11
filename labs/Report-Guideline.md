@@ -78,13 +78,13 @@ Follow this layout for EACH lab report. Note that each report covers multiple la
 8. Plot a graph of cell number (# of cells) versus protein amount (mg). Note the units of the x- and y-axis. What is the relationship between cell number vs. protein amount?
 9. You have previously determined the doubling time of 3T3 cells, and now you have a correlation between number of cells and amount of protein. How much protein can you expect to collect from a T25 flask of cells after culturing for 48 hours if you originally plated the flask at a density of 2,000 cells/cm<sup>2</sup>?
 10. Determine the corrected absorbance by the 0 cells/cm<sup>2</sup> group absorbance from each of your other absorbance readings, including the 0 cells/cm<sup>2</sup> readings.
-11. Generate a standard curve of the corrected absorbances on the x-axis and the cell number from your 6 serial dilutions on the y-axis (in thousands of cells/cm<sup>2</sup>). Fit the data with an appropriate trendline. Is the relationship linear or logarithmic? Are there separate ranges in the data that are more linear than the rest?
-12. Generate a standard curve of the corrected absorbances on the x-axis and the cell number from your 3 wells you seeded in the last lab on the y-axis. Fit the data with an appropriate trendline. Is the relationship linear or logarithmic?
-13. Compare your absorbance and cell # data from the serial dilutions to the plated cells from the last lab, you may overlay your data points. Do you notice any differences in the trends or do they overlay neatly along the same trendline? How might you explain their relationship?
+11. Generate a standard curve of the corrected absorbances on the x-axis and the cell number from your 3 wells you seeded in the last lab on the y-axis. Fit the data with an appropriate trendline. Is the relationship linear or logarithmic?
+12. Compare your absorbance and cell # data from the serial dilutions to the plated cells from the last lab, you may overlay your data points. Do you notice any differences in the trends or do they overlay neatly along the same trendline? How might you explain their relationship?
 
 #### Lab 8
 
-14. What range of cell concentrations would you feel comfortable measuring using this assay? Provide quantitative evidence to support your answer.
+13. What range of cell concentrations would you feel comfortable measuring using this assay? Provide quantitative evidence to support your answer.
+14. Generate a standard curve of the corrected absorbances on the x-axis and the cell number from your 6 serial dilutions on the y-axis (in thousands of cells/cm<sup>2</sup>). Fit the data with an appropriate trendline. Is the relationship linear or logarithmic? Are there separate ranges in the data that are more linear than the rest?
 15. Would you feel comfortable using this assay on cells just after trypsinizing cells? Do you think that the process of passaging cells affects their metabolic activity based on your data? Do you think this is the same for all cell types?
 16. Would you feel comfortable using the assay without creating a standard curve to compare relative changes in cell number based solely on relative absorbance values? Under what circumstances would you do this?
 
