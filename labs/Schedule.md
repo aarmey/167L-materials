@@ -131,7 +131,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- [Report for labs 9-12](Report-Guideline.html) due on Tuesday at noon.
+- [Report for labs 9-12](Report-Guideline.html) due on Thursday at noon.
 
 ## Week 10 (May 30 – June 3)
 
