@@ -85,7 +85,7 @@
 
 ### Assignments/Due Dates:
 
-- [Report for labs 5-8](Report-Guideline.html) due Thursday at noon.
+- [Report for labs 5-8](Report-Guideline.html) due Thursday at 11:59 pm.
 - Discuss independent project proposal with your TA during your lab session
 - Read paper and answer reading questions before lecture.
 
@@ -101,7 +101,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Final independent project proposals due on Friday at noon
+- Final independent project proposals due on Friday at 11:59 pm
 - Asynchronous lecture on mechanics
 
 ## Week 8 (May 22–26)
@@ -116,7 +116,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- [Report for labs 9-12](Report-Guideline.html) due on Thursday at noon.
+- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 - Asynchronous lecture on regression
 
 ## Week 9 (May 29–June 2)
@@ -149,4 +149,4 @@
 
 ## Finals
 
-Final lab reports due Thursday, June 15 at noon.
+Final lab reports due Thursday, June 15 at 11:59 pm.
