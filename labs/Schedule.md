@@ -85,7 +85,7 @@
 
 ### Assignments/Due Dates:
 
-- [Report for labs 5-8](Report-Guideline.html) due Thursday at 11:59 pm.
+
 - Discuss independent project proposal with your TA during your lab session
 - Read paper and answer reading questions before lecture.
 
@@ -101,6 +101,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- [Report for labs 5-8](Report-Guideline.html) due Thursday at 11:59 pm.
 - Final independent project proposals due on Friday at 11:59 pm
 - Asynchronous lecture on mechanics
 
