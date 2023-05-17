@@ -117,7 +117,6 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 - Asynchronous lecture on regression
 
 ## Week 9 (May 29–June 2)
@@ -132,6 +131,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 
 ## Week 10 (June 5–9)
 
