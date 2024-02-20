@@ -1,6 +1,6 @@
 # Schedule
 
-## Week 1 (April 3–7)
+## Week 1 (April 1–5)
 
 **Lecture 1:** Introduction to the course, lab safety, lab notebooks, the goals of lab, scientific manuscripts.
 
@@ -13,11 +13,10 @@
 
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
 - Complete the initial course survey on Bruin Learn.
-- Sign up for a paper presentation.
-- Sign up for an equipment presentation.
+- Sign up for a paper or equipment presentation.
 - Asynchronous lectures on purpose of lab, reading/writing papers.
 
-## Week 2 (April 10–14)
+## Week 2 (April 8–12)
 
 **Lecture 2:** Discussion of [Stewart-Ornstein et al](https://doi.org/10.1016/j.cels.2017.09.012).
 
@@ -30,7 +29,7 @@
 
 - Read paper and answer reading questions before lecture.
 
-## Week 3 (April 17–21)
+## Week 3 (April 15–19)
 
 **Lecture 3:** Discussion of [Reticker-Flynn *et al*](https://doi.org/10.1038/ncomms2128).
 
@@ -44,9 +43,11 @@
 - Read paper and answer reading questions before lecture.
 - Asynchronous lecture on bioconjugation
 
-## Week 4 (April 24–28)
+## Week 4 (April 22–26)
 
-**Lecture 4:** Discussion of [Ben-David *et al*](https://doi.org/10.1038/s41586-018-0409-3).
+**Lecture 4:** No lecture.
+
+<!-- Discussion of [Ben-David *et al*](https://doi.org/10.1038/s41586-018-0409-3). -->
 
 ### Lab
 
@@ -59,7 +60,7 @@
 - [Report for labs 1–4](Report-Guideline.html) due Thursday at noon.
 - Asynchronous lecture on cell culture
 
-## Week 5 (May 1–5)
+## Week 5 (April 29–May 3)
 
 **Lecture 5:** Discussion of [Shaffer *et al*](https://www.nature.com/articles/nature22794).
 
@@ -74,7 +75,7 @@
 - Take home Exam 1.
 - Asynchronous lecture on statistics
 
-## Week 6 (May 8–12)
+## Week 6 (May 6–10)
 
 **Lecture 6:** Discussion of [Zhang *et al*](https://doi.org/10.1038/s41551-020-0582-1).
 
@@ -89,7 +90,7 @@
 - Discuss independent project proposal with your TA during your lab session
 - Read paper and answer reading questions before lecture.
 
-## Week 7 (May 15–19)
+## Week 7 (May 13–17)
 
 **Lecture 7:** Discussion of [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
 
@@ -105,7 +106,7 @@
 - Final independent project proposals due on Friday at 11:59 pm
 - Asynchronous lecture on mechanics
 
-## Week 8 (May 22–26)
+## Week 8 (May 20–24)
 
 **Lecture 8:** Discussion of [Fraley *et al*](https://www.nature.com/articles/ncb2062).
 
@@ -119,9 +120,11 @@
 - Read paper and answer reading questions before lecture.
 - Asynchronous lecture on regression
 
-## Week 9 (May 29–June 2)
+## Week 9 (May 27–31)
 
-**Lecture 9:** Discussion of [Sun *et al*](http://www.nature.com/doifinder/10.1038/nature11409).
+**Lecture 9:** Memorial Day. No lecture.
+
+<!-- Discussion of [Sun *et al*](http://www.nature.com/doifinder/10.1038/nature11409). -->
 
 ### Lab
 
@@ -133,7 +136,7 @@
 - Read paper and answer reading questions before lecture.
 - [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 
-## Week 10 (June 5–9)
+## Week 10 (June 3–7)
 
 **Lecture 10:** Discussion of [Bournazos *et al*](https://doi.org/10.1038/s41586-020-2838-z).
 
