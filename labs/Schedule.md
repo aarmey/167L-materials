@@ -146,4 +146,4 @@ None.
 
 ## Finals
 
-Final lab reports due Thursday, June 15 at 11:59 pm.
+Final lab reports due Thursday, June 13 at 11:59 pm.
