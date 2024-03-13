@@ -28,7 +28,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Asynchronous lecture on cell culture
+- Asynchronous lecture on cell culture.
 
 ## Week 3 (April 15–19)
 
@@ -42,7 +42,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Asynchronous lecture on bioconjugation
+- Asynchronous lecture on bioconjugation.
 
 ## Week 4 (April 22–26)
 
@@ -56,7 +56,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- [Report for labs 1–4](Report-Guideline.html) due Thursday at noon.
+- [Report for labs 1–4](Report-Guideline.html) due Thursday at 11:59 pm.
 
 ## Week 5 (April 29–May 3)
 
@@ -71,7 +71,7 @@
 
 - Read paper and answer reading questions before lecture.
 - Take home Exam 1.
-- Asynchronous lecture on statistics
+- Asynchronous lecture on statistics.
 
 ## Week 6 (May 6–10)
 
@@ -84,9 +84,9 @@
 
 ### Assignments/Due Dates:
 
-
-- Discuss independent project proposal with your TA during your lab session
 - Read paper and answer reading questions before lecture.
+- Discuss independent project proposal with your TA during your lab session.
+- [Report for labs 5-8](Report-Guideline.html) due Thursday at 11:59 pm.
 
 ## Week 7 (May 13–17)
 
@@ -100,9 +100,8 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- [Report for labs 5-8](Report-Guideline.html) due Thursday at 11:59 pm.
-- Final independent project proposals due on Friday at 11:59 pm
-- Asynchronous lecture on mechanics
+- Final independent project proposals due on Friday at 11:59 pm.
+- Asynchronous lecture on mechanics.
 
 ## Week 8 (May 20–24)
 
@@ -117,6 +116,7 @@
 
 - Read paper and answer reading questions before lecture.
 - Asynchronous lecture on regression
+- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 
 ## Week 9 (May 27–31)
 
@@ -130,7 +130,6 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 
 ## Week 10 (June 3–7)
 
@@ -145,7 +144,6 @@
 
 - Read paper and answer reading questions before lecture.
 - Take home Exam 2.
-- Course evaluations must be completed online by Friday at noon.
 
 ## Finals
 
