@@ -18,7 +18,7 @@
 
 ## Week 2 (April 8–12)
 
-**Lecture 2:** Discussion of [Stewart-Ornstein et al](https://doi.org/10.1016/j.cels.2017.09.012).
+**Lecture 2:** Discussion of [Ben-David *et al*](https://doi.org/10.1038/s41586-018-0409-3).
 
 ### Lab
 
@@ -28,6 +28,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
+- Asynchronous lecture on cell culture
 
 ## Week 3 (April 15–19)
 
@@ -47,8 +48,6 @@
 
 **Lecture 4:** No lecture.
 
-<!-- Discussion of [Ben-David *et al*](https://doi.org/10.1038/s41586-018-0409-3). -->
-
 ### Lab
 
 - Mon/Tues: [(5) Cell culture—Passaging and counting cells, introduction to sterile technique.](lab5.html)
@@ -58,7 +57,6 @@
 
 - Read paper and answer reading questions before lecture.
 - [Report for labs 1–4](Report-Guideline.html) due Thursday at noon.
-- Asynchronous lecture on cell culture
 
 ## Week 5 (April 29–May 3)
 
@@ -124,8 +122,6 @@
 
 **Lecture 9:** Memorial Day. No lecture.
 
-<!-- Discussion of [Sun *et al*](http://www.nature.com/doifinder/10.1038/nature11409). -->
-
 ### Lab
 
 - Mon/Tues: Memorial Day, no lab. Backup lab session if needed.
@@ -138,7 +134,7 @@
 
 ## Week 10 (June 3–7)
 
-**Lecture 10:** Discussion of [Bournazos *et al*](https://doi.org/10.1038/s41586-020-2838-z).
+**Lecture 10:** Discussion of [Sun *et al*](http://www.nature.com/doifinder/10.1038/nature11409).
 
 ### Lab
 
