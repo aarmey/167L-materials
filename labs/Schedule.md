@@ -55,7 +55,6 @@
 
 ### Assignments/Due Dates:
 
-- Read paper and answer reading questions before lecture.
 - [Report for labs 1–4](Report-Guideline.html) due Thursday at 11:59 pm.
 
 ## Week 5 (April 29–May 3)
@@ -129,7 +128,7 @@
 
 ### Assignments/Due Dates:
 
-- Read paper and answer reading questions before lecture.
+None.
 
 ## Week 10 (June 3–7)
 
