@@ -14,7 +14,6 @@
 - Complete [Lab Safety Fundamentals Training](https://worksafe.ucla.edu/), and upload screenshot of worksafe transcript showing completion, before Lab 1.
 - Complete the initial course survey on Bruin Learn.
 - Sign up for a paper or equipment presentation.
-- Asynchronous lectures on purpose of lab, reading/writing papers.
 
 ## Week 2 (April 8–12)
 
