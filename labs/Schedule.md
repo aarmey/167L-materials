@@ -78,18 +78,31 @@
 
 ### Lab
 
+- Mon/Tues: Cancelled due to remote instruction.
+- Wed/Thurs: Cancelled due to remote instruction.
+
+### Assignments/Due Dates:
+
+- Read paper and answer reading questions before lecture.
+- [Report for labs 5-8](Report-Guideline.html) due Thursday at 11:59 pm.
+
+## Week 7 (May 13–17)
+
+**Lecture 7:** Discussion of [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
+
+### Lab
+
 - Mon/Tues: [(9) 3D encapsulation, preparing substrates for cell studies.](lab9.html)
 - Wed/Thurs: [(10) Live/dead, MTS assay on encapsulated cells, sterilizing substrates.](labA.html)
 
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Discuss independent project proposal with your TA during your lab session.
-- [Report for labs 5-8](Report-Guideline.html) due Thursday at 11:59 pm.
+- Asynchronous lecture on mechanics.
 
-## Week 7 (May 13–17)
+## Week 8 (May 20–24)
 
-**Lecture 7:** Discussion of [Engler *et al*](https://doi.org/10.1016/j.cell.2006.06.044).
+**Lecture 8:** Discussion of [Fraley *et al*](https://www.nature.com/articles/ncb2062).
 
 ### Lab
 
@@ -99,23 +112,7 @@
 ### Assignments/Due Dates:
 
 - Read paper and answer reading questions before lecture.
-- Final independent project proposals due on Friday at 11:59 pm.
-- Asynchronous lecture on mechanics.
-
-## Week 8 (May 20–24)
-
-**Lecture 8:** Discussion of [Fraley *et al*](https://www.nature.com/articles/ncb2062).
-
-### Lab
-
-- Mon/Tues: (13) Lab Practical Exam. Independent lab.
-- Wed/Thurs: (14) Independent lab.
-
-### Assignments/Due Dates:
-
-- Read paper and answer reading questions before lecture.
 - Asynchronous lecture on regression
-- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 
 ## Week 9 (May 27–31)
 
@@ -124,11 +121,11 @@
 ### Lab
 
 - Mon/Tues: Memorial Day, no lab. Backup lab session if needed.
-- Wed/Thurs: (15) Independent lab.
+- Wed/Thurs: (13) Lab Practical Exam.
 
 ### Assignments/Due Dates:
 
-None.
+- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 
 ## Week 10 (June 3–7)
 
@@ -136,7 +133,7 @@ None.
 
 ### Lab
 
-- Mon/Tues: (16) Independent lab first hour. Lab clean-up. 
+- Mon/Tues: (16) Lab clean-up. 
 - Wed/Thurs: (17) Instron demo.
 
 ### Assignments/Due Dates:
@@ -146,4 +143,4 @@ None.
 
 ## Finals
 
-Final lab reports due Thursday, June 13 at 11:59 pm.
+None.
