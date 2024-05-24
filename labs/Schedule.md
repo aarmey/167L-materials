@@ -123,10 +123,6 @@
 - Mon/Tues: Memorial Day, no lab. Backup lab session if needed.
 - Wed/Thurs: (13) Lab Practical Exam.
 
-### Assignments/Due Dates:
-
-- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
-
 ## Week 10 (June 3–7)
 
 **Lecture 10:** Discussion of [Sun *et al*](http://www.nature.com/doifinder/10.1038/nature11409).
@@ -140,6 +136,7 @@
 
 - Read paper and answer reading questions before lecture.
 - Take home Exam 2.
+- [Report for labs 9-12](Report-Guideline.html) due on Thursday at 11:59 pm.
 
 ## Finals
 
